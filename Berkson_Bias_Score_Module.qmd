@@ -1,0 +1,72 @@
+---
+title: "Berkson Bias Score Module"
+format: html
+---
+
+```{r setup, include=FALSE}
+
+pacman::p_load(learnr, tidyverse, stats, knitr, gridExtra)
+
+###import the dataset here
+
+```
+## Welcome 
+
+Please watch this intro video from ________ to learn more about the question we'll be investigating today!
+
+</iframe>
+
+## Background 
+
+This lesson will focus on the correlation between offensive rating and height. We will be begin by exploring the data and conducting some descriptive analysis and visualizations. Then we will answer our question using a linear regression. 
+
+And in this process we will___
+
+## Basketball Basic 
+
+If you aren't familiar with Basketball, consider watching this [This is an introduction video]
+
+In a typical professional basketball game there are two teams of 5 people trying to put the basketball in the basketball hoop to score points and to see who has more points at the end of 2 20 minute halfs. 
+
+Add more information about basketball basics that are important
+
+### Offensive Rating
+  
+Define both offensive rating and per 100 possession stats and a little on how offensive rating is calculated. 
+
+
+## Data Exploration and Descriptive Analysis 
+
+
+```{r head, exercise = TRUE, exercise.eval = FALSE}
+# Print the (first 1000 rows of) the data
+
+
+# Get a summary of the data
+
+
+```
+
+add code that asks questions about the dataset and what certain things meaning. 5 multiple choice questions
+
+
+### Offensive Rating and Height Correlation 
+
+
+code for the graph
+
+code for a question about the graph 
+
+
+## Berkson's Bias
+
+
+### Analyzing NBA Draftees using Linear Regression 
+
+### Interpreting the Graph Results and Berkson's Bias
+
+## Conclusion 
+
+### Berkson's Bias and College Basketball Players
+
+### Statistical Lesson
