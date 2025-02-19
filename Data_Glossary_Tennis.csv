@@ -1,0 +1,15 @@
+﻿Variable,Description
+tourney_name,Name of tennis tournament in which match occurred.
+round,"Round of named tournament in which match occurred.
+F = Finals
+SF = Semifinals
+QF = Quarterfinals
+R16 = Round of 16
+R32 = Round of 32
+R64 = Round of 64
+R128 = Round of 128"
+winner_name,Name of player winning match.
+loser_name,Name of player losing match.
+surface,"Surface the match was played on. Either Hard, Clay, or Grass."
+total_ServiceGames,Number of service games (i.e. games) in the match.
+total_aces,Number of aces in the match.

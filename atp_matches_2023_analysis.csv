@@ -1,0 +1,2209 @@
+tourney_name,round,winner_name,loser_name,surface,total_ServiceGames,total_aces
+Adelaide 1,F,Novak Djokovic,Sebastian Korda,Hard,34,22
+Adelaide 1,SF,Novak Djokovic,Daniil Medvedev,Hard,19,10
+Adelaide 1,SF,Sebastian Korda,Yoshihito Nishioka,Hard,13,9
+Adelaide 1,QF,Novak Djokovic,Denis Shapovalov,Hard,19,10
+Adelaide 1,QF,Daniil Medvedev,Karen Khachanov,Hard,18,7
+Adelaide 1,QF,Sebastian Korda,Jannik Sinner,Hard,19,13
+Adelaide 1,QF,Yoshihito Nishioka,Alexei Popyrin,Hard,32,29
+Adelaide 1,R16,Novak Djokovic,Quentin Halys,Hard,24,21
+Adelaide 1,R16,Denis Shapovalov,Roman Safiullin,Hard,19,10
+Adelaide 1,R16,Daniil Medvedev,Miomir Kecmanovic,Hard,15,7
+Adelaide 1,R16,Karen Khachanov,Jack Draper,Hard,18,13
+Adelaide 1,R16,Jannik Sinner,Thanasi Kokkinakis,Hard,22,14
+Adelaide 1,R16,Sebastian Korda,Roberto Bautista Agut,Hard,20,17
+Adelaide 1,R16,Yoshihito Nishioka,Mackenzie Mcdonald,Hard,19,3
+Adelaide 1,R16,Alexei Popyrin,Marcos Giron,Hard,29,20
+Adelaide 1,R32,Novak Djokovic,Constant Lestienne,Hard,17,7
+Adelaide 1,R32,Quentin Halys,Jordan Thompson,Hard,19,19
+Adelaide 1,R32,Roman Safiullin,Mikael Ymer,Hard,18,6
+Adelaide 1,R32,Denis Shapovalov,Rinky Hijikata,Hard,27,9
+Adelaide 1,R32,Daniil Medvedev,Lorenzo Sonego,Hard,15,6
+Adelaide 1,R32,Miomir Kecmanovic,Christopher Oconnell,Hard,20,13
+Adelaide 1,R32,Jack Draper,Soon Woo Kwon,Hard,15,10
+Adelaide 1,R32,Karen Khachanov,Pedro Cachin,Hard,18,9
+Adelaide 1,R32,Jannik Sinner,Kyle Edmund,Hard,17,6
+Adelaide 1,R32,Thanasi Kokkinakis,Maxime Cressy,Hard,24,41
+Adelaide 1,R32,Sebastian Korda,Andy Murray,Hard,21,15
+Adelaide 1,R32,Roberto Bautista Agut,Andrey Rublev,Hard,29,23
+Adelaide 1,R32,Yoshihito Nishioka,Holger Rune,Hard,28,14
+Adelaide 1,R32,Mackenzie Mcdonald,Daniel Elahi Galan,Hard,9,6
+Adelaide 1,R32,Marcos Giron,Richard Gasquet,Hard,36,23
+Adelaide 1,R32,Alexei Popyrin,Felix Auger Aliassime,Hard,22,18
+Pune,F,Tallon Griekspoor,Benjamin Bonzi,Hard,31,28
+Pune,SF,Tallon Griekspoor,Aslan Karatsev,Hard,19,14
+Pune,SF,Benjamin Bonzi,Botic Van De Zandschulp,Hard,31,19
+Pune,QF,Aslan Karatsev,Pedro Martinez,Hard,15,14
+Pune,QF,Benjamin Bonzi,Filip Krajinovic,Hard,22,13
+Pune,QF,Botic Van De Zandschulp,Maximilian Marterer,Hard,18,4
+Pune,R16,Marin Cilic,Roberto Carballes Baena,Hard,25,19
+Pune,R16,Tallon Griekspoor,Marco Cecchinato,Hard,20,10
+Pune,R16,Pedro Martinez,Sebastian Baez,Hard,25,5
+Pune,R16,Aslan Karatsev,Tim Van Rijthoven,Hard,24,19
+Pune,R16,Filip Krajinovic,Michael Mmoh,Hard,27,13
+Pune,R16,Benjamin Bonzi,Emil Ruusuvuori,Hard,19,10
+Pune,R16,Maximilian Marterer,Laslo Djere,Hard,20,17
+Pune,R16,Botic Van De Zandschulp,Flavio Cobolli,Hard,22,7
+Pune,R32,Roberto Carballes Baena,Bernabe Zapata Miralles,Hard,19,4
+Pune,R32,Marco Cecchinato,Nikoloz Basilashvili,Hard,16,5
+Pune,R32,Tallon Griekspoor,Jaume Munar,Hard,22,12
+Pune,R32,Pedro Martinez,Ramkumar Ramanathan,Hard,30,13
+Pune,R32,Tim Van Rijthoven,Radu Albot,Hard,20,16
+Pune,R32,Aslan Karatsev,Pablo Andujar,Hard,16,6
+Pune,R32,Filip Krajinovic,Sumit Nagal,Hard,30,11
+Pune,R32,Michael Mmoh,Manas Dhamne,Hard,18,3
+Pune,R32,Benjamin Bonzi,Chun Hsin Tseng,Hard,15,4
+Pune,R32,Laslo Djere,Alex Molcan,Hard,18,14
+Pune,R32,Maximilian Marterer,Elias Ymer,Hard,26,17
+Pune,R32,Flavio Cobolli,Sasi Kumar Mukund,Hard,22,7
+Auckland,F,Richard Gasquet,Cameron Norrie,Hard,30,11
+Auckland,SF,Cameron Norrie,Jenson Brooksby,Hard,19,7
+Auckland,QF,Constant Lestienne,Laslo Djere,Hard,32,13
+Auckland,QF,Richard Gasquet,David Goffin,Hard,21,14
+Auckland,QF,Jenson Brooksby,Quentin Halys,Hard,24,15
+Auckland,QF,Cameron Norrie,Marcos Giron,Hard,27,11
+Auckland,R16,Laslo Djere,Casper Ruud,Hard,30,28
+Auckland,R16,Constant Lestienne,Gregoire Barrere,Hard,31,11
+Auckland,R16,Richard Gasquet,Joao Sousa,Hard,20,8
+Auckland,R16,David Goffin,Christopher Eubanks,Hard,18,19
+Auckland,R16,Quentin Halys,Ben Shelton,Hard,17,18
+Auckland,R16,Jenson Brooksby,Diego Schwartzman,Hard,7,0
+Auckland,R16,Marcos Giron,J J Wolf,Hard,20,10
+Auckland,R16,Cameron Norrie,Jiri Lehecka,Hard,31,10
+Auckland,R32,Laslo Djere,Jaume Munar,Hard,28,11
+Auckland,R32,Constant Lestienne,Pedro Cachin,Hard,16,8
+Auckland,R32,Gregoire Barrere,John Isner,Hard,33,38
+Auckland,R32,Richard Gasquet,Kiranpal Pannu,Hard,16,13
+Auckland,R32,Christopher Eubanks,Ugo Humbert,Hard,24,15
+Auckland,R32,David Goffin,Alexander Bublik,Hard,19,7
+Auckland,R32,Ben Shelton,Sebastian Baez,Hard,19,11
+Auckland,R32,Quentin Halys,Alex Molcan,Hard,19,25
+Auckland,R32,Jenson Brooksby,Fabio Fognini,Hard,28,10
+Auckland,R32,J J Wolf,Adrian Mannarino,Hard,22,14
+Auckland,R32,Marcos Giron,Federico Coria,Hard,34,6
+Auckland,R32,Jiri Lehecka,Thiago Monteiro,Hard,21,12
+Adelaide 2,F,Soon Woo Kwon,Roberto Bautista Agut,Hard,31,16
+Adelaide 2,SF,Roberto Bautista Agut,Thanasi Kokkinakis,Hard,30,27
+Adelaide 2,SF,Soon Woo Kwon,Jack Draper,Hard,33,31
+Adelaide 2,QF,Thanasi Kokkinakis,Miomir Kecmanovic,Hard,28,25
+Adelaide 2,QF,Roberto Bautista Agut,Alejandro Davidovich Fokina,Hard,17,8
+Adelaide 2,QF,Jack Draper,Karen Khachanov,Hard,22,18
+Adelaide 2,QF,Soon Woo Kwon,Mikael Ymer,Hard,15,6
+Adelaide 2,R16,Thanasi Kokkinakis,Andrey Rublev,Hard,28,27
+Adelaide 2,R16,Miomir Kecmanovic,Jason Kubler,Hard,34,33
+Adelaide 2,R16,Roberto Bautista Agut,Robin Haase,Hard,27,17
+Adelaide 2,R16,Alejandro Davidovich Fokina,John Millman,Hard,18,5
+Adelaide 2,R16,Jack Draper,Tommy Paul,Hard,20,15
+Adelaide 2,R16,Karen Khachanov,Marc Andrea Huesler,Hard,20,7
+Adelaide 2,R16,Mikael Ymer,Mackenzie Mcdonald,Hard,30,9
+Adelaide 2,R16,Soon Woo Kwon,Pablo Carreno Busta,Hard,29,21
+Adelaide 2,R32,Thanasi Kokkinakis,Alexei Popyrin,Hard,30,22
+Adelaide 2,R32,Jason Kubler,Tomas Martin Etcheverry,Hard,24,20
+Adelaide 2,R32,Miomir Kecmanovic,Kyle Edmund,Hard,22,18
+Adelaide 2,R32,Robin Haase,Benjamin Bonzi,Hard,33,29
+Adelaide 2,R32,John Millman,Albert Ramos,Hard,31,14
+Adelaide 2,R32,Alejandro Davidovich Fokina,Brandon Nakashima,Hard,20,10
+Adelaide 2,R32,Tommy Paul,Christopher Oconnell,Hard,22,13
+Adelaide 2,R32,Jack Draper,Lorenzo Sonego,Hard,18,4
+Adelaide 2,R32,Marc Andrea Huesler,Arthur Rinderknech,Hard,32,22
+Adelaide 2,R32,Mackenzie Mcdonald,Daniel Evans,Hard,24,10
+Adelaide 2,R32,Mikael Ymer,Emil Ruusuvuori,Hard,29,5
+Adelaide 2,R32,Soon Woo Kwon,Tomas Machac,Hard,20,11
+Australian Open,R128,Rafael Nadal,Jack Draper,Hard,37,19
+Australian Open,R128,Mackenzie Mcdonald,Brandon Nakashima,Hard,53,33
+Australian Open,R128,Dalibor Svrcina,Jaume Munar,Hard,25,7
+Australian Open,R128,Yoshihito Nishioka,Mikael Ymer,Hard,30,7
+Australian Open,R128,Karen Khachanov,Bernabe Zapata Miralles,Hard,26,12
+Australian Open,R128,Jason Kubler,Sebastian Baez,Hard,30,6
+Australian Open,R128,Juncheng Shang,Oscar Otte,Hard,42,22
+Australian Open,R128,Frances Tiafoe,Daniel Altmaier,Hard,42,41
+Australian Open,R128,Hubert Hurkacz,Pedro Martinez,Hard,28,24
+Australian Open,R128,Lorenzo Sonego,Nuno Borges,Hard,40,16
+Australian Open,R128,Taro Daniel,Ernesto Escobedo,Hard,38,26
+Australian Open,R128,Denis Shapovalov,Dusan Lajovic,Hard,37,21
+Australian Open,R128,Sebastian Korda,Cristian Garin,Hard,34,21
+Australian Open,R128,Yosuke Watanuki,Arthur Rinderknech,Hard,26,18
+Australian Open,R128,John Millman,Marc Andrea Huesler,Hard,53,29
+Australian Open,R128,Daniil Medvedev,Marcos Giron,Hard,21,10
+Australian Open,R128,Stefanos Tsitsipas,Quentin Halys,Hard,31,26
+Australian Open,R128,Rinky Hijikata,Yannick Hanfmann,Hard,50,36
+Australian Open,R128,Tallon Griekspoor,Pavel Kotov,Hard,30,19
+Australian Open,R128,Botic Van De Zandschulp,Ilya Ivashka,Hard,39,17
+Australian Open,R128,Lloyd Harris,Lorenzo Musetti,Hard,49,24
+Australian Open,R128,Marton Fucsovics,Federico Coria,Hard,50,10
+Australian Open,R128,Tomas Martin Etcheverry,Gregoire Barrere,Hard,38,17
+Australian Open,R128,Jannik Sinner,Kyle Edmund,Hard,24,8
+Australian Open,R128,Cameron Norrie,Luca Van Assche,Hard,27,7
+Australian Open,R128,Constant Lestienne,Thiago Monteiro,Hard,30,15
+Australian Open,R128,Christopher Eubanks,Soon Woo Kwon,Hard,50,52
+Australian Open,R128,Jiri Lehecka,Borna Coric,Hard,27,10
+Australian Open,R128,Francisco Cerundolo,Guido Pella,Hard,29,6
+Australian Open,R128,Corentin Moutet,Yibing Wu,Hard,52,5
+Australian Open,R128,Alex Molcan,Stan Wawrinka,Hard,50,23
+Australian Open,R128,Felix Auger Aliassime,Vasek Pospisil,Hard,40,27
+Australian Open,R128,Andrey Rublev,Dominic Thiem,Hard,27,11
+Australian Open,R128,Emil Ruusuvuori,Max Purcell,Hard,41,31
+Australian Open,R128,Jeremy Chardy,Daniel Elahi Galan,Hard,36,9
+Australian Open,R128,Daniel Evans,Facundo Bagnis,Hard,40,16
+Australian Open,R128,Denis Kudla,Roman Safiullin,Hard,42,28
+Australian Open,R128,Ugo Humbert,Richard Gasquet,Hard,28,14
+Australian Open,R128,Maxime Cressy,Albert Ramos,Hard,42,39
+Australian Open,R128,Holger Rune,Filip Krajinovic,Hard,27,15
+Australian Open,R128,Pablo Carreno Busta,Pedro Cachin,Hard,31,27
+Australian Open,R128,Benjamin Bonzi,Mattia Bellucci,Hard,41,24
+Australian Open,R128,Adrian Mannarino,John Isner,Hard,40,35
+Australian Open,R128,Alex De Minaur,Yu Hsiou Hsu,Hard,25,11
+Australian Open,R128,Grigor Dimitrov,Aslan Karatsev,Hard,32,24
+Australian Open,R128,Laslo Djere,Zizou Bergs,Hard,34,14
+Australian Open,R128,Enzo Couacaud,Hugo Dellien,Hard,28,5
+Australian Open,R128,Novak Djokovic,Roberto Carballes Baena,Hard,25,13
+Australian Open,R128,Taylor Fritz,Nikoloz Basilashvili,Hard,40,41
+Australian Open,R128,Alexei Popyrin,Chun Hsin Tseng,Hard,53,33
+Australian Open,R128,Ben Shelton,Zhizhen Zhang,Hard,47,30
+Australian Open,R128,Nicolas Jarry,Miomir Kecmanovic,Hard,31,26
+Australian Open,R128,Diego Schwartzman,Oleksii Krutykh,Hard,43,17
+Australian Open,R128,J J Wolf,Jordan Thompson,Hard,40,36
+Australian Open,R128,Michael Mmoh,Laurent Lokoli,Hard,48,20
+Australian Open,R128,Alexander Zverev,Juan Pablo Varillas,Hard,51,36
+Australian Open,R128,Andy Murray,Matteo Berrettini,Hard,52,41
+Australian Open,R128,Thanasi Kokkinakis,Fabio Fognini,Hard,23,18
+Australian Open,R128,Brandon Holt,Aleksandar Vukic,Hard,44,23
+Australian Open,R128,Roberto Bautista Agut,Joao Sousa,Hard,25,10
+Australian Open,R128,Alejandro Davidovich Fokina,Alexander Bublik,Hard,46,27
+Australian Open,R128,Tommy Paul,Jan Lennard Struff,Hard,27,28
+Australian Open,R128,Jenson Brooksby,Christopher Oconnell,Hard,34,17
+Australian Open,R128,Casper Ruud,Tomas Machac,Hard,42,21
+Australian Open,R64,Mackenzie Mcdonald,Rafael Nadal,Hard,32,20
+Australian Open,R64,Yoshihito Nishioka,Dalibor Svrcina,Hard,27,3
+Australian Open,R64,Karen Khachanov,Jason Kubler,Hard,40,29
+Australian Open,R64,Frances Tiafoe,Juncheng Shang,Hard,27,21
+Australian Open,R64,Hubert Hurkacz,Lorenzo Sonego,Hard,47,14
+Australian Open,R64,Denis Shapovalov,Taro Daniel,Hard,33,11
+Australian Open,R64,Sebastian Korda,Yosuke Watanuki,Hard,30,16
+Australian Open,R64,Daniil Medvedev,John Millman,Hard,28,10
+Australian Open,R64,Stefanos Tsitsipas,Rinky Hijikata,Hard,23,9
+Australian Open,R64,Tallon Griekspoor,Botic Van De Zandschulp,Hard,30,17
+Australian Open,R64,Marton Fucsovics,Lloyd Harris,Hard,39,8
+Australian Open,R64,Jannik Sinner,Tomas Martin Etcheverry,Hard,25,12
+Australian Open,R64,Cameron Norrie,Constant Lestienne,Hard,39,17
+Australian Open,R64,Jiri Lehecka,Christopher Eubanks,Hard,38,12
+Australian Open,R64,Francisco Cerundolo,Corentin Moutet,Hard,39,3
+Australian Open,R64,Felix Auger Aliassime,Alex Molcan,Hard,43,27
+Australian Open,R64,Andrey Rublev,Emil Ruusuvuori,Hard,39,25
+Australian Open,R64,Daniel Evans,Jeremy Chardy,Hard,27,14
+Australian Open,R64,Ugo Humbert,Denis Kudla,Hard,38,23
+Australian Open,R64,Holger Rune,Maxime Cressy,Hard,32,20
+Australian Open,R64,Benjamin Bonzi,Pablo Carreno Busta,Hard,51,27
+Australian Open,R64,Alex De Minaur,Adrian Mannarino,Hard,39,5
+Australian Open,R64,Grigor Dimitrov,Laslo Djere,Hard,23,13
+Australian Open,R64,Novak Djokovic,Enzo Couacaud,Hard,33,16
+Australian Open,R64,Alexei Popyrin,Taylor Fritz,Hard,54,40
+Australian Open,R64,Ben Shelton,Nicolas Jarry,Hard,36,18
+Australian Open,R64,J J Wolf,Diego Schwartzman,Hard,27,18
+Australian Open,R64,Michael Mmoh,Alexander Zverev,Hard,39,26
+Australian Open,R64,Andy Murray,Thanasi Kokkinakis,Hard,55,47
+Australian Open,R64,Roberto Bautista Agut,Brandon Holt,Hard,43,26
+Australian Open,R64,Tommy Paul,Alejandro Davidovich Fokina,Hard,47,24
+Australian Open,R64,Jenson Brooksby,Casper Ruud,Hard,41,7
+Australian Open,R32,Yoshihito Nishioka,Mackenzie Mcdonald,Hard,29,10
+Australian Open,R32,Karen Khachanov,Frances Tiafoe,Hard,40,35
+Australian Open,R32,Hubert Hurkacz,Denis Shapovalov,Hard,48,36
+Australian Open,R32,Sebastian Korda,Daniil Medvedev,Hard,33,12
+Australian Open,R32,Stefanos Tsitsipas,Tallon Griekspoor,Hard,29,13
+Australian Open,R32,Jannik Sinner,Marton Fucsovics,Hard,41,9
+Australian Open,R32,Jiri Lehecka,Cameron Norrie,Hard,47,13
+Australian Open,R32,Felix Auger Aliassime,Francisco Cerundolo,Hard,33,12
+Australian Open,R32,Andrey Rublev,Daniel Evans,Hard,27,13
+Australian Open,R32,Holger Rune,Ugo Humbert,Hard,30,14
+Australian Open,R32,Alex De Minaur,Benjamin Bonzi,Hard,27,14
+Australian Open,R32,Novak Djokovic,Grigor Dimitrov,Hard,31,26
+Australian Open,R32,Ben Shelton,Alexei Popyrin,Hard,31,26
+Australian Open,R32,J J Wolf,Michael Mmoh,Hard,25,16
+Australian Open,R32,Roberto Bautista Agut,Andy Murray,Hard,38,12
+Australian Open,R32,Tommy Paul,Jenson Brooksby,Hard,26,9
+Australian Open,R16,Karen Khachanov,Yoshihito Nishioka,Hard,24,16
+Australian Open,R16,Sebastian Korda,Hubert Hurkacz,Hard,45,27
+Australian Open,R16,Stefanos Tsitsipas,Jannik Sinner,Hard,48,23
+Australian Open,R16,Jiri Lehecka,Felix Auger Aliassime,Hard,43,29
+Australian Open,R16,Andrey Rublev,Holger Rune,Hard,49,30
+Australian Open,R16,Novak Djokovic,Alex De Minaur,Hard,23,7
+Australian Open,R16,Ben Shelton,J J Wolf,Hard,52,42
+Australian Open,R16,Tommy Paul,Roberto Bautista Agut,Hard,38,13
+Australian Open,QF,Karen Khachanov,Sebastian Korda,Hard,24,16
+Australian Open,QF,Stefanos Tsitsipas,Jiri Lehecka,Hard,31,16
+Australian Open,QF,Novak Djokovic,Andrey Rublev,Hard,25,20
+Australian Open,QF,Tommy Paul,Ben Shelton,Hard,43,31
+Australian Open,SF,Stefanos Tsitsipas,Karen Khachanov,Hard,43,28
+Australian Open,SF,Novak Djokovic,Tommy Paul,Hard,27,16
+Australian Open,F,Novak Djokovic,Stefanos Tsitsipas,Hard,33,22
+Cordoba,F,Sebastian Baez,Federico Coria,Clay,25,1
+Cordoba,SF,Sebastian Baez,Hugo Dellien,Clay,20,5
+Cordoba,SF,Federico Coria,Albert Ramos,Clay,22,9
+Cordoba,QF,Hugo Dellien,Juan Manuel Cerundolo,Clay,28,2
+Cordoba,QF,Sebastian Baez,Tomas Barrios Vera,Clay,23,8
+Cordoba,QF,Albert Ramos,Joao Sousa,Clay,25,6
+Cordoba,QF,Federico Coria,Francisco Cerundolo,Clay,12,5
+Cordoba,R16,Juan Manuel Cerundolo,Diego Schwartzman,Clay,19,7
+Cordoba,R16,Hugo Dellien,Guido Pella,Clay,19,5
+Cordoba,R16,Sebastian Baez,Luciano Darderi,Clay,19,5
+Cordoba,R16,Tomas Barrios Vera,Bernabe Zapata Miralles,Clay,31,1
+Cordoba,R16,Joao Sousa,Cristian Garin,Clay,24,3
+Cordoba,R16,Albert Ramos,Dusan Lajovic,Clay,26,8
+Cordoba,R16,Federico Coria,Marco Cecchinato,Clay,13,2
+Cordoba,R16,Francisco Cerundolo,Federico Delbonis,Clay,30,9
+Cordoba,R32,Juan Manuel Cerundolo,Pablo Andujar,Clay,11,1
+Cordoba,R32,Guido Pella,Andrea Vavassori,Clay,16,3
+Cordoba,R32,Hugo Dellien,Pedro Cachin,Clay,19,6
+Cordoba,R32,Luciano Darderi,Hugo Gaston,Clay,19,8
+Cordoba,R32,Tomas Barrios Vera,Daniel Elahi Galan,Clay,20,8
+Cordoba,R32,Bernabe Zapata Miralles,Roberto Carballes Baena,Clay,33,9
+Cordoba,R32,Cristian Garin,Pedro Martinez,Clay,26,7
+Cordoba,R32,Joao Sousa,Tomas Martin Etcheverry,Clay,31,16
+Cordoba,R32,Dusan Lajovic,Juan Pablo Varillas,Clay,21,7
+Cordoba,R32,Federico Coria,Thiago Monteiro,Clay,27,16
+Cordoba,R32,Marco Cecchinato,Facundo Bagnis,Clay,20,11
+Cordoba,R32,Federico Delbonis,Alejandro Tabilo,Clay,32,17
+Dallas,F,Yibing Wu,John Isner,Hard,36,51
+Dallas,SF,Yibing Wu,Taylor Fritz,Hard,34,26
+Dallas,SF,John Isner,J J Wolf,Hard,33,45
+Dallas,QF,Taylor Fritz,Marcos Giron,Hard,30,15
+Dallas,QF,Yibing Wu,Adrian Mannarino,Hard,19,10
+Dallas,QF,John Isner,Emilio Gomez,Hard,24,35
+Dallas,QF,J J Wolf,Frances Tiafoe,Hard,29,25
+Dallas,R16,Taylor Fritz,Jack Sock,Hard,22,18
+Dallas,R16,Marcos Giron,Oscar Otte,Hard,19,12
+Dallas,R16,Yibing Wu,Denis Shapovalov,Hard,22,10
+Dallas,R16,Adrian Mannarino,Jordan Thompson,Hard,20,18
+Dallas,R16,John Isner,Daniel Altmaier,Hard,21,27
+Dallas,R16,Emilio Gomez,Miomir Kecmanovic,Hard,30,18
+Dallas,R16,J J Wolf,Radu Albot,Hard,21,16
+Dallas,R16,Frances Tiafoe,Mackenzie Mcdonald,Hard,16,9
+Dallas,R32,Jack Sock,Ilya Ivashka,Hard,32,16
+Dallas,R32,Oscar Otte,Christopher Eubanks,Hard,28,21
+Dallas,R32,Marcos Giron,Alex Rybakov,Hard,29,17
+Dallas,R32,Yibing Wu,Michael Mmoh,Hard,27,21
+Dallas,R32,Jordan Thompson,Denis Kudla,Hard,19,12
+Dallas,R32,Adrian Mannarino,Steve Johnson,Hard,20,23
+Dallas,R32,John Isner,Chun Hsin Tseng,Hard,24,27
+Dallas,R32,Daniel Altmaier,Zachary Svajda,Hard,18,12
+Dallas,R32,Emilio Gomez,Gabriel Diallo,Hard,34,26
+Dallas,R32,J J Wolf,Brandon Holt,Hard,18,16
+Dallas,R32,Radu Albot,Liam Krall,Hard,26,12
+Dallas,R32,Mackenzie Mcdonald,Fernando Verdasco,Hard,15,3
+Montpellier,F,Jannik Sinner,Maxime Cressy,Hard,21,14
+Montpellier,SF,Maxime Cressy,Holger Rune,Hard,36,23
+Montpellier,SF,Jannik Sinner,Arthur Fils,Hard,20,11
+Montpellier,QF,Holger Rune,Gregoire Barrere,Hard,24,9
+Montpellier,QF,Maxime Cressy,Borna Coric,Hard,22,24
+Montpellier,QF,Arthur Fils,Quentin Halys,Hard,21,16
+Montpellier,QF,Jannik Sinner,Lorenzo Sonego,Hard,18,4
+Montpellier,R16,Holger Rune,Marc Andrea Huesler,Hard,20,9
+Montpellier,R16,Gregoire Barrere,Nikoloz Basilashvili,Hard,19,6
+Montpellier,R16,Borna Coric,Arthur Rinderknech,Hard,21,16
+Montpellier,R16,Maxime Cressy,Emil Ruusuvuori,Hard,20,19
+Montpellier,R16,Quentin Halys,Alejandro Davidovich Fokina,Hard,18,14
+Montpellier,R16,Arthur Fils,Roberto Bautista Agut,Hard,19,11
+Montpellier,R16,Lorenzo Sonego,Filip Krajinovic,Hard,19,7
+Montpellier,R32,Marc Andrea Huesler,Luca Van Assche,Hard,27,15
+Montpellier,R32,Nikoloz Basilashvili,Constant Lestienne,Hard,32,11
+Montpellier,R32,Gregoire Barrere,Alexander Bublik,Hard,34,24
+Montpellier,R32,Arthur Rinderknech,Luca Nardi,Hard,20,12
+Montpellier,R32,Maxime Cressy,Antoine Bellier,Hard,17,17
+Montpellier,R32,Emil Ruusuvuori,Mikael Ymer,Hard,16,4
+Montpellier,R32,Alejandro Davidovich Fokina,Ugo Humbert,Hard,19,6
+Montpellier,R32,Quentin Halys,Clement Chidekh,Hard,32,26
+Montpellier,R32,Arthur Fils,Richard Gasquet,Hard,24,10
+Montpellier,R32,Lorenzo Sonego,Benjamin Bonzi,Hard,19,5
+Montpellier,R32,Filip Krajinovic,Aslan Karatsev,Hard,29,18
+Montpellier,R32,Marton Fucsovics,Geoffrey Blancaneaux,Hard,30,2
+Delray Beach,F,Taylor Fritz,Miomir Kecmanovic,Hard,26,16
+Delray Beach,SF,Taylor Fritz,Mackenzie Mcdonald,Hard,21,15
+Delray Beach,SF,Miomir Kecmanovic,Radu Albot,Hard,29,8
+Delray Beach,QF,Taylor Fritz,Adrian Mannarino,Hard,22,11
+Delray Beach,QF,Mackenzie Mcdonald,Michael Mmoh,Hard,28,6
+Delray Beach,QF,Miomir Kecmanovic,Marcos Giron,Hard,21,9
+Delray Beach,QF,Radu Albot,Tommy Paul,Hard,16,8
+Delray Beach,R16,Taylor Fritz,Emilio Gomez,Hard,19,12
+Delray Beach,R16,Adrian Mannarino,J J Wolf,Hard,20,14
+Delray Beach,R16,Michael Mmoh,Denis Shapovalov,Hard,30,6
+Delray Beach,R16,Mackenzie Mcdonald,Yoshihito Nishioka,Hard,26,14
+Delray Beach,R16,Marcos Giron,Matija Pecotic,Hard,18,3
+Delray Beach,R16,Miomir Kecmanovic,Nuno Borges,Hard,21,7
+Delray Beach,R16,Radu Albot,Aleksandar Vukic,Hard,20,5
+Delray Beach,R16,Tommy Paul,Denis Kudla,Hard,19,10
+Delray Beach,R32,Emilio Gomez,Tung Lin Wu,Hard,22,6
+Delray Beach,R32,Adrian Mannarino,Daniel Altmaier,Hard,29,23
+Delray Beach,R32,J J Wolf,Ilya Ivashka,Hard,21,6
+Delray Beach,R32,Michael Mmoh,Aleksandar Kovacevic,Hard,28,15
+Delray Beach,R32,Mackenzie Mcdonald,Taro Daniel,Hard,16,2
+Delray Beach,R32,Yoshihito Nishioka,Oscar Otte,Hard,25,16
+Delray Beach,R32,Marcos Giron,Ben Shelton,Hard,20,9
+Delray Beach,R32,Matija Pecotic,Jack Sock,Hard,26,13
+Delray Beach,R32,Nuno Borges,Steve Johnson,Hard,29,21
+Delray Beach,R32,Aleksandar Vukic,Christopher Eubanks,Hard,31,15
+Delray Beach,R32,Radu Albot,Fernando Verdasco,Hard,24,5
+Delray Beach,R32,Denis Kudla,Jordan Thompson,Hard,31,21
+Buenos Aires,F,Carlos Alcaraz,Cameron Norrie,Clay,21,5
+Buenos Aires,SF,Carlos Alcaraz,Bernabe Zapata Miralles,Clay,16,4
+Buenos Aires,SF,Cameron Norrie,Juan Pablo Varillas,Clay,22,8
+Buenos Aires,QF,Carlos Alcaraz,Dusan Lajovic,Clay,18,2
+Buenos Aires,QF,Bernabe Zapata Miralles,Francisco Cerundolo,Clay,30,3
+Buenos Aires,QF,Juan Pablo Varillas,Lorenzo Musetti,Clay,20,4
+Buenos Aires,QF,Cameron Norrie,Tomas Martin Etcheverry,Clay,27,10
+Buenos Aires,R16,Carlos Alcaraz,Laslo Djere,Clay,26,10
+Buenos Aires,R16,Dusan Lajovic,Camilo Ugo Carabelli,Clay,16,0
+Buenos Aires,R16,Bernabe Zapata Miralles,Diego Schwartzman,Clay,16,0
+Buenos Aires,R16,Francisco Cerundolo,Jaume Munar,Clay,15,1
+Buenos Aires,R16,Juan Pablo Varillas,Dominic Thiem,Clay,20,1
+Buenos Aires,R16,Lorenzo Musetti,Pedro Cachin,Clay,17,2
+Buenos Aires,R16,Tomas Martin Etcheverry,Roberto Carballes Baena,Clay,25,7
+Buenos Aires,R16,Cameron Norrie,Facundo Diaz Acosta,Clay,34,10
+Buenos Aires,R32,Laslo Djere,Fabio Fognini,Clay,20,4
+Buenos Aires,R32,Camilo Ugo Carabelli,Daniel Elahi Galan,Clay,21,1
+Buenos Aires,R32,Dusan Lajovic,Sebastian Baez,Clay,30,4
+Buenos Aires,R32,Bernabe Zapata Miralles,Pedro Martinez,Clay,26,4
+Buenos Aires,R32,Jaume Munar,Guido Pella,Clay,22,2
+Buenos Aires,R32,Francisco Cerundolo,Yannick Hanfmann,Clay,30,5
+Buenos Aires,R32,Dominic Thiem,Alex Molcan,Clay,21,9
+Buenos Aires,R32,Juan Pablo Varillas,Joao Sousa,Clay,20,4
+Buenos Aires,R32,Pedro Cachin,Thiago Monteiro,Clay,22,8
+Buenos Aires,R32,Roberto Carballes Baena,Albert Ramos,Clay,22,13
+Buenos Aires,R32,Tomas Martin Etcheverry,Hugo Dellien,Clay,25,10
+Buenos Aires,R32,Facundo Diaz Acosta,Federico Coria,Clay,24,3
+Rotterdam,F,Daniil Medvedev,Jannik Sinner,Hard,28,6
+Rotterdam,SF,Jannik Sinner,Tallon Griekspoor,Hard,24,11
+Rotterdam,SF,Daniil Medvedev,Grigor Dimitrov,Hard,15,8
+Rotterdam,QF,Jannik Sinner,Stan Wawrinka,Hard,16,6
+Rotterdam,QF,Tallon Griekspoor,Gijs Brouwer,Hard,20,13
+Rotterdam,QF,Daniil Medvedev,Felix Auger Aliassime,Hard,18,5
+Rotterdam,QF,Grigor Dimitrov,Alex De Minaur,Hard,30,10
+Rotterdam,R16,Jannik Sinner,Stefanos Tsitsipas,Hard,19,4
+Rotterdam,R16,Stan Wawrinka,Richard Gasquet,Hard,18,12
+Rotterdam,R16,Gijs Brouwer,Holger Rune,Hard,14,9
+Rotterdam,R16,Tallon Griekspoor,Alexander Zverev,Hard,29,17
+Rotterdam,R16,Daniil Medvedev,Botic Van De Zandschulp,Hard,16,6
+Rotterdam,R16,Felix Auger Aliassime,Gregoire Barrere,Hard,19,12
+Rotterdam,R16,Grigor Dimitrov,Hubert Hurkacz,Hard,24,27
+Rotterdam,R16,Alex De Minaur,Maxime Cressy,Hard,30,19
+Rotterdam,R32,Stefanos Tsitsipas,Emil Ruusuvuori,Hard,19,11
+Rotterdam,R32,Jannik Sinner,Benjamin Bonzi,Hard,24,15
+Rotterdam,R32,Stan Wawrinka,Alexander Bublik,Hard,22,10
+Rotterdam,R32,Richard Gasquet,Pablo Carreno Busta,Hard,28,23
+Rotterdam,R32,Holger Rune,Constant Lestienne,Hard,20,5
+Rotterdam,R32,Gijs Brouwer,Marc Andrea Huesler,Hard,21,13
+Rotterdam,R32,Tallon Griekspoor,Mikael Ymer,Hard,24,11
+Rotterdam,R32,Alexander Zverev,Soon Woo Kwon,Hard,22,14
+Rotterdam,R32,Daniil Medvedev,Alejandro Davidovich Fokina,Hard,26,10
+Rotterdam,R32,Botic Van De Zandschulp,Quentin Halys,Hard,34,20
+Rotterdam,R32,Gregoire Barrere,David Goffin,Hard,18,4
+Rotterdam,R32,Felix Auger Aliassime,Lorenzo Sonego,Hard,17,14
+Rotterdam,R32,Hubert Hurkacz,Roberto Bautista Agut,Hard,36,28
+Rotterdam,R32,Grigor Dimitrov,Aslan Karatsev,Hard,16,8
+Rotterdam,R32,Maxime Cressy,Tim Van Rijthoven,Hard,30,34
+Rotterdam,R32,Alex De Minaur,Andrey Rublev,Hard,20,10
+Doha,F,Daniil Medvedev,Andy Murray,Hard,20,7
+Doha,SF,Andy Murray,Jiri Lehecka,Hard,27,15
+Doha,SF,Daniil Medvedev,Felix Auger Aliassime,Hard,22,11
+Doha,QF,Jiri Lehecka,Andrey Rublev,Hard,29,12
+Doha,QF,Andy Murray,Alexandre Muller,Hard,25,12
+Doha,QF,Daniil Medvedev,Christopher Oconnell,Hard,30,8
+Doha,QF,Felix Auger Aliassime,Alejandro Davidovich Fokina,Hard,22,10
+Doha,R16,Andrey Rublev,Tallon Griekspoor,Hard,26,16
+Doha,R16,Jiri Lehecka,Emil Ruusuvuori,Hard,20,11
+Doha,R16,Andy Murray,Alexander Zverev,Hard,32,13
+Doha,R16,Alexandre Muller,Botic Van De Zandschulp,Hard,18,3
+Doha,R16,Christopher Oconnell,Roberto Bautista Agut,Hard,31,16
+Doha,R16,Daniil Medvedev,Liam Broady,Hard,19,6
+Doha,R16,Alejandro Davidovich Fokina,Soon Woo Kwon,Hard,17,4
+Doha,R16,Felix Auger Aliassime,Jason Kubler,Hard,27,19
+Doha,R32,Tallon Griekspoor,Quentin Halys,Hard,34,35
+Doha,R32,Jiri Lehecka,Damir Dzumhur,Hard,21,8
+Doha,R32,Emil Ruusuvuori,Daniel Evans,Hard,22,9
+Doha,R32,Andy Murray,Lorenzo Sonego,Hard,29,9
+Doha,R32,Alexandre Muller,Nikoloz Basilashvili,Hard,34,13
+Doha,R32,Botic Van De Zandschulp,Ilya Ivashka,Hard,20,8
+Doha,R32,Roberto Bautista Agut,Marton Fucsovics,Hard,34,9
+Doha,R32,Christopher Oconnell,Fernando Verdasco,Hard,22,6
+Doha,R32,Liam Broady,Oleksii Krutykh,Hard,28,9
+Doha,R32,Alejandro Davidovich Fokina,Constant Lestienne,Hard,19,6
+Doha,R32,Soon Woo Kwon,Abedallah Shelbayh,Hard,28,20
+Doha,R32,Jason Kubler,Aslan Karatsev,Hard,13,9
+Rio De Janeiro,F,Cameron Norrie,Carlos Alcaraz,Clay,34,7
+Rio De Janeiro,SF,Carlos Alcaraz,Nicolas Jarry,Clay,30,9
+Rio De Janeiro,SF,Cameron Norrie,Bernabe Zapata Miralles,Clay,29,13
+Rio De Janeiro,QF,Carlos Alcaraz,Dusan Lajovic,Clay,22,2
+Rio De Janeiro,QF,Nicolas Jarry,Sebastian Baez,Clay,21,8
+Rio De Janeiro,QF,Bernabe Zapata Miralles,Albert Ramos,Clay,28,5
+Rio De Janeiro,QF,Cameron Norrie,Hugo Dellien,Clay,27,5
+Rio De Janeiro,R16,Carlos Alcaraz,Fabio Fognini,Clay,30,3
+Rio De Janeiro,R16,Dusan Lajovic,Laslo Djere,Clay,18,2
+Rio De Janeiro,R16,Nicolas Jarry,Pedro Martinez,Clay,16,9
+Rio De Janeiro,R16,Sebastian Baez,Juan Pablo Varillas,Clay,24,4
+Rio De Janeiro,R16,Albert Ramos,Daniel Elahi Galan,Clay,18,7
+Rio De Janeiro,R16,Bernabe Zapata Miralles,Francisco Cerundolo,Clay,24,2
+Rio De Janeiro,R16,Hugo Dellien,Alex Molcan,Clay,23,6
+Rio De Janeiro,R16,Cameron Norrie,Thiago Monteiro,Clay,24,13
+Rio De Janeiro,R32,Carlos Alcaraz,Mateus Alves,Clay,20,9
+Rio De Janeiro,R32,Fabio Fognini,Tomas Barrios Vera,Clay,17,5
+Rio De Janeiro,R32,Laslo Djere,Facundo Bagnis,Clay,13,8
+Rio De Janeiro,R32,Dusan Lajovic,Diego Schwartzman,Clay,17,4
+Rio De Janeiro,R32,Nicolas Jarry,Lorenzo Musetti,Clay,17,8
+Rio De Janeiro,R32,Pedro Martinez,Cristian Garin,Clay,22,10
+Rio De Janeiro,R32,Juan Pablo Varillas,Hugo Gaston,Clay,22,10
+Rio De Janeiro,R32,Sebastian Baez,Thomaz Bellucci,Clay,17,1
+Rio De Janeiro,R32,Albert Ramos,Tomas Martin Etcheverry,Clay,32,13
+Rio De Janeiro,R32,Daniel Elahi Galan,Pedro Cachin,Clay,22,9
+Rio De Janeiro,R32,Bernabe Zapata Miralles,Jaume Munar,Clay,21,1
+Rio De Janeiro,R32,Francisco Cerundolo,Roberto Carballes Baena,Clay,28,2
+Rio De Janeiro,R32,Alex Molcan,Joao Fonseca,Clay,15,2
+Rio De Janeiro,R32,Hugo Dellien,Joao Sousa,Clay,14,2
+Rio De Janeiro,R32,Thiago Monteiro,Dominic Thiem,Clay,28,14
+Rio De Janeiro,R32,Cameron Norrie,Juan Manuel Cerundolo,Clay,19,7
+Marseille,F,Hubert Hurkacz,Benjamin Bonzi,Hard,21,23
+Marseille,SF,Hubert Hurkacz,Alexander Bublik,Hard,22,34
+Marseille,SF,Benjamin Bonzi,Arthur Fils,Hard,20,11
+Marseille,QF,Hubert Hurkacz,Mikael Ymer,Hard,30,24
+Marseille,QF,Alexander Bublik,Grigor Dimitrov,Hard,33,30
+Marseille,QF,Benjamin Bonzi,Alex De Minaur,Hard,18,5
+Marseille,QF,Arthur Fils,Stan Wawrinka,Hard,17,9
+Marseille,R16,Hubert Hurkacz,Leandro Riedi,Hard,27,14
+Marseille,R16,Grigor Dimitrov,Gijs Brouwer,Hard,17,12
+Marseille,R16,Alexander Bublik,Gregoire Barrere,Hard,18,7
+Marseille,R16,Benjamin Bonzi,Maxime Cressy,Hard,31,32
+Marseille,R16,Alex De Minaur,Alexander Ritschard,Hard,18,11
+Marseille,R16,Stan Wawrinka,Richard Gasquet,Hard,30,19
+Marseille,R32,Leandro Riedi,Arthur Rinderknech,Hard,19,16
+Marseille,R32,Mikael Ymer,Radu Albot,Hard,21,5
+Marseille,R32,David Goffin,Lukas Klein,Hard,18,7
+Marseille,R32,Gijs Brouwer,Elias Ymer,Hard,30,11
+Marseille,R32,Alexander Bublik,Filip Krajinovic,Hard,31,22
+Marseille,R32,Gregoire Barrere,Marc Andrea Huesler,Hard,17,12
+Marseille,R32,Maxime Cressy,Geoffrey Blancaneaux,Hard,33,31
+Marseille,R32,Benjamin Bonzi,Luca Van Assche,Hard,24,16
+Marseille,R32,Alexander Ritschard,Pablo Andujar,Hard,21,4
+Marseille,R32,Richard Gasquet,Laurent Lokoli,Hard,32,20
+Marseille,R32,Stan Wawrinka,Zizou Bergs,Hard,32,22
+Marseille,R32,Arthur Fils,Roman Safiullin,Hard,19,9
+Acapulco,F,Alex De Minaur,Tommy Paul,Hard,26,3
+Acapulco,SF,Tommy Paul,Taylor Fritz,Hard,33,13
+Acapulco,SF,Alex De Minaur,Holger Rune,Hard,29,7
+Acapulco,QF,Tommy Paul,Mackenzie Mcdonald,Hard,16,3
+Acapulco,QF,Taylor Fritz,Frances Tiafoe,Hard,19,11
+Acapulco,QF,Holger Rune,Matteo Berrettini,Hard,7,2
+Acapulco,QF,Alex De Minaur,Taro Daniel,Hard,16,2
+Acapulco,R16,Mackenzie Mcdonald,Brandon Nakashima,Hard,14,2
+Acapulco,R16,Tommy Paul,Michael Mmoh,Hard,14,6
+Acapulco,R16,Taylor Fritz,Denis Shapovalov,Hard,20,12
+Acapulco,R16,Frances Tiafoe,Feliciano Lopez,Hard,20,16
+Acapulco,R16,Matteo Berrettini,Elias Ymer,Hard,18,5
+Acapulco,R16,Holger Rune,Nuno Borges,Hard,14,8
+Acapulco,R16,Alex De Minaur,Jacopo Berrettini,Hard,13,3
+Acapulco,R16,Taro Daniel,Casper Ruud,Hard,32,10
+Acapulco,R32,Mackenzie Mcdonald,Luciano Darderi,Hard,18,18
+Acapulco,R32,Brandon Nakashima,Daniel Altmaier,Hard,25,7
+Acapulco,R32,Michael Mmoh,Marcos Giron,Hard,19,5
+Acapulco,R32,Tommy Paul,Emilio Gomez,Hard,19,4
+Acapulco,R32,Taylor Fritz,John Isner,Hard,28,13
+Acapulco,R32,Denis Shapovalov,Miomir Kecmanovic,Hard,30,9
+Acapulco,R32,Feliciano Lopez,Christopher Eubanks,Hard,22,20
+Acapulco,R32,Frances Tiafoe,Yoshihito Nishioka,Hard,22,11
+Acapulco,R32,Elias Ymer,Adrian Mannarino,Hard,31,6
+Acapulco,R32,Matteo Berrettini,Alex Molcan,Hard,7,5
+Acapulco,R32,Nuno Borges,Nick Chappell,Hard,21,7
+Acapulco,R32,Holger Rune,Ben Shelton,Hard,30,14
+Acapulco,R32,Alex De Minaur,Rodrigo Pacheco Mendez,Hard,15,4
+Acapulco,R32,Jacopo Berrettini,Oscar Otte,Hard,24,8
+Acapulco,R32,Taro Daniel,J J Wolf,Hard,20,4
+Acapulco,R32,Casper Ruud,Guido Andreozzi,Hard,32,17
+Dubai,F,Daniil Medvedev,Andrey Rublev,Hard,16,12
+Dubai,SF,Daniil Medvedev,Novak Djokovic,Hard,20,13
+Dubai,SF,Andrey Rublev,Alexander Zverev,Hard,21,14
+Dubai,QF,Novak Djokovic,Hubert Hurkacz,Hard,21,11
+Dubai,QF,Daniil Medvedev,Borna Coric,Hard,17,4
+Dubai,QF,Alexander Zverev,Lorenzo Sonego,Hard,22,11
+Dubai,QF,Andrey Rublev,Botic Van De Zandschulp,Hard,21,16
+Dubai,R16,Novak Djokovic,Tallon Griekspoor,Hard,17,20
+Dubai,R16,Hubert Hurkacz,Pavel Kotov,Hard,19,12
+Dubai,R16,Daniil Medvedev,Alexander Bublik,Hard,18,10
+Dubai,R16,Borna Coric,Thanasi Kokkinakis,Hard,33,23
+Dubai,R16,Alexander Zverev,Christopher Oconnell,Hard,22,15
+Dubai,R16,Lorenzo Sonego,Felix Auger Aliassime,Hard,22,8
+Dubai,R16,Botic Van De Zandschulp,Mikael Ymer,Hard,27,9
+Dubai,R16,Andrey Rublev,Alejandro Davidovich Fokina,Hard,31,20
+Dubai,R32,Novak Djokovic,Tomas Machac,Hard,30,18
+Dubai,R32,Tallon Griekspoor,Constant Lestienne,Hard,27,22
+Dubai,R32,Pavel Kotov,Alexei Popyrin,Hard,33,15
+Dubai,R32,Hubert Hurkacz,Alexander Shevchenko,Hard,30,21
+Dubai,R32,Daniil Medvedev,Matteo Arnaldi,Hard,18,6
+Dubai,R32,Alexander Bublik,Alexandar Lazarov,Hard,8,3
+Dubai,R32,Thanasi Kokkinakis,Quentin Halys,Hard,22,23
+Dubai,R32,Borna Coric,Daniel Evans,Hard,4,5
+Dubai,R32,Alexander Zverev,Jiri Lehecka,Hard,29,17
+Dubai,R32,Christopher Oconnell,Emil Ruusuvuori,Hard,22,15
+Dubai,R32,Lorenzo Sonego,Marc Andrea Huesler,Hard,21,13
+Dubai,R32,Felix Auger Aliassime,Maxime Cressy,Hard,30,40
+Dubai,R32,Botic Van De Zandschulp,Karen Khachanov,Hard,20,12
+Dubai,R32,Mikael Ymer,Francesco Passaro,Hard,17,1
+Dubai,R32,Alejandro Davidovich Fokina,Malek Jaziri,Hard,14,7
+Dubai,R32,Andrey Rublev,Filip Krajinovic,Hard,20,10
+Santiago,F,Nicolas Jarry,Tomas Martin Etcheverry,Clay,32,15
+Santiago,SF,Nicolas Jarry,Jaume Munar,Clay,26,11
+Santiago,SF,Tomas Martin Etcheverry,Sebastian Baez,Clay,21,4
+Santiago,QF,Jaume Munar,Thiago Monteiro,Clay,26,9
+Santiago,QF,Nicolas Jarry,Yannick Hanfmann,Clay,28,12
+Santiago,QF,Sebastian Baez,Laslo Djere,Clay,22,6
+Santiago,QF,Tomas Martin Etcheverry,Dusan Lajovic,Clay,15,6
+Santiago,R16,Jaume Munar,Lorenzo Musetti,Clay,20,2
+Santiago,R16,Thiago Monteiro,Marco Cecchinato,Clay,26,10
+Santiago,R16,Nicolas Jarry,Diego Schwartzman,Clay,32,10
+Santiago,R16,Yannick Hanfmann,Roberto Carballes Baena,Clay,20,8
+Santiago,R16,Laslo Djere,Riccardo Bonadio,Clay,24,9
+Santiago,R16,Sebastian Baez,Cristian Garin,Clay,19,6
+Santiago,R16,Dusan Lajovic,Juan Manuel Cerundolo,Clay,28,8
+Santiago,R16,Tomas Martin Etcheverry,Francisco Cerundolo,Clay,27,8
+Santiago,R32,Jaume Munar,Alejandro Tabilo,Clay,30,7
+Santiago,R32,Marco Cecchinato,Facundo Bagnis,Clay,29,10
+Santiago,R32,Thiago Monteiro,Albert Ramos,Clay,34,14
+Santiago,R32,Nicolas Jarry,Juan Pablo Varillas,Clay,22,18
+Santiago,R32,Yannick Hanfmann,Pedro Martinez,Clay,14,10
+Santiago,R32,Roberto Carballes Baena,Carlos Taberner,Clay,7,2
+Santiago,R32,Laslo Djere,Joao Sousa,Clay,17,7
+Santiago,R32,Riccardo Bonadio,Daniel Elahi Galan,Clay,21,6
+Santiago,R32,Cristian Garin,Dominic Thiem,Clay,20,7
+Santiago,R32,Juan Manuel Cerundolo,Pedro Cachin,Clay,28,13
+Santiago,R32,Dusan Lajovic,Camilo Ugo Carabelli,Clay,16,0
+Santiago,R32,Tomas Martin Etcheverry,Fabio Fognini,Clay,19,8
+Indian Wells Masters,F,Carlos Alcaraz,Daniil Medvedev,Hard,17,1
+Indian Wells Masters,SF,Carlos Alcaraz,Jannik Sinner,Hard,21,9
+Indian Wells Masters,SF,Daniil Medvedev,Frances Tiafoe,Hard,24,12
+Indian Wells Masters,QF,Carlos Alcaraz,Felix Auger Aliassime,Hard,20,8
+Indian Wells Masters,QF,Jannik Sinner,Taylor Fritz,Hard,30,9
+Indian Wells Masters,QF,Daniil Medvedev,Alejandro Davidovich Fokina,Hard,21,5
+Indian Wells Masters,QF,Frances Tiafoe,Cameron Norrie,Hard,20,11
+Indian Wells Masters,R16,Carlos Alcaraz,Jack Draper,Hard,10,4
+Indian Wells Masters,R16,Felix Auger Aliassime,Tommy Paul,Hard,30,12
+Indian Wells Masters,R16,Taylor Fritz,Marton Fucsovics,Hard,19,6
+Indian Wells Masters,R16,Jannik Sinner,Stan Wawrinka,Hard,17,6
+Indian Wells Masters,R16,Daniil Medvedev,Alexander Zverev,Hard,36,19
+Indian Wells Masters,R16,Alejandro Davidovich Fokina,Cristian Garin,Hard,19,6
+Indian Wells Masters,R16,Cameron Norrie,Andrey Rublev,Hard,18,10
+Indian Wells Masters,R16,Frances Tiafoe,Alejandro Tabilo,Hard,20,11
+Indian Wells Masters,R32,Carlos Alcaraz,Tallon Griekspoor,Hard,21,1
+Indian Wells Masters,R32,Jack Draper,Andy Murray,Hard,20,11
+Indian Wells Masters,R32,Tommy Paul,Hubert Hurkacz,Hard,28,14
+Indian Wells Masters,R32,Felix Auger Aliassime,Francisco Cerundolo,Hard,22,8
+Indian Wells Masters,R32,Taylor Fritz,Sebastian Baez,Hard,15,4
+Indian Wells Masters,R32,Marton Fucsovics,Alex Molcan,Hard,18,1
+Indian Wells Masters,R32,Jannik Sinner,Adrian Mannarino,Hard,22,7
+Indian Wells Masters,R32,Stan Wawrinka,Holger Rune,Hard,32,18
+Indian Wells Masters,R32,Daniil Medvedev,Ilya Ivashka,Hard,24,9
+Indian Wells Masters,R32,Alexander Zverev,Emil Ruusuvuori,Hard,31,12
+Indian Wells Masters,R32,Alejandro Davidovich Fokina,Karen Khachanov,Hard,26,7
+Indian Wells Masters,R32,Cristian Garin,Casper Ruud,Hard,22,8
+Indian Wells Masters,R32,Andrey Rublev,Ugo Humbert,Hard,21,8
+Indian Wells Masters,R32,Cameron Norrie,Taro Daniel,Hard,32,19
+Indian Wells Masters,R32,Frances Tiafoe,Jason Kubler,Hard,17,10
+Indian Wells Masters,R32,Alejandro Tabilo,Jordan Thompson,Hard,21,12
+Indian Wells Masters,R64,Carlos Alcaraz,Thanasi Kokkinakis,Hard,18,7
+Indian Wells Masters,R64,Tallon Griekspoor,Guido Pella,Hard,24,16
+Indian Wells Masters,R64,Jack Draper,Daniel Evans,Hard,18,10
+Indian Wells Masters,R64,Andy Murray,Radu Albot,Hard,19,7
+Indian Wells Masters,R64,Hubert Hurkacz,Alexei Popyrin,Hard,18,11
+Indian Wells Masters,R64,Tommy Paul,Jan Lennard Struff,Hard,18,9
+Indian Wells Masters,R64,Francisco Cerundolo,Jack Sock,Hard,29,14
+Indian Wells Masters,R64,Felix Auger Aliassime,Pedro Martinez,Hard,22,10
+Indian Wells Masters,R64,Taylor Fritz,Ben Shelton,Hard,29,8
+Indian Wells Masters,R64,Sebastian Baez,Rinky Hijikata,Hard,16,2
+Indian Wells Masters,R64,Alex Molcan,Borna Coric,Hard,18,4
+Indian Wells Masters,R64,Marton Fucsovics,Alex De Minaur,Hard,18,5
+Indian Wells Masters,R64,Jannik Sinner,Richard Gasquet,Hard,21,14
+Indian Wells Masters,R64,Adrian Mannarino,Lorenzo Musetti,Hard,20,6
+Indian Wells Masters,R64,Stan Wawrinka,Miomir Kecmanovic,Hard,22,17
+Indian Wells Masters,R64,Holger Rune,Mackenzie Mcdonald,Hard,21,5
+Indian Wells Masters,R64,Daniil Medvedev,Brandon Nakashima,Hard,19,13
+Indian Wells Masters,R64,Ilya Ivashka,Botic Van De Zandschulp,Hard,17,4
+Indian Wells Masters,R64,Emil Ruusuvuori,Roberto Bautista Agut,Hard,20,8
+Indian Wells Masters,R64,Alexander Zverev,Pedro Cachin,Hard,16,10
+Indian Wells Masters,R64,Karen Khachanov,Oscar Otte,Hard,18,9
+Indian Wells Masters,R64,Alejandro Davidovich Fokina,Yibing Wu,Hard,17,4
+Indian Wells Masters,R64,Cristian Garin,Yoshihito Nishioka,Hard,16,9
+Indian Wells Masters,R64,Casper Ruud,Diego Schwartzman,Hard,17,3
+Indian Wells Masters,R64,Andrey Rublev,Jiri Lehecka,Hard,18,6
+Indian Wells Masters,R64,Ugo Humbert,Denis Shapovalov,Hard,22,11
+Indian Wells Masters,R64,Taro Daniel,Matteo Berrettini,Hard,27,9
+Indian Wells Masters,R64,Cameron Norrie,Tung Lin Wu,Hard,18,5
+Indian Wells Masters,R64,Frances Tiafoe,Marcos Giron,Hard,16,6
+Indian Wells Masters,R64,Jason Kubler,Grigor Dimitrov,Hard,23,22
+Indian Wells Masters,R64,Alejandro Tabilo,Maxime Cressy,Hard,24,38
+Indian Wells Masters,R64,Jordan Thompson,Stefanos Tsitsipas,Hard,34,19
+Indian Wells Masters,R128,Thanasi Kokkinakis,Brandon Holt,Hard,17,10
+Indian Wells Masters,R128,Guido Pella,Thiago Monteiro,Hard,29,18
+Indian Wells Masters,R128,Jack Draper,Leandro Riedi,Hard,14,10
+Indian Wells Masters,R128,Andy Murray,Tomas Martin Etcheverry,Hard,29,15
+Indian Wells Masters,R128,Alexei Popyrin,Zhizhen Zhang,Hard,29,19
+Indian Wells Masters,R128,Jan Lennard Struff,Quentin Halys,Hard,25,15
+Indian Wells Masters,R128,Jack Sock,Gregoire Barrere,Hard,18,6
+Indian Wells Masters,R128,Pedro Martinez,Marc Andrea Huesler,Hard,31,17
+Indian Wells Masters,R128,Ben Shelton,Fabio Fognini,Hard,17,6
+Indian Wells Masters,R128,Rinky Hijikata,Mikael Ymer,Hard,22,0
+Indian Wells Masters,R128,Alex Molcan,Albert Ramos,Hard,17,5
+Indian Wells Masters,R128,Marton Fucsovics,J J Wolf,Hard,22,13
+Indian Wells Masters,R128,Richard Gasquet,Borna Gojo,Hard,30,26
+Indian Wells Masters,R128,Adrian Mannarino,Dominic Thiem,Hard,32,14
+Indian Wells Masters,R128,Stan Wawrinka,Aleksandar Vukic,Hard,24,15
+Indian Wells Masters,R128,Mackenzie Mcdonald,Filip Krajinovic,Hard,15,7
+Indian Wells Masters,R128,Brandon Nakashima,John Isner,Hard,21,20
+Indian Wells Masters,R128,Ilya Ivashka,Roman Safiullin,Hard,18,7
+Indian Wells Masters,R128,Emil Ruusuvuori,Constant Lestienne,Hard,15,5
+Indian Wells Masters,R128,Pedro Cachin,Nikoloz Basilashvili,Hard,21,12
+Indian Wells Masters,R128,Oscar Otte,Laslo Djere,Hard,21,8
+Indian Wells Masters,R128,Yibing Wu,Jaume Munar,Hard,30,6
+Indian Wells Masters,R128,Cristian Garin,Daniel Elahi Galan,Hard,18,7
+Indian Wells Masters,R128,Diego Schwartzman,Federico Coria,Hard,15,1
+Indian Wells Masters,R128,Jiri Lehecka,Arthur Rinderknech,Hard,24,8
+Indian Wells Masters,R128,Ugo Humbert,Bernabe Zapata Miralles,Hard,20,5
+Indian Wells Masters,R128,Taro Daniel,Roberto Carballes Baena,Hard,19,7
+Indian Wells Masters,R128,Tung Lin Wu,Alexander Bublik,Hard,20,6
+Indian Wells Masters,R128,Marcos Giron,Aleksandar Kovacevic,Hard,21,14
+Indian Wells Masters,R128,Jason Kubler,Lorenzo Sonego,Hard,22,8
+Indian Wells Masters,R128,Alejandro Tabilo,Maximilian Marterer,Hard,19,11
+Indian Wells Masters,R128,Jordan Thompson,Gael Monfils,Hard,16,3
+Miami Masters,F,Daniil Medvedev,Jannik Sinner,Hard,21,15
+Miami Masters,SF,Jannik Sinner,Carlos Alcaraz,Hard,30,13
+Miami Masters,SF,Daniil Medvedev,Karen Khachanov,Hard,30,20
+Miami Masters,QF,Carlos Alcaraz,Taylor Fritz,Hard,18,10
+Miami Masters,QF,Jannik Sinner,Emil Ruusuvuori,Hard,16,6
+Miami Masters,QF,Daniil Medvedev,Christopher Eubanks,Hard,21,13
+Miami Masters,QF,Karen Khachanov,Francisco Cerundolo,Hard,17,9
+Miami Masters,R16,Carlos Alcaraz,Tommy Paul,Hard,20,8
+Miami Masters,R16,Taylor Fritz,Holger Rune,Hard,19,12
+Miami Masters,R16,Emil Ruusuvuori,Botic Van De Zandschulp,Hard,32,10
+Miami Masters,R16,Jannik Sinner,Andrey Rublev,Hard,18,14
+Miami Masters,R16,Christopher Eubanks,Adrian Mannarino,Hard,24,18
+Miami Masters,R16,Daniil Medvedev,Quentin Halys,Hard,18,12
+Miami Masters,R16,Francisco Cerundolo,Lorenzo Sonego,Hard,26,5
+Miami Masters,R16,Karen Khachanov,Stefanos Tsitsipas,Hard,22,16
+Miami Masters,R32,Carlos Alcaraz,Dusan Lajovic,Hard,18,3
+Miami Masters,R32,Tommy Paul,Alejandro Davidovich Fokina,Hard,21,11
+Miami Masters,R32,Taylor Fritz,Denis Shapovalov,Hard,20,17
+Miami Masters,R32,Holger Rune,Diego Schwartzman,Hard,18,8
+Miami Masters,R32,Botic Van De Zandschulp,Casper Ruud,Hard,29,18
+Miami Masters,R32,Emil Ruusuvuori,Taro Daniel,Hard,21,11
+Miami Masters,R32,Jannik Sinner,Grigor Dimitrov,Hard,19,3
+Miami Masters,R32,Andrey Rublev,Miomir Kecmanovic,Hard,15,16
+Miami Masters,R32,Adrian Mannarino,Hubert Hurkacz,Hard,24,23
+Miami Masters,R32,Christopher Eubanks,Gregoire Barrere,Hard,21,13
+Miami Masters,R32,Quentin Halys,Mackenzie Mcdonald,Hard,21,24
+Miami Masters,R32,Francisco Cerundolo,Felix Auger Aliassime,Hard,20,5
+Miami Masters,R32,Lorenzo Sonego,Frances Tiafoe,Hard,19,10
+Miami Masters,R32,Karen Khachanov,Jiri Lehecka,Hard,18,14
+Miami Masters,R32,Stefanos Tsitsipas,Cristian Garin,Hard,29,19
+Miami Masters,R64,Carlos Alcaraz,Facundo Bagnis,Hard,14,4
+Miami Masters,R64,Dusan Lajovic,Maxime Cressy,Hard,22,8
+Miami Masters,R64,Alejandro Davidovich Fokina,Brandon Nakashima,Hard,22,11
+Miami Masters,R64,Tommy Paul,Marc Andrea Huesler,Hard,31,19
+Miami Masters,R64,Taylor Fritz,Emilio Nava,Hard,17,11
+Miami Masters,R64,Denis Shapovalov,Guido Pella,Hard,27,15
+Miami Masters,R64,Diego Schwartzman,Yibing Wu,Hard,19,5
+Miami Masters,R64,Holger Rune,Marton Fucsovics,Hard,21,9
+Miami Masters,R64,Casper Ruud,Ilya Ivashka,Hard,17,9
+Miami Masters,R64,Botic Van De Zandschulp,Alexei Popyrin,Hard,30,20
+Miami Masters,R64,Emil Ruusuvuori,Roberto Bautista Agut,Hard,22,8
+Miami Masters,R64,Taro Daniel,Alexander Zverev,Hard,16,7
+Miami Masters,R64,Jannik Sinner,Laslo Djere,Hard,18,6
+Miami Masters,R64,Grigor Dimitrov,Jan Lennard Struff,Hard,32,33
+Miami Masters,R64,Miomir Kecmanovic,Ugo Humbert,Hard,34,18
+Miami Masters,R64,Andrey Rublev,J J Wolf,Hard,22,23
+Miami Masters,R64,Hubert Hurkacz,Thanasi Kokkinakis,Hard,36,44
+Miami Masters,R64,Adrian Mannarino,Ben Shelton,Hard,26,20
+Miami Masters,R64,Christopher Eubanks,Borna Coric,Hard,27,13
+Miami Masters,R64,Gregoire Barrere,Cameron Norrie,Hard,17,10
+Miami Masters,R64,Quentin Halys,Alex De Minaur,Hard,36,23
+Miami Masters,R64,Mackenzie Mcdonald,Matteo Berrettini,Hard,24,18
+Miami Masters,R64,Alex Molcan,Yoshihito Nishioka,Hard,27,9
+Miami Masters,R64,Daniil Medvedev,Roberto Carballes Baena,Hard,15,5
+Miami Masters,R64,Felix Auger Aliassime,Thiago Monteiro,Hard,24,16
+Miami Masters,R64,Francisco Cerundolo,Aleksandar Kovacevic,Hard,20,9
+Miami Masters,R64,Lorenzo Sonego,Daniel Evans,Hard,27,9
+Miami Masters,R64,Frances Tiafoe,Yosuke Watanuki,Hard,34,29
+Miami Masters,R64,Karen Khachanov,Tomas Martin Etcheverry,Hard,25,13
+Miami Masters,R64,Jiri Lehecka,Lorenzo Musetti,Hard,20,6
+Miami Masters,R64,Cristian Garin,Sebastian Baez,Hard,21,5
+Miami Masters,R128,Facundo Bagnis,Felipe Meligeni Alves,Hard,26,16
+Miami Masters,R128,Dusan Lajovic,Andy Murray,Hard,22,10
+Miami Masters,R128,Brandon Nakashima,Oscar Otte,Hard,21,21
+Miami Masters,R128,Marc Andrea Huesler,Albert Ramos,Hard,33,13
+Miami Masters,R128,Emilio Nava,John Isner,Hard,24,21
+Miami Masters,R128,Guido Pella,Juan Pablo Varillas,Hard,24,9
+Miami Masters,R128,Yibing Wu,Kyle Edmund,Hard,24,8
+Miami Masters,R128,Marton Fucsovics,Pedro Cachin,Hard,22,14
+Miami Masters,R128,Ilya Ivashka,Daniel Altmaier,Hard,15,10
+Miami Masters,R128,Alexei Popyrin,Mikael Ymer,Hard,20,17
+Miami Masters,R128,Emil Ruusuvuori,Nuno Borges,Hard,17,6
+Miami Masters,R128,Taro Daniel,Arthur Rinderknech,Hard,5,0
+Miami Masters,R128,Laslo Djere,Aleksandar Vukic,Hard,20,22
+Miami Masters,R128,Jan Lennard Struff,Fabio Fognini,Hard,32,19
+Miami Masters,R128,Ugo Humbert,Gael Monfils,Hard,6,2
+Miami Masters,R128,J J Wolf,Alexander Bublik,Hard,21,13
+Miami Masters,R128,Thanasi Kokkinakis,Zizou Bergs,Hard,31,21
+Miami Masters,R128,Adrian Mannarino,Juncheng Shang,Hard,25,10
+Miami Masters,R128,Christopher Eubanks,Denis Kudla,Hard,20,9
+Miami Masters,R128,Gregoire Barrere,Roman Safiullin,Hard,28,14
+Miami Masters,R128,Quentin Halys,Pedro Martinez,Hard,20,15
+Miami Masters,R128,Mackenzie Mcdonald,Daniel Elahi Galan,Hard,18,5
+Miami Masters,R128,Alex Molcan,Jordan Thompson,Hard,27,7
+Miami Masters,R128,Roberto Carballes Baena,Bernabe Zapata Miralles,Hard,9,1
+Miami Masters,R128,Thiago Monteiro,Jason Kubler,Hard,22,18
+Miami Masters,R128,Aleksandar Kovacevic,Jaume Munar,Hard,27,11
+Miami Masters,R128,Lorenzo Sonego,Dominic Thiem,Hard,20,7
+Miami Masters,R128,Yosuke Watanuki,Benoit Paire,Hard,22,17
+Miami Masters,R128,Tomas Martin Etcheverry,Pavel Kotov,Hard,16,8
+Miami Masters,R128,Jiri Lehecka,Federico Coria,Hard,19,15
+Miami Masters,R128,Cristian Garin,Marcos Giron,Hard,28,15
+Miami Masters,R128,Richard Gasquet,Christopher Oconnell,Hard,26,21
+Estoril,F,Casper Ruud,Miomir Kecmanovic,Clay,20,4
+Estoril,SF,Casper Ruud,Quentin Halys,Clay,31,19
+Estoril,SF,Miomir Kecmanovic,Marco Cecchinato,Clay,16,7
+Estoril,QF,Casper Ruud,Sebastian Baez,Clay,15,3
+Estoril,QF,Quentin Halys,Dominic Thiem,Clay,17,8
+Estoril,QF,Marco Cecchinato,Alejandro Davidovich Fokina,Clay,24,6
+Estoril,QF,Miomir Kecmanovic,Bernabe Zapata Miralles,Clay,20,4
+Estoril,R16,Casper Ruud,Joao Sousa,Clay,26,8
+Estoril,R16,Sebastian Baez,Pedro Cachin,Clay,22,2
+Estoril,R16,Quentin Halys,Roberto Bautista Agut,Clay,24,16
+Estoril,R16,Dominic Thiem,Ben Shelton,Clay,16,1
+Estoril,R16,Marco Cecchinato,Fabio Fognini,Clay,28,12
+Estoril,R16,Alejandro Davidovich Fokina,Luca Van Assche,Clay,21,2
+Estoril,R16,Miomir Kecmanovic,Jurij Rodionov,Clay,13,8
+Estoril,R16,Bernabe Zapata Miralles,Hubert Hurkacz,Clay,30,9
+Estoril,R32,Joao Sousa,Giulio Zeppieri,Clay,26,5
+Estoril,R32,Pedro Cachin,Chun Hsin Tseng,Clay,20,6
+Estoril,R32,Sebastian Baez,Radu Albot,Clay,24,2
+Estoril,R32,Quentin Halys,Nuno Borges,Clay,19,13
+Estoril,R32,Dominic Thiem,Sebastian Ofner,Clay,28,6
+Estoril,R32,Ben Shelton,Constant Lestienne,Clay,24,11
+Estoril,R32,Marco Cecchinato,Diego Schwartzman,Clay,21,7
+Estoril,R32,Fabio Fognini,Alessandro Giannessi,Clay,15,2
+Estoril,R32,Luca Van Assche,Pedro Sousa,Clay,28,1
+Estoril,R32,Miomir Kecmanovic,Luca Nardi,Clay,17,3
+Estoril,R32,Jurij Rodionov,Albert Ramos,Clay,26,9
+Estoril,R32,Bernabe Zapata Miralles,Henrique Rocha,Clay,18,0
+Houston,F,Frances Tiafoe,Tomas Martin Etcheverry,Clay,24,18
+Houston,SF,Frances Tiafoe,Gijs Brouwer,Clay,17,9
+Houston,SF,Tomas Martin Etcheverry,Yannick Hanfmann,Clay,19,7
+Houston,QF,Frances Tiafoe,Jason Kubler,Clay,20,20
+Houston,QF,Gijs Brouwer,J J Wolf,Clay,19,10
+Houston,QF,Tomas Martin Etcheverry,Cristian Garin,Clay,28,15
+Houston,QF,Yannick Hanfmann,Tomas Machac,Clay,15,8
+Houston,R16,Frances Tiafoe,Steve Johnson,Clay,18,14
+Houston,R16,Jason Kubler,Daniel Elahi Galan,Clay,18,9
+Houston,R16,Gijs Brouwer,John Isner,Clay,22,12
+Houston,R16,J J Wolf,Denis Kudla,Clay,17,8
+Houston,R16,Tomas Martin Etcheverry,Max Purcell,Clay,19,10
+Houston,R16,Cristian Garin,Zizou Bergs,Clay,24,9
+Houston,R16,Tomas Machac,Marcos Giron,Clay,20,11
+Houston,R16,Yannick Hanfmann,Tommy Paul,Clay,20,5
+Houston,R32,Steve Johnson,Facundo Bagnis,Clay,26,16
+Houston,R32,Daniel Elahi Galan,Zhizhen Zhang,Clay,17,14
+Houston,R32,Jason Kubler,Fernando Verdasco,Clay,18,3
+Houston,R32,Gijs Brouwer,Aleksandar Kovacevic,Clay,20,12
+Houston,R32,Denis Kudla,Aleksandar Vukic,Clay,30,17
+Houston,R32,J J Wolf,Jordan Thompson,Clay,17,11
+Houston,R32,Tomas Martin Etcheverry,Juan Manuel Cerundolo,Clay,19,5
+Houston,R32,Max Purcell,Daniel Altmaier,Clay,28,14
+Houston,R32,Cristian Garin,Hugo Dellien,Clay,15,7
+Houston,R32,Marcos Giron,Emilio Gomez,Clay,14,5
+Houston,R32,Tomas Machac,Jack Sock,Clay,18,8
+Houston,R32,Yannick Hanfmann,Yosuke Watanuki,Clay,27,11
+Marrakech,F,Roberto Carballes Baena,Alexandre Muller,Clay,30,10
+Marrakech,SF,Alexandre Muller,Pavel Kotov,Clay,24,5
+Marrakech,SF,Roberto Carballes Baena,Daniel Evans,Clay,26,3
+Marrakech,QF,Alexandre Muller,Lorenzo Musetti,Clay,26,1
+Marrakech,QF,Pavel Kotov,Christopher Oconnell,Clay,33,6
+Marrakech,QF,Roberto Carballes Baena,Tallon Griekspoor,Clay,25,5
+Marrakech,QF,Daniel Evans,Andrea Vavassori,Clay,21,2
+Marrakech,R16,Lorenzo Musetti,Hugo Gaston,Clay,17,0
+Marrakech,R16,Alexandre Muller,Francesco Passaro,Clay,20,9
+Marrakech,R16,Christopher Oconnell,Botic Van De Zandschulp,Clay,28,11
+Marrakech,R16,Pavel Kotov,Benjamin Bonzi,Clay,18,3
+Marrakech,R16,Roberto Carballes Baena,Dimitar Kuzmanov,Clay,2,0
+Marrakech,R16,Tallon Griekspoor,Elias Ymer,Clay,26,8
+Marrakech,R16,Andrea Vavassori,Jaume Munar,Clay,34,7
+Marrakech,R16,Daniel Evans,Alexei Popyrin,Clay,16,8
+Marrakech,R32,Hugo Gaston,Jan Lennard Struff,Clay,31,17
+Marrakech,R32,Francesco Passaro,Aslan Karatsev,Clay,30,7
+Marrakech,R32,Alexandre Muller,Richard Gasquet,Clay,20,6
+Marrakech,R32,Christopher Oconnell,Riccardo Bonadio,Clay,22,7
+Marrakech,R32,Pavel Kotov,Pedro Martinez,Clay,27,6
+Marrakech,R32,Benjamin Bonzi,Alexey Vatutin,Clay,18,5
+Marrakech,R32,Roberto Carballes Baena,Maxime Cressy,Clay,28,12
+Marrakech,R32,Dimitar Kuzmanov,Hugo Grenier,Clay,19,4
+Marrakech,R32,Elias Ymer,Adam Moundir,Clay,22,9
+Marrakech,R32,Andrea Vavassori,Nicolas Jarry,Clay,26,8
+Marrakech,R32,Jaume Munar,Elliot Benchetrit,Clay,20,4
+Marrakech,R32,Alexei Popyrin,Younes Lalami Laaroussi,Clay,17,5
+Monte Carlo Masters,F,Andrey Rublev,Holger Rune,Clay,32,11
+Monte Carlo Masters,SF,Holger Rune,Jannik Sinner,Clay,31,4
+Monte Carlo Masters,SF,Andrey Rublev,Taylor Fritz,Clay,28,7
+Monte Carlo Masters,QF,Jannik Sinner,Lorenzo Musetti,Clay,16,2
+Monte Carlo Masters,QF,Holger Rune,Daniil Medvedev,Clay,19,2
+Monte Carlo Masters,QF,Andrey Rublev,Jan Lennard Struff,Clay,19,13
+Monte Carlo Masters,QF,Taylor Fritz,Stefanos Tsitsipas,Clay,18,4
+Monte Carlo Masters,R16,Lorenzo Musetti,Novak Djokovic,Clay,32,7
+Monte Carlo Masters,R16,Jannik Sinner,Hubert Hurkacz,Clay,28,18
+Monte Carlo Masters,R16,Daniil Medvedev,Alexander Zverev,Clay,33,7
+Monte Carlo Masters,R16,Andrey Rublev,Karen Khachanov,Clay,20,7
+Monte Carlo Masters,R16,Jan Lennard Struff,Casper Ruud,Clay,19,6
+Monte Carlo Masters,R16,Taylor Fritz,Jiri Lehecka,Clay,27,7
+Monte Carlo Masters,R16,Stefanos Tsitsipas,Nicolas Jarry,Clay,19,11
+Monte Carlo Masters,R32,Novak Djokovic,Ivan Gakhov,Clay,20,9
+Monte Carlo Masters,R32,Lorenzo Musetti,Luca Nardi,Clay,12,1
+Monte Carlo Masters,R32,Hubert Hurkacz,Jack Draper,Clay,33,25
+Monte Carlo Masters,R32,Jannik Sinner,Diego Schwartzman,Clay,10,2
+Monte Carlo Masters,R32,Daniil Medvedev,Lorenzo Sonego,Clay,17,2
+Monte Carlo Masters,R32,Alexander Zverev,Roberto Bautista Agut,Clay,20,13
+Monte Carlo Masters,R32,Matteo Berrettini,Francisco Cerundolo,Clay,34,5
+Monte Carlo Masters,R32,Holger Rune,Dominic Thiem,Clay,18,2
+Monte Carlo Masters,R32,Andrey Rublev,Jaume Munar,Clay,26,2
+Monte Carlo Masters,R32,Karen Khachanov,Ilya Ivashka,Clay,20,3
+Monte Carlo Masters,R32,Jan Lennard Struff,Alex De Minaur,Clay,17,7
+Monte Carlo Masters,R32,Casper Ruud,Botic Van De Zandschulp,Clay,24,5
+Monte Carlo Masters,R32,Taylor Fritz,Stan Wawrinka,Clay,20,10
+Monte Carlo Masters,R32,Jiri Lehecka,Grigor Dimitrov,Clay,22,5
+Monte Carlo Masters,R32,Nicolas Jarry,Alexei Popyrin,Clay,31,17
+Monte Carlo Masters,R32,Stefanos Tsitsipas,Benjamin Bonzi,Clay,5,2
+Monte Carlo Masters,R64,Ivan Gakhov,Mackenzie Mcdonald,Clay,29,16
+Monte Carlo Masters,R64,Luca Nardi,Valentin Vacherot,Clay,24,5
+Monte Carlo Masters,R64,Lorenzo Musetti,Miomir Kecmanovic,Clay,18,7
+Monte Carlo Masters,R64,Hubert Hurkacz,Laslo Djere,Clay,36,16
+Monte Carlo Masters,R64,Jack Draper,Sebastian Baez,Clay,21,7
+Monte Carlo Masters,R64,Diego Schwartzman,David Goffin,Clay,18,4
+Monte Carlo Masters,R64,Lorenzo Sonego,Ugo Humbert,Clay,33,6
+Monte Carlo Masters,R64,Roberto Bautista Agut,Filip Krajinovic,Clay,31,11
+Monte Carlo Masters,R64,Alexander Zverev,Alexander Bublik,Clay,27,10
+Monte Carlo Masters,R64,Francisco Cerundolo,Cameron Norrie,Clay,19,5
+Monte Carlo Masters,R64,Matteo Berrettini,Maxime Cressy,Clay,18,9
+Monte Carlo Masters,R64,Dominic Thiem,Richard Gasquet,Clay,17,7
+Monte Carlo Masters,R64,Jaume Munar,Marc Andrea Huesler,Clay,32,8
+Monte Carlo Masters,R64,Ilya Ivashka,Daniel Evans,Clay,25,4
+Monte Carlo Masters,R64,Karen Khachanov,Alejandro Davidovich Fokina,Clay,16,2
+Monte Carlo Masters,R64,Alex De Minaur,Andy Murray,Clay,16,2
+Monte Carlo Masters,R64,Jan Lennard Struff,Albert Ramos,Clay,19,8
+Monte Carlo Masters,R64,Botic Van De Zandschulp,Marton Fucsovics,Clay,28,3
+Monte Carlo Masters,R64,Stan Wawrinka,Tallon Griekspoor,Clay,31,16
+Monte Carlo Masters,R64,Grigor Dimitrov,Ben Shelton,Clay,25,19
+Monte Carlo Masters,R64,Jiri Lehecka,Emil Ruusuvuori,Clay,19,4
+Monte Carlo Masters,R64,Nicolas Jarry,Borna Coric,Clay,17,7
+Monte Carlo Masters,R64,Alexei Popyrin,Dusan Lajovic,Clay,21,15
+Monte Carlo Masters,R64,Benjamin Bonzi,Bernabe Zapata Miralles,Clay,19,3
+Barcelona,F,Carlos Alcaraz,Stefanos Tsitsipas,Clay,19,4
+Barcelona,SF,Carlos Alcaraz,Daniel Evans,Clay,16,4
+Barcelona,SF,Stefanos Tsitsipas,Lorenzo Musetti,Clay,31,5
+Barcelona,QF,Carlos Alcaraz,Alejandro Davidovich Fokina,Clay,22,2
+Barcelona,QF,Daniel Evans,Francisco Cerundolo,Clay,29,5
+Barcelona,QF,Stefanos Tsitsipas,Alex De Minaur,Clay,18,1
+Barcelona,R16,Carlos Alcaraz,Roberto Bautista Agut,Clay,21,4
+Barcelona,R16,Alejandro Davidovich Fokina,Emil Ruusuvuori,Clay,22,4
+Barcelona,R16,Francisco Cerundolo,Casper Ruud,Clay,21,3
+Barcelona,R16,Daniel Evans,Karen Khachanov,Clay,19,10
+Barcelona,R16,Lorenzo Musetti,Cameron Norrie,Clay,26,3
+Barcelona,R16,Jannik Sinner,Yoshihito Nishioka,Clay,26,4
+Barcelona,R16,Stefanos Tsitsipas,Denis Shapovalov,Clay,17,6
+Barcelona,R32,Carlos Alcaraz,Nuno Borges,Clay,16,0
+Barcelona,R32,Roberto Bautista Agut,Bernabe Zapata Miralles,Clay,16,3
+Barcelona,R32,Alejandro Davidovich Fokina,Tomas Martin Etcheverry,Clay,18,4
+Barcelona,R32,Emil Ruusuvuori,Frances Tiafoe,Clay,32,15
+Barcelona,R32,Casper Ruud,Ben Shelton,Clay,20,3
+Barcelona,R32,Francisco Cerundolo,Francesco Passaro,Clay,16,1
+Barcelona,R32,Daniel Evans,Matteo Arnaldi,Clay,19,7
+Barcelona,R32,Karen Khachanov,Nicolas Jarry,Clay,20,6
+Barcelona,R32,Cameron Norrie,Pavel Kotov,Clay,15,4
+Barcelona,R32,Lorenzo Musetti,Jason Kubler,Clay,16,3
+Barcelona,R32,Yoshihito Nishioka,David Goffin,Clay,19,5
+Barcelona,R32,Jannik Sinner,Diego Schwartzman,Clay,18,2
+Barcelona,R32,Alex De Minaur,Alexander Shevchenko,Clay,13,0
+Barcelona,R32,Grigor Dimitrov,Emilio Gomez,Clay,16,7
+Barcelona,R32,Denis Shapovalov,Jozef Kovalik,Clay,19,15
+Barcelona,R32,Stefanos Tsitsipas,Pedro Cachin,Clay,18,3
+Barcelona,R64,Nuno Borges,Ilya Ivashka,Clay,17,6
+Barcelona,R64,Bernabe Zapata Miralles,Attila Balazs,Clay,16,1
+Barcelona,R64,Tomas Martin Etcheverry,Pablo Andujar,Clay,20,3
+Barcelona,R64,Emil Ruusuvuori,Alexander Bublik,Clay,15,1
+Barcelona,R64,Ben Shelton,Mackenzie Mcdonald,Clay,22,10
+Barcelona,R64,Francesco Passaro,Fernando Verdasco,Clay,14,4
+Barcelona,R64,Matteo Arnaldi,Jaume Munar,Clay,19,1
+Barcelona,R64,Nicolas Jarry,Marco Trungelliti,Clay,21,8
+Barcelona,R64,Pavel Kotov,Oleksii Krutykh,Clay,29,8
+Barcelona,R64,Jason Kubler,Daniel Rincon,Clay,19,7
+Barcelona,R64,David Goffin,Feliciano Lopez,Clay,30,19
+Barcelona,R64,Diego Schwartzman,Yibing Wu,Clay,16,1
+Barcelona,R64,Alexander Shevchenko,Lorenzo Giustino,Clay,16,7
+Barcelona,R64,Emilio Gomez,Albert Ramos,Clay,26,6
+Barcelona,R64,Jozef Kovalik,Pedro Martinez,Clay,32,3
+Barcelona,R64,Pedro Cachin,Gijs Brouwer,Clay,21,7
+Munich,F,Holger Rune,Botic Van De Zandschulp,Clay,29,7
+Munich,SF,Holger Rune,Christopher Oconnell,Clay,17,4
+Munich,SF,Botic Van De Zandschulp,Taylor Fritz,Clay,22,9
+Munich,QF,Holger Rune,Cristian Garin,Clay,18,3
+Munich,QF,Christopher Oconnell,Flavio Cobolli,Clay,31,15
+Munich,QF,Botic Van De Zandschulp,Marcos Giron,Clay,21,3
+Munich,QF,Taylor Fritz,Dominic Thiem,Clay,19,3
+Munich,R16,Holger Rune,Yannick Hanfmann,Clay,19,2
+Munich,R16,Cristian Garin,Lorenzo Sonego,Clay,21,2
+Munich,R16,Christopher Oconnell,Alexander Zverev,Clay,22,10
+Munich,R16,Flavio Cobolli,Oscar Otte,Clay,24,4
+Munich,R16,Marcos Giron,Alexander Ritschard,Clay,28,11
+Munich,R16,Botic Van De Zandschulp,Aslan Karatsev,Clay,14,5
+Munich,R16,Dominic Thiem,Marc Andrea Huesler,Clay,32,13
+Munich,R16,Taylor Fritz,Marton Fucsovics,Clay,28,11
+Munich,R32,Yannick Hanfmann,Thiago Monteiro,Clay,32,15
+Munich,R32,Cristian Garin,Marko Topo,Clay,18,6
+Munich,R32,Lorenzo Sonego,Quentin Halys,Clay,33,15
+Munich,R32,Christopher Oconnell,Ugo Humbert,Clay,20,7
+Munich,R32,Flavio Cobolli,Jordan Thompson,Clay,19,7
+Munich,R32,Oscar Otte,Sebastian Baez,Clay,21,5
+Munich,R32,Marcos Giron,Roberto Carballes Baena,Clay,27,8
+Munich,R32,Alexander Ritschard,Jan Lennard Struff,Clay,24,19
+Munich,R32,Aslan Karatsev,Daniel Altmaier,Clay,30,7
+Munich,R32,Marc Andrea Huesler,Kyle Edmund,Clay,31,16
+Munich,R32,Dominic Thiem,Constant Lestienne,Clay,9,2
+Munich,R32,Marton Fucsovics,Max Hans Rehberg,Clay,31,5
+Banja Luka,F,Dusan Lajovic,Andrey Rublev,Clay,29,6
+Banja Luka,SF,Dusan Lajovic,Miomir Kecmanovic,Clay,32,4
+Banja Luka,SF,Andrey Rublev,Alex Molcan,Clay,18,8
+Banja Luka,QF,Dusan Lajovic,Novak Djokovic,Clay,22,6
+Banja Luka,QF,Miomir Kecmanovic,Jiri Lehecka,Clay,18,3
+Banja Luka,QF,Alex Molcan,Laslo Djere,Clay,30,6
+Banja Luka,QF,Andrey Rublev,Damir Dzumhur,Clay,21,1
+Banja Luka,R16,Novak Djokovic,Luca Van Assche,Clay,29,4
+Banja Luka,R16,Dusan Lajovic,Gregoire Barrere,Clay,15,4
+Banja Luka,R16,Miomir Kecmanovic,Abedallah Shelbayh,Clay,22,3
+Banja Luka,R16,Jiri Lehecka,Radu Albot,Clay,14,3
+Banja Luka,R16,Alex Molcan,Alexei Popyrin,Clay,34,14
+Banja Luka,R16,Laslo Djere,Borna Coric,Clay,32,3
+Banja Luka,R16,Damir Dzumhur,Richard Gasquet,Clay,29,4
+Banja Luka,R16,Andrey Rublev,Juan Pablo Varillas,Clay,16,5
+Banja Luka,R32,Luca Van Assche,Stan Wawrinka,Clay,29,4
+Banja Luka,R32,Dusan Lajovic,Filip Krajinovic,Clay,28,4
+Banja Luka,R32,Gregoire Barrere,Hamad Medjedovic,Clay,24,13
+Banja Luka,R32,Abedallah Shelbayh,Elias Ymer,Clay,19,3
+Banja Luka,R32,Radu Albot,Federico Coria,Clay,10,1
+Banja Luka,R32,Jiri Lehecka,Gael Monfils,Clay,19,3
+Banja Luka,R32,Alexei Popyrin,Tallon Griekspoor,Clay,24,8
+Banja Luka,R32,Alex Molcan,Taro Daniel,Clay,28,7
+Banja Luka,R32,Laslo Djere,Roman Safiullin,Clay,18,3
+Banja Luka,R32,Richard Gasquet,Dino Prizmic,Clay,16,2
+Banja Luka,R32,Damir Dzumhur,Liam Broady,Clay,15,1
+Banja Luka,R32,Juan Pablo Varillas,Hugo Gaston,Clay,21,8
+Madrid Masters,F,Carlos Alcaraz,Jan Lennard Struff,Clay,28,6
+Madrid Masters,SF,Carlos Alcaraz,Borna Coric,Clay,19,6
+Madrid Masters,SF,Jan Lennard Struff,Aslan Karatsev,Clay,29,18
+Madrid Masters,QF,Carlos Alcaraz,Karen Khachanov,Clay,22,6
+Madrid Masters,QF,Borna Coric,Daniel Altmaier,Clay,18,3
+Madrid Masters,QF,Jan Lennard Struff,Stefanos Tsitsipas,Clay,33,25
+Madrid Masters,QF,Aslan Karatsev,Zhizhen Zhang,Clay,22,10
+Madrid Masters,R16,Carlos Alcaraz,Alexander Zverev,Clay,15,8
+Madrid Masters,R16,Karen Khachanov,Andrey Rublev,Clay,22,12
+Madrid Masters,R16,Daniel Altmaier,Jaume Munar,Clay,15,1
+Madrid Masters,R16,Borna Coric,Alejandro Davidovich Fokina,Clay,33,6
+Madrid Masters,R16,Jan Lennard Struff,Pedro Cachin,Clay,33,16
+Madrid Masters,R16,Stefanos Tsitsipas,Bernabe Zapata Miralles,Clay,16,0
+Madrid Masters,R16,Zhizhen Zhang,Taylor Fritz,Clay,33,18
+Madrid Masters,R16,Aslan Karatsev,Daniil Medvedev,Clay,22,6
+Madrid Masters,R32,Carlos Alcaraz,Grigor Dimitrov,Clay,20,5
+Madrid Masters,R32,Alexander Zverev,Hugo Grenier,Clay,13,5
+Madrid Masters,R32,Karen Khachanov,Roberto Bautista Agut,Clay,31,14
+Madrid Masters,R32,Andrey Rublev,Yoshihito Nishioka,Clay,20,16
+Madrid Masters,R32,Jaume Munar,Matteo Arnaldi,Clay,25,5
+Madrid Masters,R32,Daniel Altmaier,Yannick Hanfmann,Clay,21,9
+Madrid Masters,R32,Borna Coric,Hubert Hurkacz,Clay,21,9
+Madrid Masters,R32,Alejandro Davidovich Fokina,Holger Rune,Clay,36,8
+Madrid Masters,R32,Jan Lennard Struff,Dusan Lajovic,Clay,30,17
+Madrid Masters,R32,Pedro Cachin,Frances Tiafoe,Clay,19,12
+Madrid Masters,R32,Bernabe Zapata Miralles,Roman Safiullin,Clay,27,7
+Madrid Masters,R32,Stefanos Tsitsipas,Sebastian Baez,Clay,30,5
+Madrid Masters,R32,Taylor Fritz,Cristian Garin,Clay,19,12
+Madrid Masters,R32,Zhizhen Zhang,Cameron Norrie,Clay,32,21
+Madrid Masters,R32,Aslan Karatsev,Alex De Minaur,Clay,29,7
+Madrid Masters,R32,Daniil Medvedev,Alexander Shevchenko,Clay,29,6
+Madrid Masters,R64,Carlos Alcaraz,Emil Ruusuvuori,Clay,26,13
+Madrid Masters,R64,Grigor Dimitrov,Gregoire Barrere,Clay,24,13
+Madrid Masters,R64,Hugo Grenier,Sebastian Korda,Clay,24,10
+Madrid Masters,R64,Alexander Zverev,Roberto Carballes Baena,Clay,30,14
+Madrid Masters,R64,Karen Khachanov,Thiago Monteiro,Clay,27,21
+Madrid Masters,R64,Roberto Bautista Agut,Quentin Halys,Clay,31,22
+Madrid Masters,R64,Yoshihito Nishioka,Alex Molcan,Clay,32,10
+Madrid Masters,R64,Andrey Rublev,Stan Wawrinka,Clay,22,16
+Madrid Masters,R64,Matteo Arnaldi,Casper Ruud,Clay,19,10
+Madrid Masters,R64,Jaume Munar,Tallon Griekspoor,Clay,12,3
+Madrid Masters,R64,Daniel Altmaier,Oscar Otte,Clay,22,11
+Madrid Masters,R64,Yannick Hanfmann,Lorenzo Musetti,Clay,22,4
+Madrid Masters,R64,Hubert Hurkacz,Richard Gasquet,Clay,34,38
+Madrid Masters,R64,Borna Coric,Hugo Gaston,Clay,18,6
+Madrid Masters,R64,Alejandro Davidovich Fokina,Albert Ramos,Clay,19,4
+Madrid Masters,R64,Holger Rune,Alexander Bublik,Clay,29,20
+Madrid Masters,R64,Dusan Lajovic,Felix Auger Aliassime,Clay,29,16
+Madrid Masters,R64,Jan Lennard Struff,Ben Shelton,Clay,34,32
+Madrid Masters,R64,Pedro Cachin,Francisco Cerundolo,Clay,19,3
+Madrid Masters,R64,Frances Tiafoe,Tomas Martin Etcheverry,Clay,21,17
+Madrid Masters,R64,Roman Safiullin,Tommy Paul,Clay,21,5
+Madrid Masters,R64,Bernabe Zapata Miralles,Daniel Evans,Clay,17,6
+Madrid Masters,R64,Sebastian Baez,Marcos Giron,Clay,28,7
+Madrid Masters,R64,Stefanos Tsitsipas,Dominic Thiem,Clay,28,11
+Madrid Masters,R64,Taylor Fritz,Christopher Oconnell,Clay,22,19
+Madrid Masters,R64,Cristian Garin,Miomir Kecmanovic,Clay,34,8
+Madrid Masters,R64,Zhizhen Zhang,Denis Shapovalov,Clay,34,15
+Madrid Masters,R64,Cameron Norrie,Yosuke Watanuki,Clay,22,16
+Madrid Masters,R64,Alex De Minaur,Marco Cecchinato,Clay,22,3
+Madrid Masters,R64,Aslan Karatsev,Botic Van De Zandschulp,Clay,20,9
+Madrid Masters,R64,Alexander Shevchenko,Jiri Lehecka,Clay,14,6
+Madrid Masters,R64,Daniil Medvedev,Andrea Vavassori,Clay,19,7
+Madrid Masters,R128,Emil Ruusuvuori,Ugo Humbert,Clay,24,14
+Madrid Masters,R128,Gregoire Barrere,Emilio Nava,Clay,27,16
+Madrid Masters,R128,Hugo Grenier,Diego Schwartzman,Clay,22,8
+Madrid Masters,R128,Roberto Carballes Baena,David Goffin,Clay,20,12
+Madrid Masters,R128,Thiago Monteiro,Borna Gojo,Clay,31,31
+Madrid Masters,R128,Quentin Halys,Alexei Popyrin,Clay,30,21
+Madrid Masters,R128,Alex Molcan,Yibing Wu,Clay,18,5
+Madrid Masters,R128,Stan Wawrinka,Maxime Cressy,Clay,33,28
+Madrid Masters,R128,Matteo Arnaldi,Benoit Paire,Clay,28,22
+Madrid Masters,R128,Jaume Munar,Thanasi Kokkinakis,Clay,24,9
+Madrid Masters,R128,Oscar Otte,Pavel Kotov,Clay,29,10
+Madrid Masters,R128,Yannick Hanfmann,Juan Pablo Varillas,Clay,28,8
+Madrid Masters,R128,Richard Gasquet,Martin Landaluce,Clay,15,10
+Madrid Masters,R128,Hugo Gaston,Jeremy Chardy,Clay,19,3
+Madrid Masters,R128,Albert Ramos,Ilya Ivashka,Clay,30,14
+Madrid Masters,R128,Alexander Bublik,Daniel Elahi Galan,Clay,34,22
+Madrid Masters,R128,Dusan Lajovic,Jason Kubler,Clay,18,5
+Madrid Masters,R128,Jan Lennard Struff,Lorenzo Sonego,Clay,16,7
+Madrid Masters,R128,Pedro Cachin,Abedallah Shelbayh,Clay,17,6
+Madrid Masters,R128,Tomas Martin Etcheverry,Adrian Mannarino,Clay,16,5
+Madrid Masters,R128,Roman Safiullin,Nicolas Jarry,Clay,26,14
+Madrid Masters,R128,Bernabe Zapata Miralles,Mackenzie Mcdonald,Clay,30,3
+Madrid Masters,R128,Marcos Giron,Nuno Borges,Clay,20,8
+Madrid Masters,R128,Dominic Thiem,Kyle Edmund,Clay,17,5
+Madrid Masters,R128,Christopher Oconnell,Filip Krajinovic,Clay,30,22
+Madrid Masters,R128,Cristian Garin,Marc Andrea Huesler,Clay,20,13
+Madrid Masters,R128,Zhizhen Zhang,Jurij Rodionov,Clay,22,15
+Madrid Masters,R128,Yosuke Watanuki,Corentin Moutet,Clay,18,8
+Madrid Masters,R128,Marco Cecchinato,Marton Fucsovics,Clay,21,7
+Madrid Masters,R128,Aslan Karatsev,Laslo Djere,Clay,24,6
+Madrid Masters,R128,Alexander Shevchenko,J J Wolf,Clay,20,11
+Madrid Masters,R128,Andrea Vavassori,Andy Murray,Clay,20,2
+Rome Masters,F,Daniil Medvedev,Holger Rune,Clay,24,7
+Rome Masters,SF,Holger Rune,Casper Ruud,Clay,30,10
+Rome Masters,SF,Daniil Medvedev,Stefanos Tsitsipas,Clay,24,5
+Rome Masters,QF,Holger Rune,Novak Djokovic,Clay,26,7
+Rome Masters,QF,Casper Ruud,Francisco Cerundolo,Clay,22,6
+Rome Masters,QF,Daniil Medvedev,Yannick Hanfmann,Clay,16,8
+Rome Masters,QF,Stefanos Tsitsipas,Borna Coric,Clay,19,4
+Rome Masters,R16,Novak Djokovic,Cameron Norrie,Clay,19,7
+Rome Masters,R16,Holger Rune,Alexei Popyrin,Clay,32,13
+Rome Masters,R16,Casper Ruud,Laslo Djere,Clay,16,9
+Rome Masters,R16,Francisco Cerundolo,Jannik Sinner,Clay,28,4
+Rome Masters,R16,Yannick Hanfmann,Andrey Rublev,Clay,31,24
+Rome Masters,R16,Daniil Medvedev,Alexander Zverev,Clay,20,8
+Rome Masters,R16,Stefanos Tsitsipas,Lorenzo Musetti,Clay,24,3
+Rome Masters,R16,Borna Coric,Fabian Marozsan,Clay,28,12
+Rome Masters,R32,Novak Djokovic,Grigor Dimitrov,Clay,26,14
+Rome Masters,R32,Cameron Norrie,Marton Fucsovics,Clay,20,7
+Rome Masters,R32,Alexei Popyrin,Roman Safiullin,Clay,24,6
+Rome Masters,R32,Holger Rune,Fabio Fognini,Clay,18,4
+Rome Masters,R32,Casper Ruud,Alexander Bublik,Clay,29,17
+Rome Masters,R32,Laslo Djere,Cristian Garin,Clay,12,4
+Rome Masters,R32,Francisco Cerundolo,Gregoire Barrere,Clay,28,5
+Rome Masters,R32,Jannik Sinner,Alexander Shevchenko,Clay,29,5
+Rome Masters,R32,Andrey Rublev,Alejandro Davidovich Fokina,Clay,21,6
+Rome Masters,R32,Yannick Hanfmann,Marco Cecchinato,Clay,29,10
+Rome Masters,R32,Alexander Zverev,J J Wolf,Clay,22,13
+Rome Masters,R32,Daniil Medvedev,Bernabe Zapata Miralles,Clay,25,8
+Rome Masters,R32,Stefanos Tsitsipas,Lorenzo Sonego,Clay,21,5
+Rome Masters,R32,Lorenzo Musetti,Frances Tiafoe,Clay,31,13
+Rome Masters,R32,Borna Coric,Roberto Carballes Baena,Clay,19,6
+Rome Masters,R32,Fabian Marozsan,Carlos Alcaraz,Clay,21,7
+Rome Masters,R64,Novak Djokovic,Tomas Martin Etcheverry,Clay,20,5
+Rome Masters,R64,Grigor Dimitrov,Stan Wawrinka,Clay,22,6
+Rome Masters,R64,Marton Fucsovics,Alex De Minaur,Clay,19,1
+Rome Masters,R64,Cameron Norrie,Alexandre Muller,Clay,17,4
+Rome Masters,R64,Alexei Popyrin,Felix Auger Aliassime,Clay,32,15
+Rome Masters,R64,Roman Safiullin,Sebastian Korda,Clay,20,11
+Rome Masters,R64,Fabio Fognini,Miomir Kecmanovic,Clay,21,8
+Rome Masters,R64,Holger Rune,Arthur Fils,Clay,18,3
+Rome Masters,R64,Casper Ruud,Arthur Rinderknech,Clay,16,3
+Rome Masters,R64,Alexander Bublik,Ben Shelton,Clay,25,15
+Rome Masters,R64,Laslo Djere,Botic Van De Zandschulp,Clay,18,1
+Rome Masters,R64,Cristian Garin,Tommy Paul,Clay,29,5
+Rome Masters,R64,Gregoire Barrere,Karen Khachanov,Clay,32,15
+Rome Masters,R64,Francisco Cerundolo,Yibing Wu,Clay,27,6
+Rome Masters,R64,Alexander Shevchenko,Sebastian Baez,Clay,19,3
+Rome Masters,R64,Jannik Sinner,Thanasi Kokkinakis,Clay,17,5
+Rome Masters,R64,Andrey Rublev,Alex Molcan,Clay,19,4
+Rome Masters,R64,Alejandro Davidovich Fokina,Guido Pella,Clay,18,2
+Rome Masters,R64,Marco Cecchinato,Roberto Bautista Agut,Clay,16,2
+Rome Masters,R64,Yannick Hanfmann,Taylor Fritz,Clay,17,3
+Rome Masters,R64,J J Wolf,Hubert Hurkacz,Clay,19,10
+Rome Masters,R64,Alexander Zverev,David Goffin,Clay,31,9
+Rome Masters,R64,Bernabe Zapata Miralles,Jason Kubler,Clay,17,0
+Rome Masters,R64,Daniil Medvedev,Emil Ruusuvuori,Clay,18,6
+Rome Masters,R64,Stefanos Tsitsipas,Nuno Borges,Clay,18,5
+Rome Masters,R64,Lorenzo Sonego,Yoshihito Nishioka,Clay,21,6
+Rome Masters,R64,Lorenzo Musetti,Matteo Arnaldi,Clay,20,1
+Rome Masters,R64,Frances Tiafoe,Daniel Altmaier,Clay,30,15
+Rome Masters,R64,Borna Coric,Thiago Monteiro,Clay,34,18
+Rome Masters,R64,Roberto Carballes Baena,Daniel Evans,Clay,34,9
+Rome Masters,R64,Fabian Marozsan,Jiri Lehecka,Clay,29,3
+Rome Masters,R64,Carlos Alcaraz,Albert Ramos,Clay,17,4
+Rome Masters,R128,Tomas Martin Etcheverry,Luca Van Assche,Clay,21,10
+Rome Masters,R128,Stan Wawrinka,Ilya Ivashka,Clay,18,7
+Rome Masters,R128,Marton Fucsovics,Filip Krajinovic,Clay,18,2
+Rome Masters,R128,Alexandre Muller,Kyle Edmund,Clay,16,7
+Rome Masters,R128,Alexei Popyrin,Christopher Oconnell,Clay,20,10
+Rome Masters,R128,Roman Safiullin,Marcos Giron,Clay,19,5
+Rome Masters,R128,Fabio Fognini,Andy Murray,Clay,30,10
+Rome Masters,R128,Arthur Fils,Juan Manuel Cerundolo,Clay,24,9
+Rome Masters,R128,Arthur Rinderknech,Flavio Cobolli,Clay,19,10
+Rome Masters,R128,Alexander Bublik,Pedro Martinez,Clay,21,15
+Rome Masters,R128,Laslo Djere,Constant Lestienne,Clay,7,3
+Rome Masters,R128,Cristian Garin,Pedro Cachin,Clay,31,13
+Rome Masters,R128,Gregoire Barrere,Brandon Nakashima,Clay,18,9
+Rome Masters,R128,Yibing Wu,Richard Gasquet,Clay,27,9
+Rome Masters,R128,Sebastian Baez,Juan Pablo Varillas,Clay,21,5
+Rome Masters,R128,Thanasi Kokkinakis,Jaume Munar,Clay,6,4
+Rome Masters,R128,Alex Molcan,Stefano Napolitano,Clay,31,14
+Rome Masters,R128,Guido Pella,Maxime Cressy,Clay,19,6
+Rome Masters,R128,Marco Cecchinato,Mackenzie Mcdonald,Clay,21,3
+Rome Masters,R128,Yannick Hanfmann,Nicolas Jarry,Clay,20,7
+Rome Masters,R128,J J Wolf,Hugo Grenier,Clay,24,11
+Rome Masters,R128,David Goffin,Luca Nardi,Clay,27,6
+Rome Masters,R128,Jason Kubler,Marc Andrea Huesler,Clay,30,9
+Rome Masters,R128,Emil Ruusuvuori,Ugo Humbert,Clay,31,16
+Rome Masters,R128,Nuno Borges,Dusan Lajovic,Clay,17,4
+Rome Masters,R128,Lorenzo Sonego,Jeremy Chardy,Clay,15,3
+Rome Masters,R128,Matteo Arnaldi,Diego Schwartzman,Clay,26,4
+Rome Masters,R128,Daniel Altmaier,Giulio Zeppieri,Clay,28,3
+Rome Masters,R128,Thiago Monteiro,Adrian Mannarino,Clay,15,5
+Rome Masters,R128,Roberto Carballes Baena,Hugo Dellien,Clay,17,0
+Rome Masters,R128,Fabian Marozsan,Corentin Moutet,Clay,26,2
+Rome Masters,R128,Albert Ramos,Francesco Passaro,Clay,27,7
+Geneva,F,Nicolas Jarry,Grigor Dimitrov,Clay,19,16
+Geneva,SF,Nicolas Jarry,Alexander Zverev,Clay,21,13
+Geneva,SF,Grigor Dimitrov,Taylor Fritz,Clay,33,21
+Geneva,QF,Nicolas Jarry,Casper Ruud,Clay,33,15
+Geneva,QF,Alexander Zverev,Yibing Wu,Clay,5,2
+Geneva,QF,Grigor Dimitrov,Christopher Oconnell,Clay,34,20
+Geneva,QF,Taylor Fritz,Ilya Ivashka,Clay,15,6
+Geneva,R16,Casper Ruud,J J Wolf,Clay,21,12
+Geneva,R16,Alexander Zverev,Christopher Eubanks,Clay,17,9
+Geneva,R16,Yibing Wu,Marco Cecchinato,Clay,21,2
+Geneva,R16,Christopher Oconnell,Bernabe Zapata Miralles,Clay,9,4
+Geneva,R16,Grigor Dimitrov,Roberto Carballes Baena,Clay,17,7
+Geneva,R16,Ilya Ivashka,Adrian Mannarino,Clay,29,5
+Geneva,R16,Taylor Fritz,Marcos Giron,Clay,27,12
+Geneva,R32,J J Wolf,Hugo Dellien,Clay,18,6
+Geneva,R32,Nicolas Jarry,Dusan Lajovic,Clay,18,10
+Geneva,R32,Tallon Griekspoor,Stefano Travaglia,Clay,24,10
+Geneva,R32,Christopher Eubanks,Benoit Paire,Clay,21,8
+Geneva,R32,Yibing Wu,Marc Andrea Huesler,Clay,32,12
+Geneva,R32,Marco Cecchinato,Ben Shelton,Clay,28,15
+Geneva,R32,Bernabe Zapata Miralles,Vitaliy Sachko,Clay,18,3
+Geneva,R32,Christopher Oconnell,Nino Serdarusic,Clay,31,16
+Geneva,R32,Roberto Carballes Baena,Daniel Rincon,Clay,26,4
+Geneva,R32,Adrian Mannarino,Filip Krajinovic,Clay,19,11
+Geneva,R32,Ilya Ivashka,Guido Pella,Clay,22,7
+Geneva,R32,Marcos Giron,Alexander Bublik,Clay,16,8
+Lyon,F,Arthur Fils,Francisco Cerundolo,Clay,21,3
+Lyon,SF,Arthur Fils,Brandon Nakashima,Clay,34,16
+Lyon,SF,Francisco Cerundolo,Cameron Norrie,Clay,15,4
+Lyon,QF,Brandon Nakashima,Tommy Paul,Clay,21,13
+Lyon,QF,Francisco Cerundolo,Jack Draper,Clay,29,5
+Lyon,QF,Cameron Norrie,Sebastian Baez,Clay,23,4
+Lyon,R16,Felix Auger Aliassime,Pablo Llamas Ruiz,Clay,20,8
+Lyon,R16,Arthur Fils,Mikael Ymer,Clay,11,1
+Lyon,R16,Tommy Paul,Gregoire Barrere,Clay,31,8
+Lyon,R16,Brandon Nakashima,Arthur Rinderknech,Clay,31,19
+Lyon,R16,Jack Draper,Miomir Kecmanovic,Clay,22,8
+Lyon,R16,Francisco Cerundolo,Juan Pablo Varillas,Clay,8,0
+Lyon,R16,Sebastian Baez,Pedro Cachin,Clay,29,6
+Lyon,R16,Cameron Norrie,David Goffin,Clay,19,6
+Lyon,R32,Pablo Llamas Ruiz,Max Purcell,Clay,29,6
+Lyon,R32,Arthur Fils,Zhizhen Zhang,Clay,17,12
+Lyon,R32,Mikael Ymer,Richard Gasquet,Clay,21,8
+Lyon,R32,Gregoire Barrere,Corentin Moutet,Clay,18,5
+Lyon,R32,Arthur Rinderknech,Lloyd Harris,Clay,18,4
+Lyon,R32,Brandon Nakashima,Diego Schwartzman,Clay,21,4
+Lyon,R32,Miomir Kecmanovic,Oriol Roca Batalla,Clay,16,7
+Lyon,R32,Jack Draper,Alexandre Muller,Clay,17,6
+Lyon,R32,Juan Pablo Varillas,Albert Ramos,Clay,31,15
+Lyon,R32,Sebastian Baez,Marton Fucsovics,Clay,22,2
+Lyon,R32,Pedro Cachin,Gael Monfils,Clay,27,7
+Lyon,R32,David Goffin,Alvaro Lopez San Martin,Clay,16,7
+Roland Garros,R128,Carlos Alcaraz,Flavio Cobolli,Clay,26,4
+Roland Garros,R128,Taro Daniel,Christopher Oconnell,Clay,24,6
+Roland Garros,R128,Matteo Arnaldi,Daniel Elahi Galan,Clay,31,9
+Roland Garros,R128,Denis Shapovalov,Brandon Nakashima,Clay,50,10
+Roland Garros,R128,Lorenzo Musetti,Mikael Ymer,Clay,30,6
+Roland Garros,R128,Alexander Shevchenko,Oscar Otte,Clay,41,14
+Roland Garros,R128,Lucas Pouille,Jurij Rodionov,Clay,27,6
+Roland Garros,R128,Cameron Norrie,Benoit Paire,Clay,48,21
+Roland Garros,R128,Fabio Fognini,Felix Auger Aliassime,Clay,29,7
+Roland Garros,R128,Jason Kubler,Facundo Diaz Acosta,Clay,42,8
+Roland Garros,R128,Sebastian Ofner,Maxime Cressy,Clay,30,21
+Roland Garros,R128,Sebastian Korda,Mackenzie Mcdonald,Clay,32,10
+Roland Garros,R128,Diego Schwartzman,Bernabe Zapata Miralles,Clay,43,5
+Roland Garros,R128,Nuno Borges,John Isner,Clay,56,43
+Roland Garros,R128,Roberto Carballes Baena,Eduardo Nava,Clay,29,4
+Roland Garros,R128,Stefanos Tsitsipas,Jiri Vesely,Clay,43,23
+Roland Garros,R128,Novak Djokovic,Aleksandar Kovacevic,Clay,29,17
+Roland Garros,R128,Marton Fucsovics,Hugo Grenier,Clay,37,11
+Roland Garros,R128,Luca Van Assche,Marco Cecchinato,Clay,23,4
+Roland Garros,R128,Alejandro Davidovich Fokina,Arthur Fils,Clay,35,6
+Roland Garros,R128,Roberto Bautista Agut,Yibing Wu,Clay,26,8
+Roland Garros,R128,Juan Pablo Varillas,Juncheng Shang,Clay,42,6
+Roland Garros,R128,Tallon Griekspoor,Pedro Martinez,Clay,45,11
+Roland Garros,R128,Hubert Hurkacz,David Goffin,Clay,49,18
+Roland Garros,R128,Karen Khachanov,Constant Lestienne,Clay,40,17
+Roland Garros,R128,Radu Albot,Patrick Kypson,Clay,34,4
+Roland Garros,R128,Stan Wawrinka,Albert Ramos,Clay,51,21
+Roland Garros,R128,Thanasi Kokkinakis,Daniel Evans,Clay,30,13
+Roland Garros,R128,Lorenzo Sonego,Ben Shelton,Clay,37,7
+Roland Garros,R128,Ugo Humbert,Adrian Mannarino,Clay,25,11
+Roland Garros,R128,Corentin Moutet,Arthur Cazaux,Clay,36,7
+Roland Garros,R128,Andrey Rublev,Laslo Djere,Clay,35,15
+Roland Garros,R128,Holger Rune,Christopher Eubanks,Clay,39,17
+Roland Garros,R128,Gael Monfils,Sebastian Baez,Clay,49,7
+Roland Garros,R128,Genaro Alberto Olivieri,Giovanni Mpetshi Perricard,Clay,51,13
+Roland Garros,R128,Andrea Vavassori,Miomir Kecmanovic,Clay,56,19
+Roland Garros,R128,Francisco Cerundolo,Jaume Munar,Clay,34,3
+Roland Garros,R128,Yannick Hanfmann,Thiago Monteiro,Clay,54,23
+Roland Garros,R128,Arthur Rinderknech,Richard Gasquet,Clay,35,14
+Roland Garros,R128,Taylor Fritz,Michael Mmoh,Clay,22,16
+Roland Garros,R128,Tommy Paul,Dominic Stricker,Clay,27,3
+Roland Garros,R128,Nicolas Jarry,Hugo Dellien,Clay,28,14
+Roland Garros,R128,Marcos Giron,Hamad Medjedovic,Clay,27,9
+Roland Garros,R128,Jiri Lehecka,Jan Lennard Struff,Clay,44,16
+Roland Garros,R128,Thiago Agustin Tirante,Botic Van De Zandschulp,Clay,37,4
+Roland Garros,R128,Zhizhen Zhang,Dusan Lajovic,Clay,12,2
+Roland Garros,R128,Giulio Zeppieri,Alexander Bublik,Clay,47,25
+Roland Garros,R128,Casper Ruud,Elias Ymer,Clay,27,6
+Roland Garros,R128,Jannik Sinner,Alexandre Muller,Clay,24,8
+Roland Garros,R128,Daniel Altmaier,Marc Andrea Huesler,Clay,29,12
+Roland Garros,R128,Emil Ruusuvuori,Gregoire Barrere,Clay,49,20
+Roland Garros,R128,Grigor Dimitrov,Timofey Skatov,Clay,23,10
+Roland Garros,R128,Alexander Zverev,Lloyd Harris,Clay,31,17
+Roland Garros,R128,Alex Molcan,Hugo Gaston,Clay,29,10
+Roland Garros,R128,Aslan Karatsev,Alexei Popyrin,Clay,36,16
+Roland Garros,R128,Frances Tiafoe,Filip Krajinovic,Clay,27,19
+Roland Garros,R128,Borna Coric,Federico Coria,Clay,42,14
+Roland Garros,R128,Pedro Cachin,Dominic Thiem,Clay,47,11
+Roland Garros,R128,Tomas Martin Etcheverry,Jack Draper,Clay,11,1
+Roland Garros,R128,Alex De Minaur,Ilya Ivashka,Clay,35,8
+Roland Garros,R128,Yoshihito Nishioka,J J Wolf,Clay,44,10
+Roland Garros,R128,Max Purcell,Jordan Thompson,Clay,39,13
+Roland Garros,R128,Guido Pella,Quentin Halys,Clay,54,23
+Roland Garros,R128,Thiago Seyboth Wild,Daniil Medvedev,Clay,51,16
+Roland Garros,R64,Carlos Alcaraz,Taro Daniel,Clay,31,2
+Roland Garros,R64,Denis Shapovalov,Matteo Arnaldi,Clay,35,4
+Roland Garros,R64,Lorenzo Musetti,Alexander Shevchenko,Clay,22,2
+Roland Garros,R64,Cameron Norrie,Lucas Pouille,Clay,25,4
+Roland Garros,R64,Fabio Fognini,Jason Kubler,Clay,30,6
+Roland Garros,R64,Sebastian Ofner,Sebastian Korda,Clay,31,8
+Roland Garros,R64,Diego Schwartzman,Nuno Borges,Clay,31,5
+Roland Garros,R64,Stefanos Tsitsipas,Roberto Carballes Baena,Clay,29,6
+Roland Garros,R64,Novak Djokovic,Marton Fucsovics,Clay,18,3
+Roland Garros,R64,Alejandro Davidovich Fokina,Luca Van Assche,Clay,31,5
+Roland Garros,R64,Juan Pablo Varillas,Roberto Bautista Agut,Clay,40,11
+Roland Garros,R64,Hubert Hurkacz,Tallon Griekspoor,Clay,55,24
+Roland Garros,R64,Karen Khachanov,Radu Albot,Clay,27,10
+Roland Garros,R64,Thanasi Kokkinakis,Stan Wawrinka,Clay,50,24
+Roland Garros,R64,Lorenzo Sonego,Ugo Humbert,Clay,31,4
+Roland Garros,R64,Andrey Rublev,Corentin Moutet,Clay,36,8
+Roland Garros,R64,Genaro Alberto Olivieri,Andrea Vavassori,Clay,43,13
+Roland Garros,R64,Francisco Cerundolo,Yannick Hanfmann,Clay,28,10
+Roland Garros,R64,Taylor Fritz,Arthur Rinderknech,Clay,37,15
+Roland Garros,R64,Nicolas Jarry,Tommy Paul,Clay,38,8
+Roland Garros,R64,Marcos Giron,Jiri Lehecka,Clay,25,8
+Roland Garros,R64,Zhizhen Zhang,Thiago Agustin Tirante,Clay,31,11
+Roland Garros,R64,Casper Ruud,Giulio Zeppieri,Clay,39,11
+Roland Garros,R64,Daniel Altmaier,Jannik Sinner,Clay,54,21
+Roland Garros,R64,Grigor Dimitrov,Emil Ruusuvuori,Clay,31,10
+Roland Garros,R64,Alexander Zverev,Alex Molcan,Clay,25,6
+Roland Garros,R64,Frances Tiafoe,Aslan Karatsev,Clay,38,22
+Roland Garros,R64,Borna Coric,Pedro Cachin,Clay,48,7
+Roland Garros,R64,Tomas Martin Etcheverry,Alex De Minaur,Clay,30,3
+Roland Garros,R64,Yoshihito Nishioka,Max Purcell,Clay,40,9
+Roland Garros,R64,Thiago Seyboth Wild,Guido Pella,Clay,37,9
+Roland Garros,R32,Carlos Alcaraz,Denis Shapovalov,Clay,25,0
+Roland Garros,R32,Lorenzo Musetti,Cameron Norrie,Clay,25,4
+Roland Garros,R32,Sebastian Ofner,Fabio Fognini,Clay,50,6
+Roland Garros,R32,Stefanos Tsitsipas,Diego Schwartzman,Clay,25,7
+Roland Garros,R32,Novak Djokovic,Alejandro Davidovich Fokina,Clay,32,4
+Roland Garros,R32,Juan Pablo Varillas,Hubert Hurkacz,Clay,48,15
+Roland Garros,R32,Karen Khachanov,Thanasi Kokkinakis,Clay,38,11
+Roland Garros,R32,Lorenzo Sonego,Andrey Rublev,Clay,48,17
+Roland Garros,R32,Holger Rune,Genaro Alberto Olivieri,Clay,26,6
+Roland Garros,R32,Francisco Cerundolo,Taylor Fritz,Clay,40,10
+Roland Garros,R32,Nicolas Jarry,Marcos Giron,Clay,38,21
+Roland Garros,R32,Casper Ruud,Zhizhen Zhang,Clay,37,12
+Roland Garros,R32,Grigor Dimitrov,Daniel Altmaier,Clay,26,7
+Roland Garros,R32,Alexander Zverev,Frances Tiafoe,Clay,40,16
+Roland Garros,R32,Tomas Martin Etcheverry,Borna Coric,Clay,29,8
+Roland Garros,R32,Yoshihito Nishioka,Thiago Seyboth Wild,Clay,45,12
+Roland Garros,R16,Carlos Alcaraz,Lorenzo Musetti,Clay,25,8
+Roland Garros,R16,Stefanos Tsitsipas,Sebastian Ofner,Clay,27,7
+Roland Garros,R16,Novak Djokovic,Juan Pablo Varillas,Clay,25,10
+Roland Garros,R16,Karen Khachanov,Lorenzo Sonego,Clay,36,20
+Roland Garros,R16,Holger Rune,Francisco Cerundolo,Clay,50,13
+Roland Garros,R16,Casper Ruud,Nicolas Jarry,Clay,36,21
+Roland Garros,R16,Alexander Zverev,Grigor Dimitrov,Clay,26,4
+Roland Garros,R16,Tomas Martin Etcheverry,Yoshihito Nishioka,Clay,25,15
+Roland Garros,QF,Carlos Alcaraz,Stefanos Tsitsipas,Clay,27,11
+Roland Garros,QF,Novak Djokovic,Karen Khachanov,Clay,40,18
+Roland Garros,QF,Casper Ruud,Holger Rune,Clay,33,6
+Roland Garros,QF,Alexander Zverev,Tomas Martin Etcheverry,Clay,38,15
+Roland Garros,SF,Novak Djokovic,Carlos Alcaraz,Clay,35,11
+Roland Garros,SF,Casper Ruud,Alexander Zverev,Clay,25,8
+Roland Garros,F,Novak Djokovic,Casper Ruud,Clay,33,15
+s Hertogenbosch,F,Tallon Griekspoor,Jordan Thompson,Grass,33,21
+s Hertogenbosch,SF,Jordan Thompson,Rinky Hijikata,Grass,21,7
+s Hertogenbosch,SF,Tallon Griekspoor,Emil Ruusuvuori,Grass,22,21
+s Hertogenbosch,QF,Jordan Thompson,Adrian Mannarino,Grass,32,16
+s Hertogenbosch,QF,Rinky Hijikata,Mackenzie Mcdonald,Grass,28,13
+s Hertogenbosch,QF,Tallon Griekspoor,Alex De Minaur,Grass,29,22
+s Hertogenbosch,QF,Emil Ruusuvuori,Jannik Sinner,Grass,19,5
+s Hertogenbosch,R16,Adrian Mannarino,Daniil Medvedev,Grass,28,9
+s Hertogenbosch,R16,Jordan Thompson,Milos Raonic,Grass,19,14
+s Hertogenbosch,R16,Mackenzie Mcdonald,Borna Coric,Grass,20,9
+s Hertogenbosch,R16,Rinky Hijikata,Marc Andrea Huesler,Grass,29,14
+s Hertogenbosch,R16,Tallon Griekspoor,Alexei Popyrin,Grass,17,10
+s Hertogenbosch,R16,Alex De Minaur,Laslo Djere,Grass,28,14
+s Hertogenbosch,R16,Emil Ruusuvuori,Ugo Humbert,Grass,30,15
+s Hertogenbosch,R16,Jannik Sinner,Alexander Bublik,Grass,18,17
+s Hertogenbosch,R32,Adrian Mannarino,Arthur Fils,Grass,22,16
+s Hertogenbosch,R32,Jordan Thompson,Giovanni Mpetshi Perricard,Grass,22,18
+s Hertogenbosch,R32,Milos Raonic,Miomir Kecmanovic,Grass,19,19
+s Hertogenbosch,R32,Mackenzie Mcdonald,Ilya Ivashka,Grass,19,10
+s Hertogenbosch,R32,Rinky Hijikata,Gijs Brouwer,Grass,29,20
+s Hertogenbosch,R32,Marc Andrea Huesler,Maxime Cressy,Grass,20,16
+s Hertogenbosch,R32,Tallon Griekspoor,Mikael Ymer,Grass,26,13
+s Hertogenbosch,R32,Alexei Popyrin,Arthur Rinderknech,Grass,21,15
+s Hertogenbosch,R32,Laslo Djere,Ricardas Berankis,Grass,18,11
+s Hertogenbosch,R32,Ugo Humbert,Jason Kubler,Grass,18,16
+s Hertogenbosch,R32,Emil Ruusuvuori,Brandon Nakashima,Grass,27,14
+s Hertogenbosch,R32,Alexander Bublik,David Goffin,Grass,24,9
+Stuttgart,F,Frances Tiafoe,Jan Lennard Struff,Grass,34,41
+Stuttgart,SF,Jan Lennard Struff,Hubert Hurkacz,Grass,27,32
+Stuttgart,SF,Frances Tiafoe,Marton Fucsovics,Grass,21,17
+Stuttgart,QF,Jan Lennard Struff,Richard Gasquet,Grass,22,25
+Stuttgart,QF,Hubert Hurkacz,Christopher Oconnell,Grass,20,21
+Stuttgart,QF,Frances Tiafoe,Lorenzo Musetti,Grass,32,27
+Stuttgart,QF,Marton Fucsovics,Taylor Fritz,Grass,22,12
+Stuttgart,R16,Richard Gasquet,Stefanos Tsitsipas,Grass,32,24
+Stuttgart,R16,Jan Lennard Struff,Tommy Paul,Grass,24,31
+Stuttgart,R16,Hubert Hurkacz,Yosuke Watanuki,Grass,34,48
+Stuttgart,R16,Christopher Oconnell,Lorenzo Sonego,Grass,21,18
+Stuttgart,R16,Lorenzo Musetti,Gregoire Barrere,Grass,18,12
+Stuttgart,R16,Frances Tiafoe,Jiri Lehecka,Grass,22,17
+Stuttgart,R16,Marton Fucsovics,Yibing Wu,Grass,30,9
+Stuttgart,R16,Taylor Fritz,Aslan Karatsev,Grass,21,24
+Stuttgart,R32,Richard Gasquet,Christopher Eubanks,Grass,22,21
+Stuttgart,R32,Jan Lennard Struff,Zhizhen Zhang,Grass,17,11
+Stuttgart,R32,Tommy Paul,Benjamin Bonzi,Grass,19,9
+Stuttgart,R32,Yosuke Watanuki,Feliciano Lopez,Grass,21,29
+Stuttgart,R32,Christopher Oconnell,Daniel Altmaier,Grass,16,10
+Stuttgart,R32,Lorenzo Sonego,Matteo Berrettini,Grass,15,8
+Stuttgart,R32,Lorenzo Musetti,Borna Gojo,Grass,21,16
+Stuttgart,R32,Gregoire Barrere,Oscar Otte,Grass,19,12
+Stuttgart,R32,Jiri Lehecka,Marcos Giron,Grass,29,22
+Stuttgart,R32,Yibing Wu,Nick Kyrgios,Grass,21,20
+Stuttgart,R32,Marton Fucsovics,Denis Shapovalov,Grass,28,9
+Stuttgart,R32,Aslan Karatsev,Corentin Moutet,Grass,36,22
+Halle,F,Alexander Bublik,Andrey Rublev,Grass,27,32
+Halle,SF,Andrey Rublev,Roberto Bautista Agut,Grass,19,15
+Halle,SF,Alexander Bublik,Alexander Zverev,Grass,21,23
+Halle,QF,Roberto Bautista Agut,Daniil Medvedev,Grass,24,12
+Halle,QF,Andrey Rublev,Tallon Griekspoor,Grass,28,29
+Halle,QF,Alexander Bublik,Jannik Sinner,Grass,14,8
+Halle,QF,Alexander Zverev,Nicolas Jarry,Grass,21,18
+Halle,R16,Daniil Medvedev,Laslo Djere,Grass,30,16
+Halle,R16,Roberto Bautista Agut,Brandon Nakashima,Grass,24,13
+Halle,R16,Andrey Rublev,Yannick Hanfmann,Grass,21,10
+Halle,R16,Tallon Griekspoor,Hubert Hurkacz,Grass,28,25
+Halle,R16,Alexander Bublik,Jan Lennard Struff,Grass,30,37
+Halle,R16,Jannik Sinner,Lorenzo Sonego,Grass,32,18
+Halle,R16,Alexander Zverev,Denis Shapovalov,Grass,18,10
+Halle,R16,Nicolas Jarry,Stefanos Tsitsipas,Grass,24,16
+Halle,R32,Daniil Medvedev,Marcos Giron,Grass,19,16
+Halle,R32,Laslo Djere,Oscar Otte,Grass,21,12
+Halle,R32,Brandon Nakashima,Mikael Ymer,Grass,32,16
+Halle,R32,Roberto Bautista Agut,Andrea Vavassori,Grass,19,9
+Halle,R32,Andrey Rublev,Yibing Wu,Grass,30,14
+Halle,R32,Yannick Hanfmann,Louis Wessels,Grass,28,13
+Halle,R32,Tallon Griekspoor,Roberto Carballes Baena,Grass,20,13
+Halle,R32,Hubert Hurkacz,Christopher Eubanks,Grass,31,31
+Halle,R32,Alexander Bublik,Borna Coric,Grass,16,16
+Halle,R32,Jan Lennard Struff,Roman Safiullin,Grass,19,17
+Halle,R32,Lorenzo Sonego,Aslan Karatsev,Grass,25,18
+Halle,R32,Jannik Sinner,Richard Gasquet,Grass,29,15
+Halle,R32,Alexander Zverev,Dominic Thiem,Grass,19,9
+Halle,R32,Denis Shapovalov,Lloyd Harris,Grass,22,18
+Halle,R32,Nicolas Jarry,Corentin Moutet,Grass,21,10
+Halle,R32,Stefanos Tsitsipas,Gregoire Barrere,Grass,34,20
+Queen's Club,F,Carlos Alcaraz,Alex De Minaur,Grass,20,8
+Queen's Club,SF,Carlos Alcaraz,Sebastian Korda,Grass,19,11
+Queen's Club,SF,Alex De Minaur,Holger Rune,Grass,21,6
+Queen's Club,QF,Carlos Alcaraz,Grigor Dimitrov,Grass,20,11
+Queen's Club,QF,Sebastian Korda,Cameron Norrie,Grass,22,10
+Queen's Club,QF,Alex De Minaur,Adrian Mannarino,Grass,30,6
+Queen's Club,QF,Holger Rune,Lorenzo Musetti,Grass,22,9
+Queen's Club,R16,Carlos Alcaraz,Jiri Lehecka,Grass,17,8
+Queen's Club,R16,Grigor Dimitrov,Francisco Cerundolo,Grass,21,10
+Queen's Club,R16,Sebastian Korda,Frances Tiafoe,Grass,21,21
+Queen's Club,R16,Cameron Norrie,Jordan Thompson,Grass,27,17
+Queen's Club,R16,Alex De Minaur,Diego Schwartzman,Grass,16,0
+Queen's Club,R16,Adrian Mannarino,Taylor Fritz,Grass,22,13
+Queen's Club,R16,Lorenzo Musetti,Ben Shelton,Grass,30,15
+Queen's Club,R16,Holger Rune,Ryan Peniston,Grass,19,7
+Queen's Club,R32,Carlos Alcaraz,Arthur Rinderknech,Grass,34,13
+Queen's Club,R32,Jiri Lehecka,Alejandro Davidovich Fokina,Grass,21,12
+Queen's Club,R32,Grigor Dimitrov,Emil Ruusuvuori,Grass,18,11
+Queen's Club,R32,Francisco Cerundolo,Tommy Paul,Grass,32,8
+Queen's Club,R32,Frances Tiafoe,Botic Van De Zandschulp,Grass,18,12
+Queen's Club,R32,Sebastian Korda,Daniel Evans,Grass,22,15
+Queen's Club,R32,Jordan Thompson,Alexei Popyrin,Grass,20,6
+Queen's Club,R32,Cameron Norrie,Miomir Kecmanovic,Grass,22,13
+Queen's Club,R32,Alex De Minaur,Andy Murray,Grass,16,3
+Queen's Club,R32,Diego Schwartzman,Mackenzie Mcdonald,Grass,18,7
+Queen's Club,R32,Adrian Mannarino,Liam Broady,Grass,26,9
+Queen's Club,R32,Taylor Fritz,Bernabe Zapata Miralles,Grass,22,10
+Queen's Club,R32,Lorenzo Musetti,Jan Choinski,Grass,18,10
+Queen's Club,R32,Ben Shelton,J J Wolf,Grass,24,18
+Queen's Club,R32,Ryan Peniston,Ugo Humbert,Grass,18,4
+Queen's Club,R32,Holger Rune,Maxime Cressy,Grass,24,21
+Mallorca,F,Christopher Eubanks,Adrian Mannarino,Grass,17,15
+Mallorca,SF,Adrian Mannarino,Yannick Hanfmann,Grass,22,7
+Mallorca,SF,Christopher Eubanks,Lloyd Harris,Grass,31,26
+Mallorca,QF,Yannick Hanfmann,Feliciano Lopez,Grass,18,14
+Mallorca,QF,Adrian Mannarino,Corentin Moutet,Grass,20,2
+Mallorca,QF,Christopher Eubanks,Arthur Rinderknech,Grass,24,17
+Mallorca,QF,Lloyd Harris,Pavel Kotov,Grass,20,14
+Mallorca,R16,Yannick Hanfmann,Stefanos Tsitsipas,Grass,27,11
+Mallorca,R16,Feliciano Lopez,Jordan Thompson,Grass,28,17
+Mallorca,R16,Adrian Mannarino,Guido Pella,Grass,30,15
+Mallorca,R16,Corentin Moutet,Roberto Carballes Baena,Grass,21,5
+Mallorca,R16,Arthur Rinderknech,Constant Lestienne,Grass,17,12
+Mallorca,R16,Christopher Eubanks,Ben Shelton,Grass,34,28
+Mallorca,R16,Lloyd Harris,Roman Safiullin,Grass,21,31
+Mallorca,R16,Pavel Kotov,Alejandro Davidovich Fokina,Grass,27,13
+Mallorca,R32,Yannick Hanfmann,Pedro Cachin,Grass,15,11
+Mallorca,R32,Feliciano Lopez,Max Purcell,Grass,21,20
+Mallorca,R32,Jordan Thompson,Richard Gasquet,Grass,19,17
+Mallorca,R32,Guido Pella,Marcos Giron,Grass,29,8
+Mallorca,R32,Corentin Moutet,Christopher Oconnell,Grass,22,8
+Mallorca,R32,Roberto Carballes Baena,Ilya Ivashka,Grass,26,6
+Mallorca,R32,Arthur Rinderknech,Albert Ramos,Grass,24,24
+Mallorca,R32,Constant Lestienne,Jason Kubler,Grass,30,17
+Mallorca,R32,Christopher Eubanks,Alex Michelsen,Grass,33,23
+Mallorca,R32,Lloyd Harris,Bernabe Zapata Miralles,Grass,20,12
+Mallorca,R32,Roman Safiullin,Abedallah Shelbayh,Grass,17,7
+Mallorca,R32,Pavel Kotov,Li Tu,Grass,21,11
+Eastbourne,F,Francisco Cerundolo,Tommy Paul,Grass,27,7
+Eastbourne,SF,Francisco Cerundolo,Mackenzie Mcdonald,Grass,28,4
+Eastbourne,SF,Tommy Paul,Gregoire Barrere,Grass,19,5
+Eastbourne,QF,Mackenzie Mcdonald,Mikael Ymer,Grass,28,9
+Eastbourne,QF,Francisco Cerundolo,Zhizhen Zhang,Grass,17,5
+Eastbourne,QF,Gregoire Barrere,Miomir Kecmanovic,Grass,24,11
+Eastbourne,QF,Tommy Paul,J J Wolf,Grass,32,21
+Eastbourne,R16,Mackenzie Mcdonald,Taylor Fritz,Grass,24,18
+Eastbourne,R16,Mikael Ymer,Liam Broady,Grass,18,4
+Eastbourne,R16,Francisco Cerundolo,Marc Andrea Huesler,Grass,24,15
+Eastbourne,R16,Zhizhen Zhang,Maxime Cressy,Grass,31,14
+Eastbourne,R16,Miomir Kecmanovic,Aleksandar Vukic,Grass,22,17
+Eastbourne,R16,Gregoire Barrere,Nicolas Jarry,Grass,29,12
+Eastbourne,R16,J J Wolf,Luca Van Assche,Grass,27,20
+Eastbourne,R16,Tommy Paul,Sebastian Baez,Grass,19,4
+Eastbourne,R32,Mackenzie Mcdonald,Marco Cecchinato,Grass,18,12
+Eastbourne,R32,Liam Broady,Jan Choinski,Grass,19,11
+Eastbourne,R32,Mikael Ymer,Botic Van De Zandschulp,Grass,27,9
+Eastbourne,R32,Marc Andrea Huesler,Ryan Peniston,Grass,17,10
+Eastbourne,R32,Maxime Cressy,Daniel Elahi Galan,Grass,22,12
+Eastbourne,R32,Zhizhen Zhang,Lorenzo Sonego,Grass,21,15
+Eastbourne,R32,Miomir Kecmanovic,Yibing Wu,Grass,24,19
+Eastbourne,R32,Aleksandar Vukic,Brandon Nakashima,Grass,36,28
+Eastbourne,R32,Gregoire Barrere,Emil Ruusuvuori,Grass,33,17
+Eastbourne,R32,J J Wolf,Tomas Martin Etcheverry,Grass,18,13
+Eastbourne,R32,Luca Van Assche,George Loffhagen,Grass,32,6
+Eastbourne,R32,Sebastian Baez,Nuno Borges,Grass,19,5
+Wimbledon,R128,Carlos Alcaraz,Jeremy Chardy,Grass,26,11
+Wimbledon,R128,Alexandre Muller,Arthur Rinderknech,Grass,39,21
+Wimbledon,R128,Jason Kubler,Ugo Humbert,Grass,46,35
+Wimbledon,R128,Nicolas Jarry,Marco Cecchinato,Grass,35,22
+Wimbledon,R128,Alexander Zverev,Gijs Brouwer,Grass,36,27
+Wimbledon,R128,Yosuke Watanuki,Marc Andrea Huesler,Grass,60,52
+Wimbledon,R128,Matteo Berrettini,Lorenzo Sonego,Grass,44,25
+Wimbledon,R128,Alex De Minaur,Kimmer Coppejans,Grass,44,18
+Wimbledon,R128,Frances Tiafoe,Yibing Wu,Grass,32,23
+Wimbledon,R128,Dominic Stricker,Alexei Popyrin,Grass,48,42
+Wimbledon,R128,Ilya Ivashka,Federico Coria,Grass,35,8
+Wimbledon,R128,Grigor Dimitrov,Sho Shimabukuro,Grass,22,12
+Wimbledon,R128,Alejandro Davidovich Fokina,Arthur Fils,Grass,28,7
+Wimbledon,R128,Botic Van De Zandschulp,Zhizhen Zhang,Grass,51,32
+Wimbledon,R128,Roberto Carballes Baena,Matteo Arnaldi,Grass,42,11
+Wimbledon,R128,Holger Rune,George Loffhagen,Grass,30,16
+Wimbledon,R128,Daniil Medvedev,Arthur Fery,Grass,31,9
+Wimbledon,R128,Adrian Mannarino,Alexander Shevchenko,Grass,26,11
+Wimbledon,R128,Marcos Giron,Hugo Dellien,Grass,33,19
+Wimbledon,R128,Marton Fucsovics,Tallon Griekspoor,Grass,28,11
+Wimbledon,R128,Francisco Cerundolo,Nuno Borges,Grass,40,16
+Wimbledon,R128,Jiri Lehecka,Sebastian Ofner,Grass,30,11
+Wimbledon,R128,Milos Raonic,Dennis Novak,Grass,43,32
+Wimbledon,R128,Tommy Paul,Shintaro Mochizuki,Grass,28,10
+Wimbledon,R128,Cameron Norrie,Tomas Machac,Grass,36,21
+Wimbledon,R128,Christopher Eubanks,Thiago Monteiro,Grass,43,38
+Wimbledon,R128,Christopher Oconnell,Hamad Medjedovic,Grass,42,21
+Wimbledon,R128,Jiri Vesely,Sebastian Korda,Grass,40,42
+Wimbledon,R128,Ben Shelton,Taro Daniel,Grass,47,26
+Wimbledon,R128,Laslo Djere,Maxime Cressy,Grass,52,38
+Wimbledon,R128,Andy Murray,Ryan Peniston,Grass,22,7
+Wimbledon,R128,Stefanos Tsitsipas,Dominic Thiem,Grass,56,28
+Wimbledon,R128,Jannik Sinner,Juan Manuel Cerundolo,Grass,24,12
+Wimbledon,R128,Diego Schwartzman,Miomir Kecmanovic,Grass,25,2
+Wimbledon,R128,Aleksandar Vukic,Daniel Altmaier,Grass,43,17
+Wimbledon,R128,Quentin Halys,Daniel Evans,Grass,40,35
+Wimbledon,R128,Daniel Elahi Galan,Yoshihito Nishioka,Grass,28,14
+Wimbledon,R128,Oscar Otte,Dominik Koepfer,Grass,34,24
+Wimbledon,R128,Mikael Ymer,Alex Molcan,Grass,28,7
+Wimbledon,R128,Taylor Fritz,Yannick Hanfmann,Grass,49,25
+Wimbledon,R128,Guido Pella,Borna Coric,Grass,47,23
+Wimbledon,R128,Harold Mayot,Benjamin Bonzi,Grass,31,20
+Wimbledon,R128,Corentin Moutet,Richard Gasquet,Grass,33,13
+Wimbledon,R128,Roman Safiullin,Roberto Bautista Agut,Grass,56,23
+Wimbledon,R128,Denis Shapovalov,Radu Albot,Grass,38,13
+Wimbledon,R128,Gregoire Barrere,Lloyd Harris,Grass,46,31
+Wimbledon,R128,Liam Broady,Constant Lestienne,Grass,28,10
+Wimbledon,R128,Casper Ruud,Laurent Lokoli,Grass,38,12
+Wimbledon,R128,Andrey Rublev,Max Purcell,Grass,31,14
+Wimbledon,R128,Aslan Karatsev,Luca Van Assche,Grass,41,17
+Wimbledon,R128,Tomas Barrios Vera,Sebastian Baez,Grass,44,10
+Wimbledon,R128,David Goffin,Fabian Marozsan,Grass,34,12
+Wimbledon,R128,Alexander Bublik,Mackenzie Mcdonald,Grass,43,30
+Wimbledon,R128,J J Wolf,Enzo Couacaud,Grass,34,27
+Wimbledon,R128,Maximilian Marterer,Borna Gojo,Grass,44,31
+Wimbledon,R128,Michael Mmoh,Felix Auger Aliassime,Grass,49,29
+Wimbledon,R128,Lorenzo Musetti,Juan Pablo Varillas,Grass,28,9
+Wimbledon,R128,Jaume Munar,John Isner,Grass,39,22
+Wimbledon,R128,Jan Choinski,Dusan Lajovic,Grass,41,15
+Wimbledon,R128,Hubert Hurkacz,Albert Ramos,Grass,27,17
+Wimbledon,R128,Tomas Martin Etcheverry,Bernabe Zapata Miralles,Grass,56,11
+Wimbledon,R128,Stan Wawrinka,Emil Ruusuvuori,Grass,34,9
+Wimbledon,R128,Jordan Thompson,Brandon Nakashima,Grass,48,27
+Wimbledon,R128,Novak Djokovic,Pedro Cachin,Grass,31,23
+Wimbledon,R64,Carlos Alcaraz,Alexandre Muller,Grass,32,10
+Wimbledon,R64,Nicolas Jarry,Jason Kubler,Grass,43,45
+Wimbledon,R64,Alexander Zverev,Yosuke Watanuki,Grass,38,30
+Wimbledon,R64,Matteo Berrettini,Alex De Minaur,Grass,29,16
+Wimbledon,R64,Frances Tiafoe,Dominic Stricker,Grass,31,33
+Wimbledon,R64,Grigor Dimitrov,Ilya Ivashka,Grass,29,16
+Wimbledon,R64,Alejandro Davidovich Fokina,Botic Van De Zandschulp,Grass,34,15
+Wimbledon,R64,Holger Rune,Roberto Carballes Baena,Grass,32,10
+Wimbledon,R64,Daniil Medvedev,Adrian Mannarino,Grass,31,11
+Wimbledon,R64,Marton Fucsovics,Marcos Giron,Grass,42,16
+Wimbledon,R64,Jiri Lehecka,Francisco Cerundolo,Grass,24,6
+Wimbledon,R64,Tommy Paul,Milos Raonic,Grass,46,34
+Wimbledon,R64,Christopher Eubanks,Cameron Norrie,Grass,39,29
+Wimbledon,R64,Christopher Oconnell,Jiri Vesely,Grass,31,27
+Wimbledon,R64,Laslo Djere,Ben Shelton,Grass,40,20
+Wimbledon,R64,Stefanos Tsitsipas,Andy Murray,Grass,59,30
+Wimbledon,R64,Jannik Sinner,Diego Schwartzman,Grass,27,16
+Wimbledon,R64,Quentin Halys,Aleksandar Vukic,Grass,26,20
+Wimbledon,R64,Daniel Elahi Galan,Oscar Otte,Grass,40,23
+Wimbledon,R64,Mikael Ymer,Taylor Fritz,Grass,44,19
+Wimbledon,R64,Guido Pella,Harold Mayot,Grass,42,18
+Wimbledon,R64,Roman Safiullin,Corentin Moutet,Grass,34,10
+Wimbledon,R64,Denis Shapovalov,Gregoire Barrere,Grass,32,23
+Wimbledon,R64,Liam Broady,Casper Ruud,Grass,44,15
+Wimbledon,R64,Andrey Rublev,Aslan Karatsev,Grass,44,20
+Wimbledon,R64,David Goffin,Tomas Barrios Vera,Grass,39,17
+Wimbledon,R64,Alexander Bublik,J J Wolf,Grass,28,15
+Wimbledon,R64,Maximilian Marterer,Michael Mmoh,Grass,35,30
+Wimbledon,R64,Lorenzo Musetti,Jaume Munar,Grass,26,6
+Wimbledon,R64,Hubert Hurkacz,Jan Choinski,Grass,33,24
+Wimbledon,R64,Stan Wawrinka,Tomas Martin Etcheverry,Grass,37,12
+Wimbledon,R64,Novak Djokovic,Jordan Thompson,Grass,34,29
+Wimbledon,R32,Carlos Alcaraz,Nicolas Jarry,Grass,43,27
+Wimbledon,R32,Matteo Berrettini,Alexander Zverev,Grass,35,27
+Wimbledon,R32,Grigor Dimitrov,Frances Tiafoe,Grass,25,18
+Wimbledon,R32,Holger Rune,Alejandro Davidovich Fokina,Grass,51,26
+Wimbledon,R32,Daniil Medvedev,Marton Fucsovics,Grass,39,10
+Wimbledon,R32,Jiri Lehecka,Tommy Paul,Grass,55,29
+Wimbledon,R32,Christopher Eubanks,Christopher Oconnell,Grass,39,28
+Wimbledon,R32,Stefanos Tsitsipas,Laslo Djere,Grass,33,10
+Wimbledon,R32,Jannik Sinner,Quentin Halys,Grass,36,23
+Wimbledon,R32,Daniel Elahi Galan,Mikael Ymer,Grass,50,14
+Wimbledon,R32,Roman Safiullin,Guido Pella,Grass,29,18
+Wimbledon,R32,Denis Shapovalov,Liam Broady,Grass,42,15
+Wimbledon,R32,Andrey Rublev,David Goffin,Grass,43,21
+Wimbledon,R32,Alexander Bublik,Maximilian Marterer,Grass,30,15
+Wimbledon,R32,Hubert Hurkacz,Lorenzo Musetti,Grass,33,20
+Wimbledon,R32,Novak Djokovic,Stan Wawrinka,Grass,29,17
+Wimbledon,R16,Carlos Alcaraz,Matteo Berrettini,Grass,36,13
+Wimbledon,R16,Holger Rune,Grigor Dimitrov,Grass,44,25
+Wimbledon,R16,Daniil Medvedev,Jiri Lehecka,Grass,18,14
+Wimbledon,R16,Christopher Eubanks,Stefanos Tsitsipas,Grass,51,24
+Wimbledon,R16,Jannik Sinner,Daniel Elahi Galan,Grass,32,24
+Wimbledon,R16,Roman Safiullin,Denis Shapovalov,Grass,34,14
+Wimbledon,R16,Andrey Rublev,Alexander Bublik,Grass,57,60
+Wimbledon,R16,Novak Djokovic,Hubert Hurkacz,Grass,48,51
+Wimbledon,QF,Carlos Alcaraz,Holger Rune,Grass,33,6
+Wimbledon,QF,Daniil Medvedev,Christopher Eubanks,Grass,47,45
+Wimbledon,QF,Jannik Sinner,Roman Safiullin,Grass,35,22
+Wimbledon,QF,Novak Djokovic,Andrey Rublev,Grass,36,11
+Wimbledon,SF,Carlos Alcaraz,Daniil Medvedev,Grass,27,9
+Wimbledon,SF,Novak Djokovic,Jannik Sinner,Grass,32,19
+Wimbledon,F,Carlos Alcaraz,Novak Djokovic,Grass,46,11
+Gstaad,F,Pedro Cachin,Albert Ramos,Clay,27,8
+Gstaad,SF,Pedro Cachin,Hamad Medjedovic,Clay,16,4
+Gstaad,SF,Albert Ramos,Miomir Kecmanovic,Clay,17,3
+Gstaad,QF,Pedro Cachin,Jaume Munar,Clay,18,2
+Gstaad,QF,Hamad Medjedovic,Yannick Hanfmann,Clay,18,10
+Gstaad,QF,Albert Ramos,Juan Pablo Varillas,Clay,29,4
+Gstaad,QF,Miomir Kecmanovic,Zizou Bergs,Clay,31,11
+Gstaad,R16,Pedro Cachin,Roberto Bautista Agut,Clay,24,10
+Gstaad,R16,Jaume Munar,Stan Wawrinka,Clay,19,5
+Gstaad,R16,Yannick Hanfmann,Daniel Altmaier,Clay,30,11
+Gstaad,R16,Hamad Medjedovic,Dominic Thiem,Clay,29,17
+Gstaad,R16,Juan Pablo Varillas,Facundo Bagnis,Clay,15,6
+Gstaad,R16,Albert Ramos,Lorenzo Sonego,Clay,28,10
+Gstaad,R16,Zizou Bergs,Jurij Rodionov,Clay,34,16
+Gstaad,R16,Miomir Kecmanovic,Dominic Stricker,Clay,19,11
+Gstaad,R32,Pedro Cachin,Taro Daniel,Clay,17,7
+Gstaad,R32,Jaume Munar,Alexander Ritschard,Clay,18,4
+Gstaad,R32,Stan Wawrinka,Roberto Carballes Baena,Clay,11,4
+Gstaad,R32,Daniel Altmaier,Benjamin Bonzi,Clay,19,4
+Gstaad,R32,Dominic Thiem,Alexandre Muller,Clay,19,11
+Gstaad,R32,Hamad Medjedovic,Zhizhen Zhang,Clay,27,7
+Gstaad,R32,Juan Pablo Varillas,Otto Virtanen,Clay,17,5
+Gstaad,R32,Facundo Bagnis,Arthur Rinderknech,Clay,25,19
+Gstaad,R32,Albert Ramos,Fabio Fognini,Clay,23,3
+Gstaad,R32,Zizou Bergs,Laslo Djere,Clay,25,16
+Gstaad,R32,Jurij Rodionov,Marc Andrea Huesler,Clay,21,16
+Gstaad,R32,Dominic Stricker,Arthur Fils,Clay,24,16
+Bastad,F,Andrey Rublev,Casper Ruud,Clay,18,11
+Bastad,SF,Casper Ruud,Lorenzo Musetti,Clay,21,6
+Bastad,SF,Andrey Rublev,Francisco Cerundolo,Clay,33,16
+Bastad,QF,Casper Ruud,Sebastian Ofner,Clay,19,3
+Bastad,QF,Lorenzo Musetti,Filip Misolic,Clay,25,7
+Bastad,QF,Francisco Cerundolo,Federico Coria,Clay,18,3
+Bastad,QF,Andrey Rublev,Alexander Zverev,Clay,17,7
+Bastad,R16,Casper Ruud,Alexander Shevchenko,Clay,18,4
+Bastad,R16,Sebastian Ofner,Bernabe Zapata Miralles,Clay,30,13
+Bastad,R16,Lorenzo Musetti,Matteo Arnaldi,Clay,31,11
+Bastad,R16,Filip Misolic,Jozef Kovalik,Clay,32,5
+Bastad,R16,Federico Coria,Leo Borg,Clay,18,2
+Bastad,R16,Francisco Cerundolo,Luca Van Assche,Clay,17,7
+Bastad,R16,Alexander Zverev,Thiago Monteiro,Clay,13,3
+Bastad,R16,Andrey Rublev,Pavel Kotov,Clay,21,8
+Bastad,R32,Alexander Shevchenko,Juan Manuel Cerundolo,Clay,18,2
+Bastad,R32,Bernabe Zapata Miralles,Hugo Dellien,Clay,21,3
+Bastad,R32,Sebastian Ofner,Tomas Martin Etcheverry,Clay,29,11
+Bastad,R32,Matteo Arnaldi,Emil Ruusuvuori,Clay,30,12
+Bastad,R32,Filip Misolic,Dusan Lajovic,Clay,24,9
+Bastad,R32,Jozef Kovalik,Alejandro Davidovich Fokina,Clay,19,4
+Bastad,R32,Federico Coria,Sebastian Baez,Clay,32,2
+Bastad,R32,Leo Borg,Elias Ymer,Clay,21,14
+Bastad,R32,Luca Van Assche,Dragos Nicolae Madaras,Clay,22,5
+Bastad,R32,Alexander Zverev,Alex Molcan,Clay,31,8
+Bastad,R32,Thiago Monteiro,Daniel Elahi Galan,Clay,32,19
+Bastad,R32,Pavel Kotov,Marco Cecchinato,Clay,15,1
+Newport,F,Adrian Mannarino,Alex Michelsen,Grass,18,5
+Newport,SF,Alex Michelsen,John Isner,Grass,22,25
+Newport,SF,Adrian Mannarino,Ugo Humbert,Grass,19,10
+Newport,QF,John Isner,Tommy Paul,Grass,31,33
+Newport,QF,Alex Michelsen,Mackenzie Mcdonald,Grass,18,5
+Newport,QF,Ugo Humbert,Kevin Anderson,Grass,18,12
+Newport,QF,Adrian Mannarino,Jordan Thompson,Grass,26,7
+Newport,R16,Tommy Paul,Ethan Quinn,Grass,18,9
+Newport,R16,John Isner,Corentin Moutet,Grass,19,9
+Newport,R16,Mackenzie Mcdonald,Li Tu,Grass,22,6
+Newport,R16,Alex Michelsen,James Duckworth,Grass,25,8
+Newport,R16,Kevin Anderson,Gijs Brouwer,Grass,21,14
+Newport,R16,Ugo Humbert,Steve Johnson,Grass,20,13
+Newport,R16,Jordan Thompson,Liam Broady,Grass,16,9
+Newport,R16,Adrian Mannarino,Rinky Hijikata,Grass,19,5
+Newport,R32,Ethan Quinn,Sasi Kumar Mukund,Grass,16,6
+Newport,R32,John Isner,Alex Bolt,Grass,27,27
+Newport,R32,Corentin Moutet,Eliot Spizzirri,Grass,18,5
+Newport,R32,Li Tu,Aleksandar Vukic,Grass,21,11
+Newport,R32,James Duckworth,Constant Lestienne,Grass,34,18
+Newport,R32,Alex Michelsen,Maxime Cressy,Grass,34,31
+Newport,R32,Gijs Brouwer,Max Purcell,Grass,17,5
+Newport,R32,Kevin Anderson,Gabriel Diallo,Grass,17,15
+Newport,R32,Steve Johnson,Yunseong Chung,Grass,17,10
+Newport,R32,Jordan Thompson,Aleksandar Kovacevic,Grass,13,5
+Newport,R32,Liam Broady,Shintaro Mochizuki,Grass,19,9
+Newport,R32,Rinky Hijikata,Abedallah Shelbayh,Grass,19,4
+Atlanta,F,Taylor Fritz,Aleksandar Vukic,Hard,34,30
+Atlanta,SF,Taylor Fritz,J J Wolf,Hard,21,18
+Atlanta,SF,Aleksandar Vukic,Ugo Humbert,Hard,33,28
+Atlanta,QF,Taylor Fritz,Kei Nishikori,Hard,18,8
+Atlanta,QF,J J Wolf,Dominik Koepfer,Hard,17,15
+Atlanta,QF,Aleksandar Vukic,Christopher Eubanks,Hard,20,19
+Atlanta,QF,Ugo Humbert,Alex De Minaur,Hard,21,10
+Atlanta,R16,Taylor Fritz,Yibing Wu,Hard,22,16
+Atlanta,R16,Kei Nishikori,Juncheng Shang,Hard,22,9
+Atlanta,R16,Dominik Koepfer,Daniel Evans,Hard,30,16
+Atlanta,R16,J J Wolf,Maxime Cressy,Hard,21,22
+Atlanta,R16,Christopher Eubanks,Brandon Nakashima,Hard,34,33
+Atlanta,R16,Aleksandar Vukic,Yoshihito Nishioka,Hard,34,31
+Atlanta,R16,Ugo Humbert,Lloyd Harris,Hard,22,18
+Atlanta,R16,Alex De Minaur,Thanasi Kokkinakis,Hard,19,4
+Atlanta,R32,Yibing Wu,Corentin Moutet,Hard,19,4
+Atlanta,R32,Kei Nishikori,Jordan Thompson,Hard,24,9
+Atlanta,R32,Juncheng Shang,Ben Shelton,Hard,20,17
+Atlanta,R32,Dominik Koepfer,John Isner,Hard,33,25
+Atlanta,R32,Maxime Cressy,Alex Michelsen,Hard,18,9
+Atlanta,R32,J J Wolf,Jason Jung,Hard,15,9
+Atlanta,R32,Christopher Eubanks,Andres Martin,Hard,18,8
+Atlanta,R32,Brandon Nakashima,Max Purcell,Hard,21,15
+Atlanta,R32,Aleksandar Vukic,Ethan Quinn,Hard,21,15
+Atlanta,R32,Ugo Humbert,Constant Lestienne,Hard,34,13
+Atlanta,R32,Lloyd Harris,James Duckworth,Hard,26,24
+Atlanta,R32,Thanasi Kokkinakis,Gael Monfils,Hard,28,18
+Hamburg,F,Alexander Zverev,Laslo Djere,Clay,21,6
+Hamburg,SF,Alexander Zverev,Arthur Fils,Clay,18,11
+Hamburg,SF,Laslo Djere,Zhizhen Zhang,Clay,17,10
+Hamburg,QF,Arthur Fils,Casper Ruud,Clay,16,6
+Hamburg,QF,Alexander Zverev,Luca Van Assche,Clay,19,8
+Hamburg,QF,Laslo Djere,Lorenzo Musetti,Clay,21,8
+Hamburg,QF,Zhizhen Zhang,Daniel Altmaier,Clay,20,9
+Hamburg,R16,Casper Ruud,Cristian Garin,Clay,23,4
+Hamburg,R16,Arthur Fils,Dusan Lajovic,Clay,24,3
+Hamburg,R16,Alexander Zverev,Maximilian Marterer,Clay,21,3
+Hamburg,R16,Luca Van Assche,Alejandro Davidovich Fokina,Clay,31,11
+Hamburg,R16,Laslo Djere,Guido Pella,Clay,26,8
+Hamburg,R16,Lorenzo Musetti,Jozef Kovalik,Clay,27,2
+Hamburg,R16,Zhizhen Zhang,Yannick Hanfmann,Clay,27,4
+Hamburg,R16,Daniel Altmaier,Andrey Rublev,Clay,16,11
+Hamburg,R32,Casper Ruud,Sebastian Baez,Clay,25,4
+Hamburg,R32,Cristian Garin,Hugo Dellien,Clay,28,5
+Hamburg,R32,Arthur Fils,Daniel Elahi Galan,Clay,24,11
+Hamburg,R32,Dusan Lajovic,Miomir Kecmanovic,Clay,28,3
+Hamburg,R32,Alexander Zverev,Alex Molcan,Clay,15,5
+Hamburg,R32,Maximilian Marterer,Rudolf Molleker,Clay,20,21
+Hamburg,R32,Luca Van Assche,Alexandre Muller,Clay,22,14
+Hamburg,R32,Alejandro Davidovich Fokina,Pedro Cachin,Clay,28,11
+Hamburg,R32,Laslo Djere,Tomas Martin Etcheverry,Clay,21,6
+Hamburg,R32,Guido Pella,Thiago Monteiro,Clay,29,14
+Hamburg,R32,Jozef Kovalik,Thiago Seyboth Wild,Clay,22,5
+Hamburg,R32,Lorenzo Musetti,Elias Ymer,Clay,17,5
+Hamburg,R32,Yannick Hanfmann,Francisco Cerundolo,Clay,24,1
+Hamburg,R32,Zhizhen Zhang,Jan Choinski,Clay,22,8
+Hamburg,R32,Daniel Altmaier,Richard Gasquet,Clay,22,8
+Hamburg,R32,Andrey Rublev,Bernabe Zapata Miralles,Clay,31,7
+Umag,F,Alexei Popyrin,Stan Wawrinka,Clay,31,8
+Umag,SF,Alexei Popyrin,Matteo Arnaldi,Clay,33,17
+Umag,SF,Stan Wawrinka,Lorenzo Sonego,Clay,19,8
+Umag,QF,Matteo Arnaldi,Jiri Lehecka,Clay,27,10
+Umag,QF,Alexei Popyrin,Dino Prizmic,Clay,24,5
+Umag,QF,Stan Wawrinka,Roberto Carballes Baena,Clay,22,3
+Umag,QF,Lorenzo Sonego,Jaume Munar,Clay,24,5
+Umag,R16,Jiri Lehecka,Dominic Thiem,Clay,21,7
+Umag,R16,Matteo Arnaldi,Flavio Cobolli,Clay,21,5
+Umag,R16,Alexei Popyrin,Sebastian Ofner,Clay,17,4
+Umag,R16,Dino Prizmic,Zsombor Piros,Clay,17,2
+Umag,R16,Stan Wawrinka,Federico Coria,Clay,19,3
+Umag,R16,Roberto Carballes Baena,Taro Daniel,Clay,16,0
+Umag,R16,Jaume Munar,Fabian Marozsan,Clay,19,3
+Umag,R16,Lorenzo Sonego,Marco Cecchinato,Clay,19,0
+Umag,R32,Dominic Thiem,Facundo Bagnis,Clay,22,7
+Umag,R32,Flavio Cobolli,Marin Cilic,Clay,19,6
+Umag,R32,Matteo Arnaldi,Jesper De Jong,Clay,17,3
+Umag,R32,Alexei Popyrin,Benjamin Bonzi,Clay,22,11
+Umag,R32,Dino Prizmic,Duje Ajdukovic,Clay,15,5
+Umag,R32,Zsombor Piros,Christopher Oconnell,Clay,19,7
+Umag,R32,Stan Wawrinka,Filip Misolic,Clay,17,6
+Umag,R32,Federico Coria,Marc Andrea Huesler,Clay,18,6
+Umag,R32,Taro Daniel,Martin Landaluce,Clay,27,5
+Umag,R32,Jaume Munar,Albert Ramos,Clay,27,3
+Umag,R32,Fabian Marozsan,Juan Manuel Cerundolo,Clay,17,6
+Umag,R32,Marco Cecchinato,Alexander Shevchenko,Clay,31,4
+Kitzbuhel,F,Sebastian Baez,Dominic Thiem,Clay,16,5
+Kitzbuhel,SF,Sebastian Baez,Tomas Martin Etcheverry,Clay,31,10
+Kitzbuhel,SF,Dominic Thiem,Laslo Djere,Clay,36,17
+Kitzbuhel,QF,Tomas Martin Etcheverry,Daniel Elahi Galan,Clay,31,15
+Kitzbuhel,QF,Sebastian Baez,Alex Molcan,Clay,19,1
+Kitzbuhel,QF,Laslo Djere,Pedro Cachin,Clay,18,6
+Kitzbuhel,QF,Dominic Thiem,Arthur Rinderknech,Clay,29,16
+Kitzbuhel,R16,Tomas Martin Etcheverry,Guido Andreozzi,Clay,16,3
+Kitzbuhel,R16,Daniel Elahi Galan,Daniel Altmaier,Clay,29,9
+Kitzbuhel,R16,Alex Molcan,Sebastian Ofner,Clay,34,16
+Kitzbuhel,R16,Sebastian Baez,Roberto Carballes Baena,Clay,15,1
+Kitzbuhel,R16,Laslo Djere,Thiago Seyboth Wild,Clay,21,10
+Kitzbuhel,R16,Pedro Cachin,Albert Ramos,Clay,21,8
+Kitzbuhel,R16,Dominic Thiem,Zhizhen Zhang,Clay,24,14
+Kitzbuhel,R16,Arthur Rinderknech,Yannick Hanfmann,Clay,21,18
+Kitzbuhel,R32,Guido Andreozzi,Filip Misolic,Clay,30,11
+Kitzbuhel,R32,Daniel Elahi Galan,Marco Cecchinato,Clay,16,10
+Kitzbuhel,R32,Daniel Altmaier,Marc Andrea Huesler,Clay,30,16
+Kitzbuhel,R32,Alex Molcan,Luca Van Assche,Clay,19,6
+Kitzbuhel,R32,Sebastian Baez,Hamad Medjedovic,Clay,18,6
+Kitzbuhel,R32,Roberto Carballes Baena,Guido Pella,Clay,18,5
+Kitzbuhel,R32,Laslo Djere,Christopher Oconnell,Clay,22,6
+Kitzbuhel,R32,Thiago Seyboth Wild,Dennis Novak,Clay,19,10
+Kitzbuhel,R32,Albert Ramos,Juan Pablo Varillas,Clay,19,12
+Kitzbuhel,R32,Zhizhen Zhang,Dusan Lajovic,Clay,17,5
+Kitzbuhel,R32,Dominic Thiem,Facundo Bagnis,Clay,24,16
+Kitzbuhel,R32,Arthur Rinderknech,Juan Manuel Cerundolo,Clay,30,22
+Los Cabos,F,Stefanos Tsitsipas,Alex De Minaur,Hard,19,3
+Los Cabos,SF,Stefanos Tsitsipas,Borna Coric,Hard,17,8
+Los Cabos,SF,Alex De Minaur,Dominik Koepfer,Hard,27,4
+Los Cabos,QF,Stefanos Tsitsipas,Nicolas Jarry,Hard,32,20
+Los Cabos,QF,Borna Coric,Ilya Ivashka,Hard,19,9
+Los Cabos,QF,Alex De Minaur,Tommy Paul,Hard,28,7
+Los Cabos,QF,Dominik Koepfer,Aleksandar Kovacevic,Hard,22,16
+Los Cabos,R16,Stefanos Tsitsipas,John Isner,Hard,18,15
+Los Cabos,R16,Nicolas Jarry,Gijs Brouwer,Hard,32,12
+Los Cabos,R16,Borna Coric,Jason Jung,Hard,15,5
+Los Cabos,R16,Ilya Ivashka,Borna Gojo,Hard,30,16
+Los Cabos,R16,Alex De Minaur,Thiago Agustin Tirante,Hard,15,3
+Los Cabos,R16,Tommy Paul,Felipe Meligeni Alves,Hard,24,8
+Los Cabos,R16,Dominik Koepfer,James Duckworth,Hard,16,7
+Los Cabos,R16,Aleksandar Kovacevic,Cameron Norrie,Hard,34,21
+Los Cabos,R32,John Isner,Rinky Hijikata,Hard,20,19
+Los Cabos,R32,Gijs Brouwer,Gabriel Diallo,Hard,26,9
+Los Cabos,R32,Nicolas Jarry,Rodrigo Pacheco Mendez,Hard,16,4
+Los Cabos,R32,Jason Jung,Ernesto Escobedo,Hard,29,11
+Los Cabos,R32,Borna Gojo,Cristian Garin,Hard,31,23
+Los Cabos,R32,Ilya Ivashka,Beibit Zhukayev,Hard,30,15
+Los Cabos,R32,Alex De Minaur,Skander Mansouri,Hard,20,7
+Los Cabos,R32,Thiago Agustin Tirante,Gonzalo Lama,Hard,20,5
+Los Cabos,R32,Felipe Meligeni Alves,Alejandro Tabilo,Hard,18,12
+Los Cabos,R32,Dominik Koepfer,Tomas Barrios Vera,Hard,19,5
+Los Cabos,R32,James Duckworth,Otto Virtanen,Hard,15,9
+Los Cabos,R32,Aleksandar Kovacevic,Omni Kumar,Hard,20,11
+Washington,F,Daniel Evans,Tallon Griekspoor,Hard,21,18
+Washington,SF,Tallon Griekspoor,Taylor Fritz,Hard,26,20
+Washington,SF,Daniel Evans,Grigor Dimitrov,Hard,21,6
+Washington,QF,Taylor Fritz,Jordan Thompson,Hard,18,8
+Washington,QF,Tallon Griekspoor,J J Wolf,Hard,22,18
+Washington,QF,Daniel Evans,Frances Tiafoe,Hard,22,26
+Washington,R16,Taylor Fritz,Andy Murray,Hard,31,23
+Washington,R16,Jordan Thompson,Christopher Eubanks,Hard,16,9
+Washington,R16,J J Wolf,Michael Mmoh,Hard,22,26
+Washington,R16,Tallon Griekspoor,Gael Monfils,Hard,26,17
+Washington,R16,Grigor Dimitrov,Emil Ruusuvuori,Hard,19,6
+Washington,R16,Ugo Humbert,Yosuke Watanuki,Hard,14,5
+Washington,R16,Daniel Evans,Alexander Shevchenko,Hard,19,6
+Washington,R16,Frances Tiafoe,Juncheng Shang,Hard,17,15
+Washington,R32,Taylor Fritz,Zachary Svajda,Hard,18,9
+Washington,R32,Andy Murray,Brandon Nakashima,Hard,22,12
+Washington,R32,Christopher Eubanks,Sho Shimabukuro,Hard,19,15
+Washington,R32,Jordan Thompson,Adrian Mannarino,Hard,22,10
+Washington,R32,Michael Mmoh,Hubert Hurkacz,Hard,33,27
+Washington,R32,J J Wolf,Radu Albot,Hard,16,12
+Washington,R32,Tallon Griekspoor,Liam Broady,Hard,18,12
+Washington,R32,Gael Monfils,Alexander Bublik,Hard,19,8
+Washington,R32,Grigor Dimitrov,Mackenzie Mcdonald,Hard,20,2
+Washington,R32,Emil Ruusuvuori,Yoshihito Nishioka,Hard,30,14
+Washington,R32,Ugo Humbert,Thanasi Kokkinakis,Hard,29,16
+Washington,R32,Yosuke Watanuki,Felix Auger Aliassime,Hard,24,13
+Washington,R32,Alexander Shevchenko,Sebastian Korda,Hard,34,13
+Washington,R32,Daniel Evans,Gregoire Barrere,Hard,23,12
+Washington,R32,Juncheng Shang,Ben Shelton,Hard,26,6
+Washington,R32,Frances Tiafoe,Aslan Karatsev,Hard,24,15
+Washington,R64,Zachary Svajda,Max Purcell,Hard,34,22
+Washington,R64,Brandon Nakashima,Aleksandar Vukic,Hard,24,15
+Washington,R64,Sho Shimabukuro,Lloyd Harris,Hard,19,14
+Washington,R64,Jordan Thompson,Kevin Anderson,Hard,29,30
+Washington,R64,Michael Mmoh,Bradley Klahn,Hard,18,12
+Washington,R64,Radu Albot,Marcos Giron,Hard,33,15
+Washington,R64,Liam Broady,Corentin Moutet,Hard,22,6
+Washington,R64,Gael Monfils,Bjorn Fratangelo,Hard,19,7
+Washington,R64,Mackenzie Mcdonald,Diego Schwartzman,Hard,18,8
+Washington,R64,Emil Ruusuvuori,Constant Lestienne,Hard,20,11
+Washington,R64,Thanasi Kokkinakis,Taro Daniel,Hard,28,8
+Washington,R64,Yosuke Watanuki,Yibing Wu,Hard,5,1
+Washington,R64,Alexander Shevchenko,Maxime Cressy,Hard,21,8
+Washington,R64,Gregoire Barrere,Shintaro Mochizuki,Hard,31,12
+Washington,R64,Juncheng Shang,Emilio Gomez,Hard,18,5
+Washington,R64,Aslan Karatsev,Kiranpal Pannu,Hard,19,12
+Canada Masters,F,Jannik Sinner,Alex De Minaur,Hard,17,6
+Canada Masters,SF,Jannik Sinner,Tommy Paul,Hard,20,7
+Canada Masters,SF,Alex De Minaur,Alejandro Davidovich Fokina,Hard,16,4
+Canada Masters,QF,Tommy Paul,Carlos Alcaraz,Hard,28,6
+Canada Masters,QF,Jannik Sinner,Gael Monfils,Hard,29,24
+Canada Masters,QF,Alejandro Davidovich Fokina,Mackenzie Mcdonald,Hard,18,5
+Canada Masters,QF,Alex De Minaur,Daniil Medvedev,Hard,24,9
+Canada Masters,R16,Carlos Alcaraz,Hubert Hurkacz,Hard,33,14
+Canada Masters,R16,Tommy Paul,Marcos Giron,Hard,17,7
+Canada Masters,R16,Gael Monfils,Aleksandar Vukic,Hard,20,13
+Canada Masters,R16,Mackenzie Mcdonald,Milos Raonic,Hard,18,14
+Canada Masters,R16,Alejandro Davidovich Fokina,Casper Ruud,Hard,34,18
+Canada Masters,R16,Alex De Minaur,Taylor Fritz,Hard,29,15
+Canada Masters,R16,Daniil Medvedev,Lorenzo Musetti,Hard,20,4
+Canada Masters,R32,Carlos Alcaraz,Ben Shelton,Hard,21,9
+Canada Masters,R32,Hubert Hurkacz,Miomir Kecmanovic,Hard,27,26
+Canada Masters,R32,Tommy Paul,Francisco Cerundolo,Hard,33,9
+Canada Masters,R32,Marcos Giron,Holger Rune,Hard,27,12
+Canada Masters,R32,Gael Monfils,Stefanos Tsitsipas,Hard,19,10
+Canada Masters,R32,Aleksandar Vukic,Sebastian Korda,Hard,31,14
+Canada Masters,R32,Andy Murray,Max Purcell,Hard,33,15
+Canada Masters,R32,Jannik Sinner,Matteo Berrettini,Hard,19,20
+Canada Masters,R32,Mackenzie Mcdonald,Andrey Rublev,Hard,19,3
+Canada Masters,R32,Milos Raonic,Taro Daniel,Hard,19,18
+Canada Masters,R32,Alejandro Davidovich Fokina,Alexander Zverev,Hard,15,7
+Canada Masters,R32,Casper Ruud,Jiri Lehecka,Hard,22,10
+Canada Masters,R32,Taylor Fritz,Ugo Humbert,Hard,30,23
+Canada Masters,R32,Alex De Minaur,Gabriel Diallo,Hard,22,13
+Canada Masters,R32,Lorenzo Musetti,Thanasi Kokkinakis,Hard,32,13
+Canada Masters,R32,Daniil Medvedev,Matteo Arnaldi,Hard,20,13
+Canada Masters,R64,Ben Shelton,Bernabe Zapata Miralles,Hard,22,5
+Canada Masters,R64,Miomir Kecmanovic,Cristian Garin,Hard,32,8
+Canada Masters,R64,Hubert Hurkacz,Alexander Bublik,Hard,21,17
+Canada Masters,R64,Tommy Paul,Diego Schwartzman,Hard,28,13
+Canada Masters,R64,Francisco Cerundolo,Alexis Galarneau,Hard,28,13
+Canada Masters,R64,Marcos Giron,Emil Ruusuvuori,Hard,24,8
+Canada Masters,R64,Gael Monfils,Christopher Eubanks,Hard,31,20
+Canada Masters,R64,Sebastian Korda,Tomas Martin Etcheverry,Hard,17,9
+Canada Masters,R64,Aleksandar Vukic,Borna Coric,Hard,17,6
+Canada Masters,R64,Max Purcell,Felix Auger Aliassime,Hard,20,13
+Canada Masters,R64,Andy Murray,Lorenzo Sonego,Hard,18,5
+Canada Masters,R64,Matteo Berrettini,Gregoire Barrere,Hard,19,15
+Canada Masters,R64,Mackenzie Mcdonald,Aslan Karatsev,Hard,19,7
+Canada Masters,R64,Taro Daniel,Adrian Mannarino,Hard,22,12
+Canada Masters,R64,Milos Raonic,Frances Tiafoe,Hard,33,45
+Canada Masters,R64,Alexander Zverev,Tallon Griekspoor,Hard,22,17
+Canada Masters,R64,Alejandro Davidovich Fokina,J J Wolf,Hard,14,6
+Canada Masters,R64,Jiri Lehecka,Brandon Nakashima,Hard,33,15
+Canada Masters,R64,Ugo Humbert,Nicolas Jarry,Hard,29,12
+Canada Masters,R64,Gabriel Diallo,Daniel Evans,Hard,24,16
+Canada Masters,R64,Alex De Minaur,Cameron Norrie,Hard,22,6
+Canada Masters,R64,Lorenzo Musetti,Yoshihito Nishioka,Hard,17,11
+Canada Masters,R64,Thanasi Kokkinakis,Zhizhen Zhang,Hard,22,20
+Canada Masters,R64,Matteo Arnaldi,Vasek Pospisil,Hard,20,17
+Cincinnati Masters,F,Novak Djokovic,Carlos Alcaraz,Hard,36,13
+Cincinnati Masters,SF,Carlos Alcaraz,Hubert Hurkacz,Hard,29,12
+Cincinnati Masters,SF,Novak Djokovic,Alexander Zverev,Hard,24,14
+Cincinnati Masters,QF,Carlos Alcaraz,Max Purcell,Hard,29,16
+Cincinnati Masters,QF,Hubert Hurkacz,Alexei Popyrin,Hard,19,12
+Cincinnati Masters,QF,Alexander Zverev,Adrian Mannarino,Hard,17,4
+Cincinnati Masters,QF,Novak Djokovic,Taylor Fritz,Hard,16,3
+Cincinnati Masters,R16,Carlos Alcaraz,Tommy Paul,Hard,33,17
+Cincinnati Masters,R16,Max Purcell,Stan Wawrinka,Hard,18,11
+Cincinnati Masters,R16,Hubert Hurkacz,Stefanos Tsitsipas,Hard,19,18
+Cincinnati Masters,R16,Alexei Popyrin,Emil Ruusuvuori,Hard,24,9
+Cincinnati Masters,R16,Adrian Mannarino,Mackenzie Mcdonald,Hard,13,2
+Cincinnati Masters,R16,Alexander Zverev,Daniil Medvedev,Hard,32,9
+Cincinnati Masters,R16,Taylor Fritz,Dusan Lajovic,Hard,5,3
+Cincinnati Masters,R16,Novak Djokovic,Gael Monfils,Hard,17,7
+Cincinnati Masters,R32,Carlos Alcaraz,Jordan Thompson,Hard,31,7
+Cincinnati Masters,R32,Tommy Paul,Ugo Humbert,Hard,19,12
+Cincinnati Masters,R32,Stan Wawrinka,Frances Tiafoe,Hard,19,18
+Cincinnati Masters,R32,Max Purcell,Casper Ruud,Hard,29,24
+Cincinnati Masters,R32,Stefanos Tsitsipas,Ben Shelton,Hard,24,13
+Cincinnati Masters,R32,Hubert Hurkacz,Borna Coric,Hard,30,12
+Cincinnati Masters,R32,Emil Ruusuvuori,Andrey Rublev,Hard,36,14
+Cincinnati Masters,R32,Mackenzie Mcdonald,Holger Rune,Hard,12,4
+Cincinnati Masters,R32,Adrian Mannarino,Felix Auger Aliassime,Hard,20,3
+Cincinnati Masters,R32,Alexander Zverev,Yoshihito Nishioka,Hard,22,11
+Cincinnati Masters,R32,Daniil Medvedev,Lorenzo Musetti,Hard,17,3
+Cincinnati Masters,R32,Dusan Lajovic,Jannik Sinner,Hard,22,10
+Cincinnati Masters,R32,Taylor Fritz,Lorenzo Sonego,Hard,22,9
+Cincinnati Masters,R32,Gael Monfils,Alex De Minaur,Hard,22,5
+Cincinnati Masters,R32,Novak Djokovic,Alejandro Davidovich Fokina,Hard,10,7
+Cincinnati Masters,R64,Jordan Thompson,John Isner,Hard,24,25
+Cincinnati Masters,R64,Ugo Humbert,Arthur Fils,Hard,27,6
+Cincinnati Masters,R64,Tommy Paul,Miomir Kecmanovic,Hard,24,7
+Cincinnati Masters,R64,Frances Tiafoe,Tallon Griekspoor,Hard,32,27
+Cincinnati Masters,R64,Stan Wawrinka,Brandon Nakashima,Hard,30,15
+Cincinnati Masters,R64,Max Purcell,Lloyd Harris,Hard,20,11
+Cincinnati Masters,R64,Ben Shelton,Christopher Eubanks,Hard,32,17
+Cincinnati Masters,R64,Hubert Hurkacz,Thanasi Kokkinakis,Hard,33,17
+Cincinnati Masters,R64,Borna Coric,Sebastian Korda,Hard,22,11
+Cincinnati Masters,R64,Alexei Popyrin,Daniel Altmaier,Hard,32,15
+Cincinnati Masters,R64,Nicolas Jarry,Roman Safiullin,Hard,28,10
+Cincinnati Masters,R64,Emil Ruusuvuori,Corentin Moutet,Hard,18,2
+Cincinnati Masters,R64,Mackenzie Mcdonald,Yannick Hanfmann,Hard,19,4
+Cincinnati Masters,R64,Adrian Mannarino,Richard Gasquet,Hard,19,6
+Cincinnati Masters,R64,Felix Auger Aliassime,Matteo Berrettini,Hard,27,12
+Cincinnati Masters,R64,Alexander Zverev,Grigor Dimitrov,Hard,16,8
+Cincinnati Masters,R64,Yoshihito Nishioka,Gregoire Barrere,Hard,22,5
+Cincinnati Masters,R64,Lorenzo Musetti,Daniel Evans,Hard,19,4
+Cincinnati Masters,R64,Dusan Lajovic,Francisco Cerundolo,Hard,19,3
+Cincinnati Masters,R64,Lorenzo Sonego,Alexander Shevchenko,Hard,27,3
+Cincinnati Masters,R64,Taylor Fritz,Jiri Lehecka,Hard,20,11
+Cincinnati Masters,R64,Gael Monfils,Cameron Norrie,Hard,28,6
+Cincinnati Masters,R64,Alex De Minaur,J J Wolf,Hard,22,10
+Cincinnati Masters,R64,Alejandro Davidovich Fokina,Tomas Martin Etcheverry,Hard,18,3
+Winston-Salem,F,Sebastian Baez,Jiri Lehecka,Hard,19,9
+Winston-Salem,SF,Sebastian Baez,Borna Coric,Hard,33,13
+Winston-Salem,QF,Borna Coric,Juan Manuel Cerundolo,Hard,16,8
+Winston-Salem,QF,Sebastian Baez,Laslo Djere,Hard,15,3
+Winston-Salem,QF,Sebastian Korda,Richard Gasquet,Hard,29,23
+Winston-Salem,QF,Jiri Lehecka,Max Purcell,Hard,22,17
+Winston-Salem,R16,Borna Coric,Michael Mmoh,Hard,31,18
+Winston-Salem,R16,Juan Manuel Cerundolo,Omni Kumar,Hard,21,6
+Winston-Salem,R16,Laslo Djere,Alex Michelsen,Hard,20,5
+Winston-Salem,R16,Sebastian Baez,Aleksandar Vukic,Hard,30,16
+Winston-Salem,R16,Richard Gasquet,Brandon Nakashima,Hard,28,21
+Winston-Salem,R16,Sebastian Korda,Marton Fucsovics,Hard,21,10
+Winston-Salem,R16,Jiri Lehecka,Dominik Koepfer,Hard,28,9
+Winston-Salem,R16,Max Purcell,Tallon Griekspoor,Hard,24,19
+Winston-Salem,R32,Borna Coric,Rinky Hijikata,Hard,20,6
+Winston-Salem,R32,Michael Mmoh,Marcos Giron,Hard,19,5
+Winston-Salem,R32,Juan Manuel Cerundolo,Yannick Hanfmann,Hard,36,12
+Winston-Salem,R32,Omni Kumar,Botic Van De Zandschulp,Hard,21,9
+Winston-Salem,R32,Laslo Djere,Facundo Diaz Acosta,Hard,18,6
+Winston-Salem,R32,Alex Michelsen,Sebastian Ofner,Hard,24,7
+Winston-Salem,R32,Aleksandar Vukic,Luca Van Assche,Hard,30,24
+Winston-Salem,R32,Sebastian Baez,Daniel Elahi Galan,Hard,29,11
+Winston-Salem,R32,Brandon Nakashima,Arthur Fils,Hard,32,28
+Winston-Salem,R32,Richard Gasquet,Marc Andrea Huesler,Hard,20,15
+Winston-Salem,R32,Marton Fucsovics,Zhizhen Zhang,Hard,18,4
+Winston-Salem,R32,Sebastian Korda,Benjamin Bonzi,Hard,17,16
+Winston-Salem,R32,Jiri Lehecka,Mitchell Krueger,Hard,25,12
+Winston-Salem,R32,Dominik Koepfer,Strong Kirchheimer,Hard,17,10
+Winston-Salem,R32,Max Purcell,Andrey Kuznetsov,Hard,17,11
+Winston-Salem,R32,Tallon Griekspoor,Jack Draper,Hard,12,7
+Winston-Salem,R64,Rinky Hijikata,Illya Marchenko,Hard,27,10
+Winston-Salem,R64,Michael Mmoh,Darian King,Hard,26,11
+Winston-Salem,R64,Juan Manuel Cerundolo,Roman Safiullin,Hard,30,16
+Winston-Salem,R64,Omni Kumar,Arthur Rinderknech,Hard,21,11
+Winston-Salem,R64,Facundo Diaz Acosta,Quentin Halys,Hard,28,15
+Winston-Salem,R64,Alex Michelsen,Juan Pablo Varillas,Hard,27,14
+Winston-Salem,R64,Luca Van Assche,Thai Son Kwiatkowski,Hard,26,4
+Winston-Salem,R64,Daniel Elahi Galan,Radu Albot,Hard,19,14
+Winston-Salem,R64,Brandon Nakashima,Jason Kubler,Hard,28,14
+Winston-Salem,R64,Marc Andrea Huesler,Alexander Shevchenko,Hard,23,13
+Winston-Salem,R64,Zhizhen Zhang,Ilya Ivashka,Hard,30,11
+Winston-Salem,R64,Benjamin Bonzi,Alexandre Muller,Hard,20,13
+Winston-Salem,R64,Mitchell Krueger,Pavel Kotov,Hard,19,11
+Winston-Salem,R64,Dominik Koepfer,Constant Lestienne,Hard,31,24
+Winston-Salem,R64,Max Purcell,Marco Cecchinato,Hard,17,7
+Winston-Salem,R64,Jack Draper,Nuno Borges,Hard,16,11
+Us Open,R128,Carlos Alcaraz,Dominik Koepfer,Hard,13,5
+Us Open,R128,Lloyd Harris,Guido Pella,Hard,33,33
+Us Open,R128,Botic Van De Zandschulp,Jordan Thompson,Hard,9,6
+Us Open,R128,Daniel Evans,Daniel Elahi Galan,Hard,30,17
+Us Open,R128,Arthur Fils,Tallon Griekspoor,Hard,52,35
+Us Open,R128,Matteo Arnaldi,Jason Kubler,Hard,10,8
+Us Open,R128,Yu Hsiou Hsu,Thanasi Kokkinakis,Hard,37,23
+Us Open,R128,Cameron Norrie,Alexander Shevchenko,Hard,25,12
+Us Open,R128,Alexander Zverev,Aleksandar Vukic,Hard,30,18
+Us Open,R128,Daniel Altmaier,Constant Lestienne,Hard,37,20
+Us Open,R128,Andy Murray,Corentin Moutet,Hard,29,9
+Us Open,R128,Grigor Dimitrov,Alex Molcan,Hard,58,28
+Us Open,R128,Tomas Martin Etcheverry,Otto Virtanen,Hard,52,20
+Us Open,R128,Stan Wawrinka,Yoshihito Nishioka,Hard,31,14
+Us Open,R128,Lorenzo Sonego,Nicolas Moreno De Alboran,Hard,27,13
+Us Open,R128,Jannik Sinner,Yannick Hanfmann,Hard,23,12
+Us Open,R128,Daniil Medvedev,Attila Balazs,Hard,20,8
+Us Open,R128,Christopher Oconnell,Max Purcell,Hard,42,40
+Us Open,R128,Felipe Meligeni Alves,James Duckworth,Hard,32,27
+Us Open,R128,Sebastian Baez,Borna Coric,Hard,31,9
+Us Open,R128,Nicolas Jarry,Luca Van Assche,Hard,39,35
+Us Open,R128,Alex Michelsen,Albert Ramos,Hard,29,9
+Us Open,R128,Yibing Wu,Dusan Lajovic,Hard,45,18
+Us Open,R128,Alex De Minaur,Timofey Skatov,Hard,36,9
+Us Open,R128,Michael Mmoh,Karen Khachanov,Hard,26,14
+Us Open,R128,John Isner,Facundo Diaz Acosta,Hard,32,16
+Us Open,R128,Jack Draper,Radu Albot,Hard,26,10
+Us Open,R128,Hubert Hurkacz,Marc Andrea Huesler,Hard,51,30
+Us Open,R128,Matteo Berrettini,Ugo Humbert,Hard,28,14
+Us Open,R128,Arthur Rinderknech,Diego Schwartzman,Hard,27,19
+Us Open,R128,Gael Monfils,Taro Daniel,Hard,41,28
+Us Open,R128,Andrey Rublev,Arthur Cazaux,Hard,30,11
+Us Open,R128,Casper Ruud,Emilio Nava,Hard,45,17
+Us Open,R128,Zhizhen Zhang,J J Wolf,Hard,56,31
+Us Open,R128,Rinky Hijikata,Pavel Kotov,Hard,45,13
+Us Open,R128,Marton Fucsovics,Sebastian Korda,Hard,56,19
+Us Open,R128,Adrian Mannarino,Yosuke Watanuki,Hard,46,24
+Us Open,R128,Fabian Marozsan,Richard Gasquet,Hard,50,28
+Us Open,R128,Sebastian Ofner,Nuno Borges,Hard,45,28
+Us Open,R128,Frances Tiafoe,Learner Tien,Hard,27,14
+Us Open,R128,Tommy Paul,Stefano Travaglia,Hard,34,14
+Us Open,R128,Roman Safiullin,Marco Cecchinato,Hard,24,15
+Us Open,R128,Juan Manuel Cerundolo,Ilya Ivashka,Hard,48,19
+Us Open,R128,Alejandro Davidovich Fokina,Marcos Giron,Hard,28,7
+Us Open,R128,Dominic Thiem,Alexander Bublik,Hard,27,14
+Us Open,R128,Ben Shelton,Pedro Cachin,Hard,34,18
+Us Open,R128,Aslan Karatsev,Jiri Lehecka,Hard,27,15
+Us Open,R128,Roberto Carballes Baena,Holger Rune,Hard,36,9
+Us Open,R128,Stefanos Tsitsipas,Milos Raonic,Hard,27,15
+Us Open,R128,Dominic Stricker,Alexei Popyrin,Hard,37,25
+Us Open,R128,Benjamin Bonzi,Quentin Halys,Hard,42,36
+Us Open,R128,Christopher Eubanks,Soon Woo Kwon,Hard,35,27
+Us Open,R128,Titouan Droguet,Lorenzo Musetti,Hard,45,19
+Us Open,R128,Jakub Mensik,Gregoire Barrere,Hard,41,16
+Us Open,R128,Juan Pablo Varillas,Miomir Kecmanovic,Hard,41,19
+Us Open,R128,Taylor Fritz,Steve Johnson,Hard,23,13
+Us Open,R128,Mackenzie Mcdonald,Felix Auger Aliassime,Hard,40,21
+Us Open,R128,Borna Gojo,Hugo Dellien,Hard,25,15
+Us Open,R128,Jiri Vesely,Enzo Couacaud,Hard,48,44
+Us Open,R128,Francisco Cerundolo,Zachary Svajda,Hard,41,11
+Us Open,R128,Laslo Djere,Brandon Nakashima,Hard,32,12
+Us Open,R128,Hugo Gaston,Sho Shimabukuro,Hard,28,6
+Us Open,R128,Bernabe Zapata Miralles,Ethan Quinn,Hard,29,9
+Us Open,R128,Novak Djokovic,Alexandre Muller,Hard,23,10
+Us Open,R64,Carlos Alcaraz,Lloyd Harris,Hard,29,10
+Us Open,R64,Daniel Evans,Botic Van De Zandschulp,Hard,32,11
+Us Open,R64,Matteo Arnaldi,Arthur Fils,Hard,56,21
+Us Open,R64,Cameron Norrie,Yu Hsiou Hsu,Hard,32,20
+Us Open,R64,Alexander Zverev,Daniel Altmaier,Hard,41,12
+Us Open,R64,Grigor Dimitrov,Andy Murray,Hard,26,8
+Us Open,R64,Stan Wawrinka,Tomas Martin Etcheverry,Hard,43,33
+Us Open,R64,Jannik Sinner,Lorenzo Sonego,Hard,28,8
+Us Open,R64,Daniil Medvedev,Christopher Oconnell,Hard,37,15
+Us Open,R64,Sebastian Baez,Felipe Meligeni Alves,Hard,33,8
+Us Open,R64,Nicolas Jarry,Alex Michelsen,Hard,37,18
+Us Open,R64,Alex De Minaur,Yibing Wu,Hard,22,3
+Us Open,R64,Michael Mmoh,John Isner,Hard,55,67
+Us Open,R64,Jack Draper,Hubert Hurkacz,Hard,30,12
+Us Open,R64,Arthur Rinderknech,Matteo Berrettini,Hard,18,15
+Us Open,R64,Andrey Rublev,Gael Monfils,Hard,35,11
+Us Open,R64,Zhizhen Zhang,Casper Ruud,Hard,44,25
+Us Open,R64,Rinky Hijikata,Marton Fucsovics,Hard,22,4
+Us Open,R64,Adrian Mannarino,Fabian Marozsan,Hard,36,20
+Us Open,R64,Frances Tiafoe,Sebastian Ofner,Hard,26,10
+Us Open,R64,Tommy Paul,Roman Safiullin,Hard,44,18
+Us Open,R64,Alejandro Davidovich Fokina,Juan Manuel Cerundolo,Hard,26,8
+Us Open,R64,Ben Shelton,Dominic Thiem,Hard,14,9
+Us Open,R64,Aslan Karatsev,Roberto Carballes Baena,Hard,40,11
+Us Open,R64,Dominic Stricker,Stefanos Tsitsipas,Hard,60,33
+Us Open,R64,Benjamin Bonzi,Christopher Eubanks,Hard,42,34
+Us Open,R64,Jakub Mensik,Titouan Droguet,Hard,39,21
+Us Open,R64,Taylor Fritz,Juan Pablo Varillas,Hard,23,11
+Us Open,R64,Borna Gojo,Mackenzie Mcdonald,Hard,29,18
+Us Open,R64,Jiri Vesely,Francisco Cerundolo,Hard,51,29
+Us Open,R64,Laslo Djere,Hugo Gaston,Hard,24,9
+Us Open,R64,Novak Djokovic,Bernabe Zapata Miralles,Hard,24,7
+Us Open,R32,Carlos Alcaraz,Daniel Evans,Hard,36,14
+Us Open,R32,Matteo Arnaldi,Cameron Norrie,Hard,28,8
+Us Open,R32,Alexander Zverev,Grigor Dimitrov,Hard,40,22
+Us Open,R32,Jannik Sinner,Stan Wawrinka,Hard,35,20
+Us Open,R32,Daniil Medvedev,Sebastian Baez,Hard,29,12
+Us Open,R32,Alex De Minaur,Nicolas Jarry,Hard,24,6
+Us Open,R32,Jack Draper,Michael Mmoh,Hard,36,23
+Us Open,R32,Andrey Rublev,Arthur Rinderknech,Hard,37,26
+Us Open,R32,Rinky Hijikata,Zhizhen Zhang,Hard,37,23
+Us Open,R32,Frances Tiafoe,Adrian Mannarino,Hard,40,27
+Us Open,R32,Tommy Paul,Alejandro Davidovich Fokina,Hard,31,18
+Us Open,R32,Ben Shelton,Aslan Karatsev,Hard,33,28
+Us Open,R32,Dominic Stricker,Benjamin Bonzi,Hard,50,24
+Us Open,R32,Taylor Fritz,Jakub Mensik,Hard,21,11
+Us Open,R32,Borna Gojo,Jiri Vesely,Hard,27,20
+Us Open,R32,Novak Djokovic,Laslo Djere,Hard,43,20
+Us Open,R16,Carlos Alcaraz,Matteo Arnaldi,Hard,28,6
+Us Open,R16,Alexander Zverev,Jannik Sinner,Hard,46,28
+Us Open,R16,Daniil Medvedev,Alex De Minaur,Hard,33,12
+Us Open,R16,Andrey Rublev,Jack Draper,Hard,37,32
+Us Open,R16,Frances Tiafoe,Rinky Hijikata,Hard,27,15
+Us Open,R16,Ben Shelton,Tommy Paul,Hard,39,22
+Us Open,R16,Taylor Fritz,Dominic Stricker,Hard,33,30
+Us Open,R16,Novak Djokovic,Borna Gojo,Hard,30,26
+Us Open,QF,Carlos Alcaraz,Alexander Zverev,Hard,27,9
+Us Open,QF,Daniil Medvedev,Andrey Rublev,Hard,29,12
+Us Open,QF,Ben Shelton,Frances Tiafoe,Hard,38,21
+Us Open,QF,Novak Djokovic,Taylor Fritz,Hard,27,15
+Us Open,SF,Daniil Medvedev,Carlos Alcaraz,Hard,38,9
+Us Open,SF,Novak Djokovic,Ben Shelton,Hard,30,10
+Us Open,F,Novak Djokovic,Daniil Medvedev,Hard,31,10
