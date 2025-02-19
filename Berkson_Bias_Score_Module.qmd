@@ -51,7 +51,7 @@ add code that asks questions about the dataset and what certain things meaning. 
 
 
 ### Offensive Rating and Height Correlation 
-
+offensive rating blah blah
 
 code for the graph
 
