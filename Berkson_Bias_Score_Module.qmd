@@ -30,7 +30,7 @@ In a typical professional basketball game there are two teams of 5 people trying
 
 Add more information about basketball basics that are important
 
-### Offensive Rating
+### Offensive Rating - Nate
   
 Define both offensive rating and per 100 possession stats and a little on how offensive rating is calculated. 
 
@@ -58,7 +58,7 @@ code for the graph
 code for a question about the graph 
 
 
-## Berkson's Bias
+## Berkson's Bias _ Ricky
 
 
 ### Analyzing NBA Draftees using Linear Regression 
