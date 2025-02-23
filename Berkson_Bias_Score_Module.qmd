@@ -31,8 +31,12 @@ In a typical professional basketball game there are two teams of 5 people trying
 Add more information about basketball basics that are important
 
 ### Offensive Rating - Nate
-  
-Define both offensive rating and per 100 possession stats and a little on how offensive rating is calculated. 
+
+To understand what is Offensive rating is in basketball it is important to understand what Per 100 Possession stats are since Offensive rating is build on per 100 possession stats.
+
+First lets define what a possession, a possession is everytime a player does one of four things: attempts a field goal, misses a shot and does not get the offensive rebound, turns the ball over, and goes to the foul line for 2 or 3 free throws. Now basketball is a very unfair sport in the sense that there is 10 players on the court at a time and only one ball so some players are going to have more possessions with the ball than other players leading to them having more possessions and thus a better per possession statistical line as they have had more opportunities with the ball. To balance this out basketball statistions have created something know as Per 100 Possession stats in which it looks at a players stats if they had 100 possessions. This creates a equal way to compare players as now every player has ben put on the same baseline.
+
+Now that we have defined what Per 100 Possession is lets define what Offensive rating is and how it builds off of Per 100 Possession. Offensive rating is the number of points produced by a player per 100 total individual possessions. In other words it mean how many points would a player score in 100 possessions. To calculate this we find how many points a player produces divdied by his total possessions then multiply by 100. This gets us offensive rating which uses per 100 possession stats to create a wholestic statistical variable that allows us to judge a players overall offensive abilities compared to other players. The larger the number the more points they would score given 100 possessions. 
 
 
 ## Data Exploration and Descriptive Analysis 
