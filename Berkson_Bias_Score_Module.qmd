@@ -1,5 +1,5 @@
 ---
-title: "Berkson’s Bias: Offensive Rating and Height in NCAA and NBA Basketball "
+title: "Berkson’s Bias: Offensive Rating and Height in NCAA and NBA Basketball"
 format: html
 ---
 
