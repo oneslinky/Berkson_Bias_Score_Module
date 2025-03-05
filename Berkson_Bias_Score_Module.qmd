@@ -16,7 +16,7 @@ Please watch this intro video from ________ to learn more about the question we'
 
 </iframe>
 
-## Background 
+## Background - Nate
 
 This lesson will focus on the correlation between offensive rating and height. We will be begin by exploring the data and conducting some descriptive analysis and visualizations. Then we will answer our question using a linear regression. 
 
@@ -39,7 +39,7 @@ First lets define what a possession, a possession is everytime a player does one
 Now that we have defined what Per 100 Possession is lets define what Offensive rating is and how it builds off of Per 100 Possession. Offensive rating is the number of points produced by a player per 100 total individual possessions. In other words it mean how many points would a player score in 100 possessions. To calculate this we find how many points a player produces divdied by his total possessions then multiply by 100. This gets us offensive rating which uses per 100 possession stats to create a wholestic statistical variable that allows us to judge a players overall offensive abilities compared to other players. The larger the number the more points they would score given 100 possessions. 
 
 
-## Data Exploration and Descriptive Analysis 
+## Data Exploration and Descriptive Analysis - Ricky
 
 
 ```{r head, exercise = TRUE, exercise.eval = FALSE}
