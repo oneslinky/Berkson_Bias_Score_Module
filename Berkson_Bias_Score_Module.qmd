@@ -20,7 +20,7 @@ Please watch this intro video from ________ to learn more about the question we'
 
 This lesson will focus on the correlation between offensive rating and height. We will be begin by exploring the data and conducting some descriptive analysis and visualizations. Then we will answer our question using a linear regression. 
 
-And in this process we will___
+And in this process we will use linear regression which compares two variables and checks to see if there is a correlation between the two.
 
 ## Basketball Basic 
 
