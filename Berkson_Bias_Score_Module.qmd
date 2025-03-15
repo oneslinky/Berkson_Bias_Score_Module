@@ -26,9 +26,11 @@ And in this process we will use linear regression which compares two variables a
 
 If you aren't familiar with Basketball, consider watching this [This is an introduction video]
 
-In a typical professional basketball game there are two teams of 5 people trying to put the basketball in the basketball hoop to score points and to see who has more points at the end of 2 20 minute halfs. 
+In a typical NCAA basketball game there are two teams of 5 people trying to put the basketball in the basketball hoop to score points and to see who has more points at the end of 2 20 minute halfs. The two teams switch possession of the ball after every score and the two teams take turns trying to score on one another. The team that scored more points in the given time frame of 40 minutes is the team that wins. The are a few actions that players and teams can do during a game. Players can shot the ball at the basket attmepting to score, dribble the ball in an attempt to move around the court, pass the ball to other people on their team. 
 
-Add more information about basketball basics that are important
+The way that teams score points in basketball is by shooting the basketball into the basket. There are many ways to score a basket but an important thing is how much a basket is worth. On the court there is a curved line with one existing on each half of the court. Shots/baskets that are made from inside this curved line are worth 2 points while shots that are made outside of the curved line are worth 3 points. 
+
+Another thing is that if a player is fouled when trying to score they are awarded free throws. This allows the player that got fouled a chance to shoot either 1, 2 or 3 free throws depending on shot and if it went in or not. The player stands behind a line know as the free throw line which is 15 feet from the hoop and is allowed to take 1, 2, or 3 shots at the hoop. 
 
 ### Offensive Rating - Nate
 
