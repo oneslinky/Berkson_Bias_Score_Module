@@ -41,6 +41,32 @@ Now that we have defined what Per 100 Possession is lets define what Offensive r
 
 ## Data Exploration and Descriptive Analysis - Ricky
 
+For our analysis, we have combined 2 data sets to make sure that we have all necessary values. 
+
+Our first data contains all players that have been drafted to the nba between 2001 and 2021: <https://www.nba.com/stats/draft/history>. This data set contains important information like pick number and what college each player attended. 
+
+We combined that with the College Basketball 2009-2021 + NBA Advanced Stats data set: <https://www.kaggle.com/datasets/adityak2003/college-basketball-players-20092021> which contains advanced offensive and defensive stats and important background information like the height of the players. 
+
+```{r, include = FALSE }
+# Join CBB and draft data, fix height stupidity
+cbb_join <- cbb %>% 
+  left_join(select(nba, PLAYER, TEAM), by = c("player_name" = "PLAYER")) %>% 
+  mutate(drafted = case_when(is.na(TEAM) ~ "No",
+                             TRUE ~ "Yes")) %>%
+  mutate(ht2 = ht) %>% 
+  separate(ht2, sep = "-", into = c("ht_in", "ht_ft")) %>% 
+  mutate(ht_ft = case_when(ht_ft == "May" ~ 5L,
+                           ht_ft == "Jun" ~ 6L,
+                           ht_ft == "Jul" ~ 7L,
+                           TRUE ~ NA_integer_),
+         ht_in = as.integer(ht_in),
+         ht_total = ht_ft*12 + ht_in) %>% 
+  mutate(ht_rev = case_when(ht == "Jun-00" ~ 72L,
+                            TRUE ~ ht_total))
+
+```
+
+Let's begin by exploring the data. The data is stored in a dataset called `
 
 ```{r head, exercise = TRUE, exercise.eval = FALSE}
 # Print the (first 1000 rows of) the data
@@ -52,6 +78,8 @@ Now that we have defined what Per 100 Possession is lets define what Offensive r
 ```
 
 add code that asks questions about the dataset and what certain things meaning. 5 multiple choice questions
+
+
 
 
 ### Offensive Rating and Height Correlation 
