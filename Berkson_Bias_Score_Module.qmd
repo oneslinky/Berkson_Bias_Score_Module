@@ -156,8 +156,7 @@ cbb_join %>%
   #ylim(c(0, 100))
 ```
 
-The graph on the left contains all NCAA basketball players whether they were drafted or not while the graph on the right contains only NCAA basketball players that were drafted. 
-
+The graph on the left contains all NCAA basketball players whether they were drafted or not while the graph on the right contains only NCAA basketball players that were drafted.
 
 ### Interpreting the Graph Results and Berkson's Bias
 
@@ -170,6 +169,9 @@ The graph on the left contains all NCAA basketball players whether they were dra
 
 ```
 
+When performing our linear regression, we find that all NCAAB players had a least squares regression line of 74.71 + 0.28 (height in inches), which means that for every additional inch in height we are expected to see an increase of .28 in adjusted offensive rating. 
+
+When looking only at drafted players, our least squares regression line had an equation of 119.02915 - 0.03 (height in inches) which means that for every additional inch in height we saw a decrease in .03 in adjusted offensive rating.
 
 ## Conclusion 
 
