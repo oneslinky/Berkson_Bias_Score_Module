@@ -134,7 +134,7 @@ question("What relationship does the linear regression show between height and o
 
 As we can see in the graph, as the height of a player increases, so does their adjusted offensive rating in all NCAAB players. 
 
-## Berkson's Bias - Ricky
+## Berkson's Bias
 
 Berkson's Bias is a type of selection Bias that occurs when a study sample is not representative of a population due to the method that subjects are selected. Berkson's Bias can lead to false negative correlations between different variables.
 
