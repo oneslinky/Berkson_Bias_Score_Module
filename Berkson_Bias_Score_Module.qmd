@@ -45,8 +45,8 @@ To understand what is Offensive rating is in basketball it is important to under
 First lets define what a possession, a possession is everytime a player does one of four things: attempts a field goal, misses a shot and does not get the offensive rebound, turns the ball over, and goes to the foul line for 2 or 3 free throws. Now basketball is a very unfair sport in the sense that there is 10 players on the court at a time and only one ball so some players are going to have more possessions with the ball than other players leading to them having more possessions and thus a better per possession statistical line as they have had more opportunities with the ball. To balance this out basketball statistions have created something know as Per 100 Possession stats in which it looks at a players stats if they had 100 possessions. This creates a equal way to compare players as now every player has ben put on the same baseline.
 
 Now that we have defined what Per 100 Possession is lets define what Offensive rating is and how it builds off of Per 100 Possession. Offensive rating is the number of points produced by a player per 100 total individual possessions. In other words it mean how many points would a player score in 100 possessions. To calculate this we find how many points a player produces divdied by his total possessions then multiply by 100. This gets us offensive rating which uses per 100 possession stats to create a hollistic statistical variable that allows us to judge a players overall offensive abilities compared to other players. The larger the number the more points they would score given 100 possessions. 
- 
 
+ Adjusted offensive rating is still offensive rating but since everyone players different levels of competition the skill level of the defense are not always equal. So adjusted offensive rating is the amount of points that the player would score on a league average defense given 100 possessions. 
 
 ## Data Exploration and Descriptive Analysis - Ricky
 
@@ -183,4 +183,12 @@ When drafting players, front offices are willing to overlook lowered stats in on
 
 ## Conclusion 
 
+So one explination on why there is berkson bias for this data is because of how complicated the draft process is in the NBA. While the idea that a taller player would be better at scoring if they are taller as its easier for them score. This is because the taller a player is the easier it is to put the ball in the basket as they can shoot less contested than shorter players. Therefore in the general population being taller should have a positive correlation with adjusted offensive rating. But when drafting NBA team front offices look at a lot more than just one statstical category. 
+
+One thing that NBA front offices look at is physical attributes as player with better physical attributes have a higher potential to be good players. This is because many NBA front offices have a very extensive training staff that can help these physically gifted athletes develop into good NBA players. Thus front offices are more open to overlooking college statstics if there is something else that could hint that the player would be good in the NBA. One of these things is height due to the nature of basketball and how being taller in basketball gives players an inherent advantage as the basket is in the air. 
+
 ## Statistical Lesson
+
+Berkson's bias is an important factor to consider in data selection and analysis as it could show a linear correlation for a specific population be completely different to what is expected. This is important to keep in mind when doing statistical analysis as it can explain on why specific relationships exist and that a more general population could support the expected relationship. 
+
+Berkson's bias is only one type of selection bias and when collecting data it's important to take into account if berkson bias would effect the data and how to remove berkson's bias from the data collection. This will help with selecting data that is unbiased which is vital for data analysis. 
