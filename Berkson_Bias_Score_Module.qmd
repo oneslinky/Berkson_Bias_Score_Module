@@ -136,9 +136,12 @@ As we can see in the graph, as the height of a player increases, so does their a
 
 ## Berkson's Bias - Ricky
 
-Berkson's Bias is a type of selection Bias that occurs when a study sample is not representative of a population due to the method that subjects are selected.
+Berkson's Bias is a type of selection Bias that occurs when a study sample is not representative of a population due to the method that subjects are selected. Berkson's Bias can lead to false negative correlations between different variables.
 
-If selection is based on multiple factors (e.g., height and offensive skill), then analyzing only the selected group (e.g., NBA draftees) may falsely suggest a relationship between the variables that doesn’t hold in the broader population (e.g., all college players). This can lead to misleading conclusions about the impact of height on offensive performance.
+A clear example of Berksons Bias is in actors. Actors are chosen based off a variety of actors, including their acting skill and attractiveness. If someone is very attractive or very good at acting they are likely to be selected and become a successful actor. If someone is very attractive and mediocre at acting, they will likely become an actor becuase their attractivness makes up for their acting skills. Vice versa, if someone is a very good actor but is only moderately attractive they will likely become a successful actor because their acting skills outweigh their attractivness. 
+
+This selection bias leads to a negative correlation in acting skills and attractiveness; however, this negative correlation is created by selection and is not representative of the population. 
+![Berkson's Bias Example]("Collider_bias.png")
 
 ### Analyzing NBA Draftees using Linear Regression 
 
@@ -172,6 +175,11 @@ The graph on the left contains all NCAA basketball players whether they were dra
 When performing our linear regression, we find that all NCAAB players had a least squares regression line of 74.71 + 0.28 (height in inches), which means that for every additional inch in height we are expected to see an increase of .28 in adjusted offensive rating. 
 
 When looking only at drafted players, our least squares regression line had an equation of 119.02915 - 0.03 (height in inches) which means that for every additional inch in height we saw a decrease in .03 in adjusted offensive rating.
+
+This is a clear example of Berkson's bias, as we observed a false negative relationship between height and adjusted offensive rating among drafted players. Our negative correlation does not mean that height leads to players being worse at offense, it simply means that when players are drafted they are selected on what they are good at. If a player is very tall and not as good at offense, they are much more likely to get drafted compared to someone with the same offensive skill that is shorter because height is a huge advantage in basketball. 
+
+When drafting players, front offices are willing to overlook lowered stats in one category for benefits in another category. Therefore, taller players can afford to have worse offensive skills because their height is such an advantage, but shorter players need to be good at offense otherwise they will not get drafted. 
+
 
 ## Conclusion 
 
