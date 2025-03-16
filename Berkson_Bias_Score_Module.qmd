@@ -1,28 +1,33 @@
 ---
 title: "Berkson’s Bias: Offensive Rating and Height in NCAA and NBA Basketball"
-format: html
+output: 
+  learnr::tutorial:
+    progressive: TRUE
+runtime: shiny_prerendered
 ---
 
 ```{r setup, include=FALSE}
+## Importing the necessary libraries 
+pacman::p_load(learnr, tidyverse, stats, knitr, gridExtra, readxl, dplyr)
 
-pacman::p_load(learnr, tidyverse, stats, knitr, gridExtra)
-
-###import the dataset here
-
+## Importing the necessary datasets
+cbb <- read.csv("CollegeBasketballPlayers2009-2021.csv")
+nba <- read_excel("DraftedPlayers2009-2021.xlsx")
 ```
 ## Welcome 
 
 Please watch this intro video from ________ to learn more about the question we'll be investigating today!
 
+<iframe src="" width="640" height="480" allow="autoplay">
 </iframe>
 
 ## Background
 
-This lesson will focus on the correlation between a basketball statistic known as offensive rating and height. We will be begin by exploring the data and conducting some descriptive analysis and visualizations. Then we will answer our question using a linear regression. 
+This lesson will focus on the correlation between offensive rating and height. We will be begin by exploring the data and conducting some descriptive analysis and visualizations. Then we will answer our question using a linear regression. 
 
 And in this process we will use linear regression which compares two variables and checks to see if there is a correlation between the two.
 
-## Basketball Basic 
+### Basketball Basic 
 
 If you aren't familiar with Basketball, consider watching this [This is an introduction video]
 
@@ -32,16 +37,18 @@ The way that teams score points in basketball is by shooting the basketball into
 
 Another thing is that if a player is fouled when trying to score they are awarded free throws. This allows the player that got fouled a chance to shoot either 1, 2 or 3 free throws depending on shot and if it went in or not. The player stands behind a line know as the free throw line which is 15 feet from the hoop and is allowed to take 1, 2, or 3 shots at the hoop. 
 
-### Offensive Rating 
+
+### Offensive Rating
 
 To understand what is Offensive rating is in basketball it is important to understand what Per 100 Possession stats are since Offensive rating is build on per 100 possession stats.
 
 First lets define what a possession, a possession is everytime a player does one of four things: attempts a field goal, misses a shot and does not get the offensive rebound, turns the ball over, and goes to the foul line for 2 or 3 free throws. Now basketball is a very unfair sport in the sense that there is 10 players on the court at a time and only one ball so some players are going to have more possessions with the ball than other players leading to them having more possessions and thus a better per possession statistical line as they have had more opportunities with the ball. To balance this out basketball statistions have created something know as Per 100 Possession stats in which it looks at a players stats if they had 100 possessions. This creates a equal way to compare players as now every player has ben put on the same baseline.
 
-Now that we have defined what Per 100 Possession is lets define what Offensive rating is and how it builds off of Per 100 Possession. Offensive rating is the number of points produced by a player per 100 total individual possessions. In other words it mean how many points would a player score in 100 possessions. To calculate this we find how many points a player produces divdied by his total possessions then multiply by 100. This gets us offensive rating which uses per 100 possession stats to create a wholestic statistical variable that allows us to judge a players overall offensive abilities compared to other players. The larger the number the more points they would score given 100 possessions. 
+Now that we have defined what Per 100 Possession is lets define what Offensive rating is and how it builds off of Per 100 Possession. Offensive rating is the number of points produced by a player per 100 total individual possessions. In other words it mean how many points would a player score in 100 possessions. To calculate this we find how many points a player produces divdied by his total possessions then multiply by 100. This gets us offensive rating which uses per 100 possession stats to create a hollistic statistical variable that allows us to judge a players overall offensive abilities compared to other players. The larger the number the more points they would score given 100 possessions. 
+ 
 
 
-## Data Exploration and Descriptive Analysis 
+## Data Exploration and Descriptive Analysis - Ricky
 
 For our analysis, we have combined 2 data sets to make sure that we have all necessary values. 
 
@@ -49,8 +56,8 @@ Our first data contains all players that have been drafted to the nba between 20
 
 We combined that with the College Basketball 2009-2021 + NBA Advanced Stats data set: <https://www.kaggle.com/datasets/adityak2003/college-basketball-players-20092021> which contains advanced offensive and defensive stats and important background information like the height of the players. 
 
-```{r, include = FALSE }
-# Join CBB and draft data, fix height stupidity
+```{r, include = FALSE}
+# Join CBB and draft data and fix height issue
 cbb_join <- cbb %>% 
   left_join(select(nba, PLAYER, TEAM), by = c("player_name" = "PLAYER")) %>% 
   mutate(drafted = case_when(is.na(TEAM) ~ "No",
@@ -65,42 +72,105 @@ cbb_join <- cbb %>%
          ht_total = ht_ft*12 + ht_in) %>% 
   mutate(ht_rev = case_when(ht == "Jun-00" ~ 72L,
                             TRUE ~ ht_total))
-
 ```
 
-Let's begin by exploring the data. The data is stored in a dataset called `
+Let's begin by exploring the data. The data is stored in a dataset called `cbb_join` which is the fully joined `cbb` and `nba` datasets. 
 
 ```{r head, exercise = TRUE, exercise.eval = FALSE}
-# Print the (first 1000 rows of) the data
-
+# Print the (first 50 rows of) the data
+head(cbb_join, 50)
 
 # Get a summary of the data
-
+summary(cbb_join)
 
 ```
 
-add code that asks questions about the dataset and what certain things meaning. 5 multiple choice questions
+```{r rows, echo=FALSE}
+question("What does each row represent?",
+  answer("Each teams college basketball stats"),
+  answer("A college basketball player's stats for a given season", correct = TRUE, 
+         message = "That's right! One row corresponds to one player's stats from one season. Most players have multiple rows in this data sets becuase most players compete for many seasons."),
+  answer("A Player's career college Basketball Stats"),
+  answer("A college basketball player's stats for a given game"),
+  allow_retry = TRUE
+)
+```
 
+Now that we now that each row represents a player's stats for one of their seasons, what does each column in the data set represent. 
 
+```{r q2, echo = FALSE} 
+question("What does `GP` represent",
+  answer("The number of games a player played that year", correct = TRUE),
+  answer("The number of shorts a player made that year"),
+  answer("The number of games a player played in their whole NCAAB career"))
 
+```
 
 ### Offensive Rating and Height Correlation 
-offensive rating blah blah
 
-code for the graph
+As we have already explained, offensive rating is how many points a player would score in 100 possessions. Now we are going to look at the linear relationship between height and adjusted offensive rating.
 
-code for a question about the graph 
+```{r graph}
+cbb_join %>% 
+  filter(Min_per > 5) %>%
+  ggplot(aes(x = ht_rev, y = adjoe)) +
+  geom_point() +
+  geom_smooth(method = "lm") +
+  xlim(c(60, 90)) +
+  labs(x = "height (inches)", y = "Adjusted Offensive Rating", title = "Height vs Adjusted Offensive Rating")
 
+```
 
-## Berkson's Bias _ Ricky
+```{r q3, echo=FALSE}
+question("What relationship does the linear regression show between height and offesnive rating?",
+  answer("negative and linear"),
+  answer("positive and exponential"),
+  answer("positive and linear", correct = TRUE, 
+         message = "That's right! This graph shows a weak, positive, linear relationship between height and adjusted offensive rating."),
+  answer("No relationship"),
+  allow_retry = TRUE
+)
+```
 
+As we can see in the graph, as the height of a player increases, so does their adjusted offensive rating in all NCAAB players. 
+
+## Berkson's Bias - Ricky
+
+Berkson's Bias is a type of selection Bias that occurs when a study sample is not representative of a population due to the method that subjects are selected.
+
+If selection is based on multiple factors (e.g., height and offensive skill), then analyzing only the selected group (e.g., NBA draftees) may falsely suggest a relationship between the variables that doesn’t hold in the broader population (e.g., all college players). This can lead to misleading conclusions about the impact of height on offensive performance.
 
 ### Analyzing NBA Draftees using Linear Regression 
 
+```{r }
+# Create scatterplot of pairs of variables to see correlations
+cbb_join %>% 
+  filter(Min_per > 5) %>%
+  # Remove comment from the line below to switch between only drafted players and all CBB
+  ggplot(aes(x = ht_rev, y = adjoe)) +
+  geom_point() +
+  geom_smooth(method = "lm") +
+  xlim(c(60, 90)) +
+  facet_wrap(~ drafted) +
+  labs(x = "Height (inches)", y = "Adjusted Offensive Rating", title = "Height vs Adjusted Offensive Rating Grouped by Draft Status")
+  #ylim(c(0, 100))
+```
+
+The graph on the left contains all NCAA basketball players whether they were drafted or not while the graph on the right contains only NCAA basketball players that were drafted. 
+
+
 ### Interpreting the Graph Results and Berkson's Bias
+
+```{r}
+ # Full CBB group
+  summary(lm(data = filter(cbb_join, Min_per > 5), formula = adjoe ~ ht_rev))
+
+  # Drafted group
+  summary(lm(data = filter(cbb_join, Min_per > 5, drafted == "Yes"), formula = adjoe ~ ht_rev))
+
+```
+
 
 ## Conclusion 
 
-### Berkson's Bias and College Basketball Players
-
-### Statistical Lesson
+## Statistical Lesson
