@@ -54,12 +54,34 @@ The way that teams score points in basketball is by shooting the basketball into
 To understand what is Offensive rating is in basketball it is important to understand what Per 100 Possession stats are since Offensive rating is build on per 100 possession stats. ### Let's shorten this section substantially (I've already tried somewhat) and include 1-2 multiple choice or checkbox questions on why per possession stats are needed rather than just raw points scored to make it more interactive. Much of the next paragraph could become a question, for example. ###
 
 First lets define what an individual possession is. One possession is counted every time a player does one of four things: scores via a field goal (2 or 3-point shot), made free throw, or assist to another player who scores; misses a shot and the defense gets a rebound; misses free throws and the defense gets a rebound; or turns the ball over to the defense without taking a shot. In basketball there are 10 players on the court at a time and only one ball, so some players are going to have more possessions with the ball than other players leading to them having more chances to score more points. To compare players on a more equal footing basketball statisticians created "Per 100 Possession" stats which describe every player's performance as if they had 100 possessions.
+```{r per100question, echo = FALSE}
+
+question("Why would analytics use per 100 poessession stats compared to raw counting stats",
+         answer("To compare players more fairly", correct = TRUE),
+         answer("To reward players that get the ball alot"),
+         answer("To inflate all players counting stats"),
+         answer("To measure how entertaining a player is"),
+         allow_retry = TRUE
+)
+
+```
 
 Offensive rating is one such statistic.
 
 Offensive rating is the number of points produced by a player per 100 total individual possessions. In other words it describes how many points a player would score in 100 possessions. To calculate this we find how many points a player produces - either by scoring 2 or 3-point field goals, making free throws, assisting other players in scoring, or snagging offensive rebounds - divided by their total possessions, then multiply by 100. The larger the number the more points they would score given 100 possessions.
 
 Adjusted offensive rating corrects for the fact that each team plays different levels of opponents. Adjusted offensive rating is the amount of points that the player would score on a league average defense given 100 possessions. 
+```{r adjustedquestion, echo = FALSE}
+
+question("What is the advantage of wanting to use Adjusted Offensive rating compare to base offensive rating",
+         answer("It adjusts for the amount of games someone played"),
+         answer("It only includes the games in which the player wins"),
+         answer("It account for the strength of the defense's a player plays against", correct = TRUE,
+                message="Accouting for the strength of the defense is important as scoring 100 points on the best defense is much harder than scoring 100 points on the worst defense"),
+         answer("It accounts for the strength of the offensive a player plays with")
+         )
+
+```
 
 ### Height in Basketball
 
@@ -386,6 +408,26 @@ Now let's look at this same regression just for NBA draftees.
   # Drafted group
   summary(lm(data = filter(cbb_join, Min_per > 5, drafted == "Yes"), formula = adjoe ~ ht_rev))
 
+```
+```{r conclusionquestion, echo=FALSE}
+question_text(
+  "In the end, we can conclude that when only looking at drafted players: ",
+  answer("", correct = TRUE),
+  rows = 5,
+  correct = NULL,
+  incorrect = NULL,
+  message = "Example correct answer: We saw a decrease in .03 in adjusted offensive rating per additional inch in height as out least squares regeession line is 119.02915 - 0.03(height in inches)."
+)
+
+
+question_text(
+  "How should front offices consider the Berkson's Bias relationship between height and offensive rating: ",
+  answer("", correct = TRUE),
+  rows = 5,
+  correct = NULL,
+  incorrect = NULL,
+  message = "Example correct answer: front offices may be more willing to overlook players with worse offensive skills because their height is such an advantage but shorter players need ot be good at offense otherwise they have a low chance to be drafted."
+)
 ```
 
 When looking only at drafted players, our least squares regression line had an equation of 119.02915 - 0.03 (height in inches) which means that for every additional inch in height we saw a decrease in .03 in adjusted offensive rating. ### Instead of this paragraph, see if you can write a question challenging students to describe the association in drafted players themselves. ###
