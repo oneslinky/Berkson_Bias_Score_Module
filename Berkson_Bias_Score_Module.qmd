@@ -19,11 +19,11 @@ nba <- read_excel("DraftedPlayers2009-2021.xlsx")
 
 Please watch this intro video from \_\_\_\_\_\_\_\_ to learn more about the question we'll be investigating today!
 
-In Basketball, many factors influence the success of a player is determined off of many factors, their shooting ability, athleticism, basketball IQ, and many physical attributes such as **height**.
+In Basketball, many factors influence the success of a player is determined off of many factors, including their shooting ability, athleticism, basketball IQ, and many physical attributes such as **height**.
 
-The combination of those factors determine how effective a player is on offense and defense, and the probability of them getting drafted into the NBA. 
+The combination of those factors determines how effective a player is on offense and defense, and the probability of them getting drafted into the NBA. 
 
-The height of a player influences how large of an asset they can be to a team, a tall player can get more rebounds and score more in the paint. Height is one of the biggest advantages in basketball, and often is a trait that teams are looking for. 
+The height of a player influences how large of an asset they can be to a team; a tall player can get more rebounds and score more in the paint. Height is one of the biggest advantages in basketball, and often is a trait that teams are looking for. 
 
 
 <iframe src width="640" height="480" allow="autoplay">
@@ -34,11 +34,11 @@ The height of a player influences how large of an asset they can be to a team, a
 
 This lesson will focus on the correlation between offensive rating and height.
 
-You might expect there to be a positive correlation between offensive rating and height as generally taller basketball players will be better. And indeed there *is* a modest positive correlation between these variables in college basketball players. But when we get to the more elite NBA players, this disappears - taller NBA players were no better on offense in college than their shorter counterparts! In fact they may even have been worse! How could that be?! This module will explain this counterintuitive finding.
+You might expect there to be a positive correlation between offensive rating and height, as generally taller basketball players will be better. And indeed there *is* a modest positive correlation between these variables in college basketball players. But when we get to the more elite NBA players, this disappears - taller NBA players were no better on offense in college than their shorter counterparts! In fact, they may even have been worse! How could that be?! This module will explain this counterintuitive finding.
 
 We will be begin by exploring some data on college basketball and the NBA draft by conducting some descriptive analyses and visualizations. Then we will answer our question using a concept called Berkson's bias.
 
-In this process we will also use linear regression to estimate the association between height and adjusted offensive rating, two continuous variables.
+In this process, we will also use linear regression to estimate the association between height and adjusted offensive rating, two continuous variables.
 
 ### Basketball Basics
 
@@ -46,14 +46,14 @@ If you aren't familiar with Basketball, consider watching [this introduction vid
 
 In a typical National Collegiate Athletic Association (NCAA) or professional National Basketball Association (NBA) game there are two teams of 5 people trying to shoot the basketball in their opponent's hoop to score points and to see who has more points at the end of either two 20-minute halves (NCAA) or four 12-minute quarters (NBA). The two teams take turns trying to score on one another. 
 
-The way that teams score points in basketball is by shooting the basketball into the basket. "Baskets" are worth varying numbers of points. On the court there is a curved line on each half of the court. Shots/baskets that are made from inside this curved line are worth 2 points while shots that are made outside of the curved line are worth 3 points. After certain fouls players may also be awarded 1-3 undefended "free throws" 15 feet directly in front of the hoop; each one made is worth 1 point.
+The way that teams score points in basketball is by shooting the basketball into the basket. "Baskets" are worth varying numbers of points. On the court there is a curved line on each half of the court. Shots/baskets that are made from inside this curved line are worth 2 points, while shots that are made outside of the curved line are worth 3 points. After certain fouls, players may also be awarded 1-3 undefended "free throws" 15 feet directly in front of the hoop; each one made is worth 1 point.
 
 
 ### Offensive Rating
 
-To understand what is Offensive rating is in basketball it is important to understand what Per 100 Possession stats are since Offensive rating is build on per 100 possession stats. ### Let's shorten this section substantially (I've already tried somewhat) and include 1-2 multiple choice or checkbox questions on why per possession stats are needed rather than just raw points scored to make it more interactive. Much of the next paragraph could become a question, for example. ###
+To understand Offensive rating in basketball, it is important to understand Per 100 Possession stats since Offensive rating is built on Per 100 Possession stats. ### Let's shorten this section substantially (I've already tried somewhat) and include 1-2 multiple choice or checkbox questions on why per possession stats are needed rather than just raw points scored to make it more interactive. Much of the next paragraph could become a question, for example. ###
 
-First lets define what an individual possession is. One possession is counted every time a player does one of four things: scores via a field goal (2 or 3-point shot), made free throw, or assist to another player who scores; misses a shot and the defense gets a rebound; misses free throws and the defense gets a rebound; or turns the ball over to the defense without taking a shot. In basketball there are 10 players on the court at a time and only one ball, so some players are going to have more possessions with the ball than other players leading to them having more chances to score more points. To compare players on a more equal footing basketball statisticians created "Per 100 Possession" stats which describe every player's performance as if they had 100 possessions.
+First, let's define what an individual possession is. One possession is counted every time a player does one of four things: scores via a field goal (2 or 3-point shot), made free throw, or assist to another player who scores; misses a shot and the defense gets a rebound; misses free throws and the defense gets a rebound; or turns the ball over to the defense without taking a shot. In basketball, there are 10 players on the court at a time and only one ball, so some players have more possessions with the ball than others, causing them to have more chances to score. To compare players on an equal footing, basketball statisticians created "Per 100 Possession" stats, which describe every player's performance as if they had 100 possessions.
 ```{r per100question, echo = FALSE}
 
 question("Why would analytics use per 100 poessession stats compared to raw counting stats",
@@ -68,9 +68,9 @@ question("Why would analytics use per 100 poessession stats compared to raw coun
 
 Offensive rating is one such statistic.
 
-Offensive rating is the number of points produced by a player per 100 total individual possessions. In other words it describes how many points a player would score in 100 possessions. To calculate this we find how many points a player produces - either by scoring 2 or 3-point field goals, making free throws, assisting other players in scoring, or snagging offensive rebounds - divided by their total possessions, then multiply by 100. The larger the number the more points they would score given 100 possessions.
+Offensive rating is the number of points produced by a player per 100 total individual possessions. In other words, it describes how many points a player would score in 100 possessions. To calculate this, we find how many points a player produces - either by scoring 2 or 3-point field goals, making free throws, assisting other players in scoring, or snagging offensive rebounds - divided by their total possessions, then multiply by 100. The larger the number, the more points they would score given 100 possessions.
 
-Adjusted offensive rating corrects for the fact that each team plays different levels of opponents. Adjusted offensive rating is the amount of points that the player would score on a league average defense given 100 possessions. 
+Adjusted offensive rating corrects for the fact that each team plays different levels of opponents. Adjusted offensive rating is the amount of points that the player would score on a league-average defense given 100 possessions. 
 ```{r adjustedquestion, echo = FALSE}
 
 question("What is the advantage of wanting to use Adjusted Offensive rating compare to base offensive rating",
@@ -87,19 +87,19 @@ question("What is the advantage of wanting to use Adjusted Offensive rating comp
 
 Height is one of the most important physical attributes in basketball, it affects a player's ability to score and defend. Basketball favors taller players due to the height of the basket (10 feet) and the vertical nature of the sport. Height influences key aspects of basketball such as shooting, rebounding, and shot-blocking.
 
-From an offensive perspective, taller players have a advantage near the basket since they can shoot over players and score more easily with dunks and layups. They also can secure offensive rebounds and keep a possession alive, allowing for second-chance scoring opportunities. Defensively, taller players can more easily contest shots and protect the rim, leading to more rebounds.
+From an offensive perspective, taller players have an advantage near the basket since they can shoot over players and score more easily with dunks and layups. They can also secure offensive rebounds and keep a possession alive, allowing for second-chance scoring opportunities. Defensively, taller players can more easily contest shots and protect the rim, leading to more rebounds.
 
 ## Data Exploration and Descriptive Analysis
 
 For our analysis, we have combined 2 data sets.
 
-Our first data set contains data on [most NCAA college basketball players for each season from 2009-2021](https://www.kaggle.com/datasets/adityak2003/college-basketball-players-20092021). For each player and season there is data on advanced offensive and defensive stats as well as player height and other information.
+Our first data set contains data on [most NCAA college basketball players for each season from 2009-2021](https://www.kaggle.com/datasets/adityak2003/college-basketball-players-20092021). For each player and season, there is data on advanced offensive and defensive stats as well as player height and other information.
 
 We combined that with NBA draft data that contains a [list of all players that were drafted to the NBA during that same time frame](https://www.kaggle.com/datasets/adityak2003/college-basketball-players-20092021?resource=download&select=DraftedPlayers2009-2021.xlsx). This data set also contains other information like pick number and what college each player attended.
 
-Note in our data adjusted offensive rating is actually termed adjusted offensive *efficiency* and named `adjoe`. But `adjoe` just means adjusted offensive rating.
+Note in our data adjusted offensive rating is termed adjusted offensive *efficiency* and named `adjoe`. But `adjoe` just means adjusted offensive rating.
 
-First we want to combine these two datasets. The result still has one row per player per season, however, and we want to get one row per player (to describe a player's complete college career).
+First, we want to combine these two datasets. The result still has one row per player per season, however, and we want to get one row per player (to describe a player's complete college career).
 
 ```{r, include = FALSE}
 # First few rows of original cbb data
@@ -130,12 +130,14 @@ cbb_join <- cbb %>%
                             TRUE ~ ht_total)) %>% 
   mutate(player_name = str_to_upper(player_name),
          min_total = GP*Min_per,
+## Technically, we should exclude players who were freshmen or sophomores in 2021 because they haven't had a full chance to get drafted yet, but that would make our data set very messy and it's a small part of our large data set so the effect is negligible. 
          yr = case_when(yr == "Fr" ~ 1,
                         yr == "So" ~ 2,
                         yr == "Jr" ~ 3,
                         yr == "Sr" ~ 4,
                         TRUE ~ NA_real_),
          adjoe_wt_num = adjoe*min_total) %>% 
+  ## Create summary statistics for the number of games played, the year (grade), height in inches, and `adjoe` per season
   group_by(player_name, drafted) %>% 
   summarize(GP = sum(GP),
             min_total = sum(min_total), 
@@ -157,7 +159,7 @@ cbb_join <- cbb %>%
 ### I added some code for all this above because it's tricky, but I'd like you to comment it and add the note in the text I mentioned.
 ```
 
-Let's continue by exploring the data. The data is stored in a dataset called `cbb_join` which is the fully joined `cbb` and `nba` data sets.
+Let's continue by exploring the data. The data is stored in a dataset called `cbb_join`, which is the fully joined `cbb` and `nba` data sets.
 
 ```{r head, exercise = TRUE, exercise.eval = FALSE}
 # Print the (first 50 rows of) the data
@@ -180,36 +182,37 @@ question("What does each row represent?",
 )
 ```
 
-Now that we now that each row represents a player's stats for one of their seasons, what does each column in the data set represent. 
+Now that we now that each row represents a player's stats for one of their seasons, what does each column in the data set represent? 
 
 ```{r q2, echo = FALSE}
-question("What does `GP` represent",
-  answer("The number of games a player played that year", correct = TRUE),
+question("What does `GP` represent?",
+  answer("The number of games a player played that year", correct = TRUE, 
+message = "That's right! The `GP` variable describes the number of games that an individual played in that year."),
   answer("The number of shots a player made that year"),
   answer("The number of games a player played in their whole NCAAB career"))
 
 ```
 
 ```{r q3, echo = FALSE}
-question("What does `min_total` represent",
+question("What does `min_total` represent?",
   answer("The average number of minutes that a player played in their whole career"),
-  answer("The average number of minutes that a player played in that season", correct = TRUE),
+  answer("The average number of minutes that a player played in that season", correct = TRUE, message = "That's right! The `min_total` variable represents the **average** number of minutes that a player had in a season per game.),
   answer("The average number of minutes that a player played in an individual game"))
 
 ```
 
 ```{r q4, echo = FALSE}
-question("What does `adjoe` represent",
+question("What does `adjoe` represent?",
   answer("The average adjusted offensive efficency rating for a player in a given game"),
   answer("The average adjusted defensive efficency rating for a player in a given season"),
-  answer("The average adjusted offensive efficency rating for a player in a given season", correct = TRUE))
+  answer("The average adjusted offensive efficency rating for a player in a given season", correct = TRUE, message = "That's correct! The variable `adjoe` stands for the average adjusted offensive efficiency rating for a player in a given season."))
 
 ```
 
 ```{r q5, echo = FALSE}
 question("What does `ht_rev` represent",
   answer("The height of an individual player in feet"),
-  answer("The height of a player in inches", correct = TRUE),
+  answer("The height of a player in inches", correct = TRUE, message = "That's right! We recoded the variable `ht_rev` to represent the height of a player in inches."),
   answer("The height of a player in feet and inches"))
 
 ```
@@ -219,14 +222,13 @@ question("What does `ht_rev` represent",
 As we have already explained, offensive rating is an estimate of how many points a player would score in 100 possessions. Now we are going to visualize the association between these two variables among *all men's NCAA basketball players* in a scatterplot. We will also include a line depicting an estimated simple linear regression between the two variables.
 
 ```{r graph}
-### ADD SOME COMMENTS TO THIS CODE FOR USERS NOT FAMILIAR WITH R ###
 cbb_join %>% 
-  filter(Min_per > 5) %>%
-  ggplot(aes(x = ht_rev, y = adjoe)) +
-  geom_point() +
-  geom_smooth(method = "lm") +
-  xlim(c(60, 90)) +
-  labs(x = "height (inches)", y = "Adjusted Offensive Rating", title = "Height vs Adjusted Offensive Rating")
+  filter(Min_per > 5) %>% ## only include players averaging greater than 5 mins per game
+  ggplot(aes(x = ht_rev, y = adjoe)) + # Set height as the x-axis and adjoe as the y axis
+  geom_point() + # plot each point on the graph
+  geom_smooth(method = "lm") + # fit a linear regression line through the plot
+  xlim(c(60, 90)) + # Set the min and max values for the x axis
+  labs(x = "height (inches)", y = "Adjusted Offensive Rating", title = "Height vs Adjusted Offensive Rating") # Set the names of the axes
 
 ```
 
@@ -241,16 +243,15 @@ question("What relationship does the linear regression show between height and o
 )
 ```
 
-As we can see in the graph, among all men's college basketball players, as the height of a player increases their adjusted offensive rating also rises modestly (about 0.35 points per 100 possessions for each 1-inch increase in height, it turns out).
+In the graph among all men's college basketball players, as the height of a player increases, their adjusted offensive rating also rises modestly (about 0.35 points per 100 possessions for each 1-inch increase in height, it turns out).
 
 ### College Offensive Rating and Height Correlation in Players Drafted Into the NBA
 
-Now let's look at this same relationship for a more elite group of players who were drafted into the NBA. Importantly, NBA teams tend to prefer players who are taller and players with higher adjusted offensive ratings. ### You guys modify the rest of this section ### 
+Now let's look at this same relationship for a more elite group of players who were drafted into the NBA. Importantly, NBA teams tend to prefer taller players and players with higher adjusted offensive ratings. ### You guys modify the rest of this section ### 
 
 ```{r graph}
-### ADD SOME COMMENTS TO THIS CODE FOR USERS NOT FAMILIAR WITH R ###
 cbb_join %>% ### The data set we will be using to formulate a graph
-  filter(Min_per > 5) %>% ## Only include players who averaged greater than 5 minutes per game
+  filter(Min_per > 5, drafted == "Yes") %>% ## Only include players who averaged greater than 5 minutes per game
   ggplot(aes(x = ht_rev, y = adjoe)) + #Plot height on the x-axis and offensive Rating on the Y-axis
   geom_point() + # Add a data point on the plot for each row in our data set
   geom_smooth(method = "lm") + # Create a linear regression line through the data
@@ -260,17 +261,17 @@ cbb_join %>% ### The data set we will be using to formulate a graph
 ```
 
 ```{r q3, echo=FALSE}
-question("What relationship does the linear regression show between height and offensive rating in NCAA college basketball players?",
-  answer("negative and linear"),
+question("What relationship does the linear regression show between height and offensive rating in NCAA college basketball players drafted into the NBA?",
+  answer("negative and linear", correct = TRUE, 
+         message = "That's right! This graph shows a modest but negative linear relationship between height and adjusted offensive rating in NCAA Basketball players drafted into the NBA. It is also statistically significant, as we will see later."),
   answer("positive and exponential"),
-  answer("positive and linear", correct = TRUE, 
-         message = "That's right! This graph shows a modest but positive linear relationship between height and adjusted offensive rating. It is also statistically significant as we will see later."),
+  answer("positive and linear"),
   answer("No relationship"),
   allow_retry = TRUE
 )
 ```
 
-As we can see in the graph, among all men's college basketball players, as the height of a player increases their adjusted offensive rating also rises modestly (about 0.3 units for each 1-inch increase in height, it turns out).
+As we can see in the graph, among all men's college basketball players who were **drafted into the NBA**, as the height of a player increases, their adjusted offensive rating **decreases** modestly (about -0.22 units for each 1-inch increase in height, it turns out).
 
 ```{r conclusion_ncaavsnba, echo = FALSE}
 
@@ -292,11 +293,11 @@ All studies are conducted on a sample of people (or other units) from a bigger p
 
 Berkson's Bias is a type of selection bias that occurs when you are trying to correlate two variables, but your sample is selected on both of them. If both variables make selection into your sample more likely, then the correlation in your sample will be *negatively biased* versus the broader population it was drawn from. ### Do you guys think college admissions would be an easier example for our intended audience to relate to? I kind of do but am open. If you agree, re-write the below for that example. You can keep the same plot, just modify the labels. ###
 
-A clear example of Berkson's Bias is in actors. Actors are chosen based off a variety of factors, including their acting skill and attractiveness. If someone is very attractive or very good at acting they are likely to be selected and become a successful actor. If someone is very attractive and mediocre at acting, they will likely become an actor because their attractiveness makes up for their acting skills. Vice versa, if someone is a very good actor but is only moderately attractive they will likely become a successful actor because their acting skills outweigh their attractiveness.
+A clear example of Berkson's Bias in college admissions for higher-tier Universities. Whether or not a student is admitted into college is based on various factors, including their GPA and SAT/ACT scores. If someone has a very high GPA or a very high SAT score, a student is very likely to receive admission into a school. If someone has a very high SAT score, that can make up for a lower GPA and can result in the student still getting admitted into the University. Vice versa, if a student has a low SAT score but a very high GPA, they will still get admitted. If a student has a very high GPA and a very high SAT score, they will likely choose a better University. 
 
-This selection bias leads to a negative correlation in acting skills and attractiveness; however, this negative correlation is created by selection and is not representative of the population.
+This selection bias leads to a negative correlation in SAT and GPA of **students admitted into college**; however, this negative correlation is created by selection and is not representative of the entire population of students applying to college. 
 
-![Berkson's Bias Example](Collider_bias.png) ### Assuming this is the Hollywood actors' plot from my lecture? But can't see. ###
+![Berkson's Bias Example](Berksons_College.png) ### Assuming this is the Hollywood actors' plot from my lecture? But can't see. ###
 
 The same thing is happening in our basketball players!
 
