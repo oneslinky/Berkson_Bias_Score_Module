@@ -194,10 +194,10 @@ allow_retry = TRUE)
 
 ```
 
-```{r q3, echo = FALSE}
+```{r q35, echo = FALSE}
 question("What does `min_total` represent?",
   answer("The average number of minutes that a player played in their whole career"),
-  answer("The average number of minutes that a player played in that season", correct = TRUE, message = "That's right! The `min_total` variable represents the **average** number of minutes that a player had in a season per game.),
+  answer("The average number of minutes that a player played in that season", correct = TRUE, message = "That's right! The `min_total` variable represents the **average** number of minutes that a player had in a season per game."),
   answer("The average number of minutes that a player played in an individual game"),
 allow_retry = TRUE)
 
@@ -212,7 +212,7 @@ allow_retry = TRUE)
 
 ```
 
-```{r q5, echo = FALSE}
+```{r q55, echo = FALSE}
 question("What does `ht_rev` represent",
   answer("The height of an individual player in feet"),
   answer("The height of a player in inches", correct = TRUE, message = "That's right! We recoded the variable `ht_rev` to represent the height of a player in inches."),
@@ -253,7 +253,7 @@ In the graph among all men's college basketball players, as the height of a play
 
 Now let's look at this same relationship for a more elite group of players who were drafted into the NBA. Importantly, NBA teams tend to prefer taller players and players with higher adjusted offensive ratings. ### You guys modify the rest of this section ### 
 
-```{r graph}
+```{r graph10}
 cbb_join %>% ### The data set we will be using to formulate a graph
   filter(Min_per > 5, drafted == "Yes") %>% ## Only include players who averaged greater than 5 minutes per game
   ggplot(aes(x = ht_rev, y = adjoe)) + #Plot height on the x-axis and offensive Rating on the Y-axis
@@ -264,7 +264,7 @@ cbb_join %>% ### The data set we will be using to formulate a graph
 
 ```
 
-```{r q3, echo=FALSE}
+```{r q36, echo=FALSE}
 question("What relationship does the linear regression show between height and offensive rating in NCAA college basketball players drafted into the NBA?",
   answer("negative and linear", correct = TRUE, 
          message = "That's right! This graph shows a modest but negative linear relationship between height and adjusted offensive rating in NCAA Basketball players drafted into the NBA. It is also statistically significant, as we will see later."),
