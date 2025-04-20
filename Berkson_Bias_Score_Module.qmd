@@ -17,7 +17,14 @@ nba <- read_excel("DraftedPlayers2009-2021.xlsx")
 
 ## Welcome
 
-Please watch this intro video from \_\_\_\_\_\_\_\_ to learn more about the question we'll be investigating today! ### Try writing a rough draft of a script for this intro video. Review the tennis module video for an example. ###
+Please watch this intro video from \_\_\_\_\_\_\_\_ to learn more about the question we'll be investigating today!
+
+In Basketball, many factors influence the success of a player is determined off of many factors, their shooting ability, athleticism, basketball IQ, and many physical attributes such as **height**.
+
+The combination of those factors determine how effective a player is on offense and defense, and the probability of them getting drafted into the NBA. 
+
+The height of a player influences how large of an asset they can be to a team, a tall player can get more rebounds and score more in the paint. Height is one of the biggest advantages in basketball, and often is a trait that teams are looking for. 
+
 
 <iframe src width="640" height="480" allow="autoplay">
 
