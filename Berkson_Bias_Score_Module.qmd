@@ -189,7 +189,8 @@ question("What does `GP` represent?",
   answer("The number of games a player played that year", correct = TRUE, 
 message = "That's right! The `GP` variable describes the number of games that an individual played in that year."),
   answer("The number of shots a player made that year"),
-  answer("The number of games a player played in their whole NCAAB career"))
+  answer("The number of games a player played in their whole NCAAB career"),
+allow_retry = TRUE)
 
 ```
 
@@ -197,7 +198,8 @@ message = "That's right! The `GP` variable describes the number of games that an
 question("What does `min_total` represent?",
   answer("The average number of minutes that a player played in their whole career"),
   answer("The average number of minutes that a player played in that season", correct = TRUE, message = "That's right! The `min_total` variable represents the **average** number of minutes that a player had in a season per game.),
-  answer("The average number of minutes that a player played in an individual game"))
+  answer("The average number of minutes that a player played in an individual game"),
+allow_retry = TRUE)
 
 ```
 
@@ -205,7 +207,8 @@ question("What does `min_total` represent?",
 question("What does `adjoe` represent?",
   answer("The average adjusted offensive efficency rating for a player in a given game"),
   answer("The average adjusted defensive efficency rating for a player in a given season"),
-  answer("The average adjusted offensive efficency rating for a player in a given season", correct = TRUE, message = "That's correct! The variable `adjoe` stands for the average adjusted offensive efficiency rating for a player in a given season."))
+  answer("The average adjusted offensive efficency rating for a player in a given season", correct = TRUE, message = "That's correct! The variable `adjoe` stands for the average adjusted offensive efficiency rating for a player in a given season."),
+allow_retry = TRUE)
 
 ```
 
@@ -213,7 +216,8 @@ question("What does `adjoe` represent?",
 question("What does `ht_rev` represent",
   answer("The height of an individual player in feet"),
   answer("The height of a player in inches", correct = TRUE, message = "That's right! We recoded the variable `ht_rev` to represent the height of a player in inches."),
-  answer("The height of a player in feet and inches"))
+  answer("The height of a player in feet and inches"),
+allow_retry = TRUE)
 
 ```
 
@@ -295,11 +299,11 @@ Berkson's Bias is a type of selection bias that occurs when you are trying to co
 
 A clear example of Berkson's Bias in college admissions for higher-tier Universities. Whether or not a student is admitted into college is based on various factors, including their GPA and SAT/ACT scores. If someone has a very high GPA or a very high SAT score, a student is very likely to receive admission into a school. If someone has a very high SAT score, that can make up for a lower GPA and can result in the student still getting admitted into the University. Vice versa, if a student has a low SAT score but a very high GPA, they will still get admitted. If a student has a very high GPA and a very high SAT score, they will likely choose a better University. 
 
-This selection bias leads to a negative correlation in SAT and GPA of **students admitted into college**; however, this negative correlation is created by selection and is not representative of the entire population of students applying to college. 
+This selection bias leads to a negative correlation in SAT and GPA of **students admitted into certain colleges**; however, this negative correlation is created by selection and is not representative of the entire population of students applying to college. 
 
-![Berkson's Bias Example](Berksons_College.png) ### Assuming this is the Hollywood actors' plot from my lecture? But can't see. ###
+![Berkson's Bias Example](Berksons_College.png) 
 
-The same thing is happening in our basketball players!
+The same thing is happening with our basketball players!
 
 ```{r q5, echo=FALSE}
 question("In our basketball data above, which group represents our broader population, from which our sample that will be negatively biased is selected?",
@@ -333,11 +337,11 @@ question_text(
 )
 ```
 
-The underlying idea is that if a player is very tall NBA teams may still draft them even if their adjusted offensive efficiency in college was just "good" rather than "great." But if a player is not very tall they must have had something else - such as a really really great adjusted offensive efficiency - to make up for it. 
+The underlying idea is that if a player is very tall, NBA teams may still draft them even if their adjusted offensive efficiency in college was just "good" rather than "great." But if a player is not very tall, they must have had something else, such as a well above average adjusted offensive efficiency, to compensate. 
 
 That means shorter players will, on average, have needed a better offensive efficiency than taller players to make it into our group of drafted players. That is what biases our correlation downward from a small positive correlation to a small negative correlation.
 
-In other cases the bias might take us from a large positive correlation to a smaller positive correlation or no association. The only thing Berkson's bias guarantees is the correlation will be "pushed down" in the selected group.
+In other cases, the bias might take us from a large positive correlation to a smaller positive correlation or no association. The only thing Berkson's bias guarantees is that the correlation will be "pushed down" in the selected group.
 
 Note this also works in reverse. It is likely that if we looked at high school basketball players the correlation between height and adjusted offensive efficiency would be more positive than in college players because high school players are even less strongly selected for height and skill. If we were somehow able to measure all children who played basketball the correlation might be even more strongly positive!
 
@@ -348,28 +352,28 @@ Let's review our previous findings with our new knowledge of Berkson's bias in m
 ```{r }
 # Create scatterplot of adjusted offensive rating and height in all NCAA basketball players
 all_ncaa <- cbb_join %>% 
-  filter(Min_per > 5) %>%
-  ggplot(aes(x = ht_rev, y = adjoe)) +
-  geom_point() +
-  geom_smooth(method = "lm") +
-  xlim(c(60, 90)) +
-  labs(x = "Height (inches)", y = "Adjusted Offensive Rating", title = "Height vs Adjusted Offensive Rating  - All Men's College Players")
+  filter(Min_per > 5) %>% ## only include players who averaged > 5 mins per game
+  ggplot(aes(x = ht_rev, y = adjoe)) + # set the axes
+  geom_point() + # plot every data point on the graph
+  geom_smooth(method = "lm") + # Create a linear regression line through all the data
+  xlim(c(60, 90)) + # Set the min and maximum for the x axis (height in inches)
+  labs(x = "Height (inches)", y = "Adjusted Offensive Rating", title = "Height vs Adjusted Offensive Rating  - All Men's College Players") # set the names of the axes and the title
 
 # Create scatterplot of adjusted offensive rating and height in only NBA drafted college players
 draft_only <- cbb_join %>% 
-  filter(Min_per > 5, drafted == "Yes") %>%
-  ggplot(aes(x = ht_rev, y = adjoe)) +
-  geom_point() +
-  geom_smooth(method = "lm") +
-  xlim(c(60, 90)) +
-  labs(x = "Height (inches)", y = "Adjusted Offensive Rating", title = "Height vs Adjusted Offensive Rating  - All Men's College Players")
+  filter(Min_per > 5, drafted == "Yes") %>% ## only include players who averaged > 5 mins per game and those drafted into the nba
+  ggplot(aes(x = ht_rev, y = adjoe)) + # set the axes
+  geom_point() + # plot all the data points on the graph
+  geom_smooth(method = "lm") + # Create a linear regression line to go through all the data
+  xlim(c(60, 90)) + # set the min and max for the x axis
+  labs(x = "Height (inches)", y = "Adjusted Offensive Rating", title = "Height vs Adjusted Offensive Rating  - All Men's College Players") # label the axes and title of the graph appropriately 
   #ylim(c(0, 100))
 
 #Combine and print both plots
 plot_grid(all_ncaa, draft_only)
 ```
 
-The graph on the left contains all NCAA basketball players whether they were drafted or not while the graph on the right contains only NCAA basketball players that were drafted.
+The graph on the left contains all NCAA basketball players, whether they were drafted or not, while the graph on the right contains only NCAA basketball players who were drafted.
 
 ```{r q7, echo=FALSE}
 question("How would you summarize our findings in these scatterplots?",
@@ -392,12 +396,12 @@ Now let's explicitly calculate the associations between height and adjusted offe
 
 There is a lot of output here, but the key information is located in the Coefficients table.
 
-Our linear regression model uses height to predict adjusted offensive rating using a formula that looks very much the equation for a straight line, `y = mx + b`:
+Our linear regression model uses height to predict adjusted offensive rating using a formula that looks very much like the equation for a straight line, `y = mx + b`:
 
 $$AdjOffRtg=β0 + β1*Height $$
 (Note we are ignoring error terms here for simplicity.)
 
-The Estimate column of the Coefficient table contains the numbers needed for our equation. The `(Intercept)` line is β0 while the `ht_rev` line is β1. Thus the equation is:
+The Estimate column of the Coefficient table contains the numbers needed for our equation. The `(Intercept)` line is β0 while the `ht_rev` line is β1. Thus, the equation is:
 
 $$AdjOffRtg=67.77 + 0.35*Height $$
 
@@ -417,7 +421,7 @@ question_text(
   rows = 5,
   correct = NULL,
   incorrect = NULL,
-  message = "Example correct answer: We saw a decrease in .03 in adjusted offensive rating per additional inch in height as out least squares regeession line is 119.02915 - 0.03(height in inches)."
+  message = "Example correct answer: We saw a decrease of .03 in adjusted offensive rating per additional inch in height, as our least squares regression line is 137.0104 - 0.22(height in inches)."
 )
 
 
@@ -427,13 +431,11 @@ question_text(
   rows = 5,
   correct = NULL,
   incorrect = NULL,
-  message = "Example correct answer: front offices may be more willing to overlook players with worse offensive skills because their height is such an advantage but shorter players need ot be good at offense otherwise they have a low chance to be drafted."
+  message = "Example correct answer: front offices may be more willing to overlook players with worse offensive skills because their height is such an advantage, but shorter players need ot be good at offense otherwise they have a low chance to be drafted."
 )
 ```
 
-When looking only at drafted players, our least squares regression line had an equation of 119.02915 - 0.03 (height in inches) which means that for every additional inch in height we saw a decrease in .03 in adjusted offensive rating. ### Instead of this paragraph, see if you can write a question challenging students to describe the association in drafted players themselves. ###
-
-This is another way to illustrate Berkson's bias. When drafting players, front offices are willing to overlook lowered stats in one category for benefits in another category. Therefore, taller players can afford to have worse offensive skills because their height is such an advantage, but shorter players need to be good at offense otherwise they will not get drafted.
+This is another way to illustrate Berkson's bias. When drafting players, front offices are willing to overlook lowered stats in one category for benefits in another category. Therefore, taller players can afford to have worse offensive skills because their height is such an advantage, but shorter players need to be good at offense, otherwise they will not get drafted.
 
 ## Conclusion
 
