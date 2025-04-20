@@ -220,13 +220,13 @@ Now let's look at this same relationship for a more elite group of players who w
 
 ```{r graph}
 ### ADD SOME COMMENTS TO THIS CODE FOR USERS NOT FAMILIAR WITH R ###
-cbb_join %>% 
-  filter(Min_per > 5) %>%
-  ggplot(aes(x = ht_rev, y = adjoe)) +
-  geom_point() +
-  geom_smooth(method = "lm") +
-  xlim(c(60, 90)) +
-  labs(x = "height (inches)", y = "Adjusted Offensive Rating", title = "Height vs Adjusted Offensive Rating")
+cbb_join %>% ### The data set we will be using to formulate a graph
+  filter(Min_per > 5) %>% ## Only include players who averaged greater than 5 minutes per game
+  ggplot(aes(x = ht_rev, y = adjoe)) + #Plot height on the x-axis and offensive Rating on the Y-axis
+  geom_point() + # Add a data point on the plot for each row in our data set
+  geom_smooth(method = "lm") + # Create a linear regression line through the data
+  xlim(c(60, 90)) + #Set limits for the maximum and minimum height included in our plot
+  labs(x = "height (inches)", y = "Adjusted Offensive Rating", title = "Height vs Adjusted Offensive Rating") #Provide names for the different axis
 
 ```
 
