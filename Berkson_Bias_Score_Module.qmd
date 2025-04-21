@@ -439,7 +439,18 @@ This is another way to illustrate Berkson's bias. When drafting players, front o
 
 ## Conclusion
 
-One explanation on why there is Berkson's Bias for this data is because of how complicated the draft process is in the NBA. It is easier for taller players to score because they can easily score inside the paint, and their shots aren't as contested. Therefore, in the general population, being taller should have a positive correlation with adjusted offensive rating. But when drafting NBA team front offices look at a lot more than just one statistical category. ### Have not edited from here down, will do so in the next round once we get everything above solidified. But one thing I would like you to do is add "concluding" free response questions to each of these sections like in the tennis module. Also would like you add a note that Berkson's bias does not mean we technically get the wrong correlation. The negative correlation, for example, *is correct for NBA draftees*. It just may run counter to what we expect and cannot be generalized to other groups, so we must be very very careful in interpreting it. ### 
+One explanation on why there is Berkson's Bias for this data is because of how complicated the draft process is in the NBA. It is easier for taller players to score because they can easily score inside the paint, and their shots aren't as contested. Therefore, in the general population, being taller should have a positive correlation with adjusted offensive rating. But when drafting NBA team front offices look at a lot more than just one statistical category. 
+```{r conclusion_stats, echo = FALSE}
+
+question_text(
+  "What does the Berkson's Bias relationship found here explain about berkson bias and how does it explain the answer to the question initially presented",
+  answer("", correct = TRUE),
+  rows = 5,
+  correct = NULL,
+  incorrect = NULL,
+  message = "Example correct answer: The berkson's bias shows that which we did not find the wrong correlation but rather when we look at a specific subset of the general population the negative correlation is the correct correlation but it just runs counter to what we expect to see in the general populaiotn and this negative correlation cannont be generalized to the general population. So when we interpret this relationship we need to be careful about applying the negative correlation to the general population where it is actually a positive correlation. "
+)
+```
 
 One thing that NBA front offices look at is physical attributes as player with better physical attributes have a higher potential to be good players. This is because many NBA front offices have a very extensive training staff that can help these physically gifted athletes develop into good NBA players. Thus front offices are more open to overlooking college statistics if there is something else that could hint that the player would be good in the NBA. One of these things is height due to the nature of basketball and how being taller in basketball gives players an inherent advantage as the basket is in the air.
 
